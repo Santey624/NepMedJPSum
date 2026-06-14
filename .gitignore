@@ -1,32 +1,52 @@
-# API keys / secrets
+# ── Secrets ───────────────────────────────────────────────────────────────────
 fine-tuning/.env
+fine_tuning/.env
+*.env
+.env.*
 
-# Model checkpoints and weights
+# ── Model checkpoints & weights ───────────────────────────────────────────────
 pre-training/mt5-pretrain/
+pretraining/mt5-pretrain/
 *.safetensors
 *.pt
 *.bin
 *.ckpt
 
-# Large dataset files
+# ── Large dataset files ───────────────────────────────────────────────────────
 huggingface_translation/
 pre-training/pre-trainingdataset/
+pretraining/pre-trainingdataset/
 fine-tuning/pmc_data/
+fine_tuning/pmc_data/
 fine-tuning/fine-tuning-data/
+fine_tuning/fine-tuning-data/
 
-# Generated coverage/results data
+# ── Generated results / logs ──────────────────────────────────────────────────
 fine-tuning/pmc_coverage.jsonl
+fine_tuning/pmc_coverage.jsonl
 fine-tuning/pmc_coverage_generalized.jsonl
-fine-tuning/run_all_pmc.log
-fine-tuning/generalize_notfound.log
+fine_tuning/pmc_coverage_generalized.jsonl
+*.log
+rejected_records.log
 
-# Python environment
-.conda/
+# ── Benchmark data ────────────────────────────────────────────────────────────
+benchmark.jsonl
+benchmark\ copy.jsonl
+
+# ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 .ipynb_checkpoints/
+.pytest_cache/
 
-# Benchmark data (large)
-benchmark.jsonl
-benchmark\ copy.jsonl
+# ── System files ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Python environment ────────────────────────────────────────────────────────
+.conda/
+.venv/
+venv/
+env/
