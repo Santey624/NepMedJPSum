@@ -1,0 +1,599 @@
+{"psychiatric_disorder": 1, "disease_name": "Schizophrenia"}
+{"psychiatric_disorder": 2, "disease_name": "Schizoaffective disorder, bipolar type"}
+{"psychiatric_disorder": 3, "disease_name": "Schizoaffective disorder, depressive type"}
+{"psychiatric_disorder": 4, "disease_name": "Schizophreniform disorder"}
+{"psychiatric_disorder": 5, "disease_name": "Brief psychotic disorder"}
+{"psychiatric_disorder": 6, "disease_name": "Delusional disorder, persecutory type"}
+{"psychiatric_disorder": 7, "disease_name": "Delusional disorder, grandiose type"}
+{"psychiatric_disorder": 8, "disease_name": "Delusional disorder, jealous type"}
+{"psychiatric_disorder": 9, "disease_name": "Delusional disorder, erotomanic type"}
+{"psychiatric_disorder": 10, "disease_name": "Delusional disorder, somatic type"}
+{"psychiatric_disorder": 11, "disease_name": "Delusional disorder, mixed type"}
+{"psychiatric_disorder": 12, "disease_name": "Delusional disorder, unspecified type"}
+{"psychiatric_disorder": 13, "disease_name": "Schizotypal personality disorder (psychotic disorder domain)"}
+{"psychiatric_disorder": 14, "disease_name": "Attenuated psychosis syndrome"}
+{"psychiatric_disorder": 15, "disease_name": "Catatonia associated with another mental disorder"}
+{"psychiatric_disorder": 16, "disease_name": "Catatonic disorder due to another medical condition"}
+{"psychiatric_disorder": 17, "disease_name": "Substance/medication-induced psychotic disorder with delusions"}
+{"psychiatric_disorder": 18, "disease_name": "Substance/medication-induced psychotic disorder with hallucinations"}
+{"psychiatric_disorder": 19, "disease_name": "Bipolar I disorder, current episode manic, with psychotic features"}
+{"psychiatric_disorder": 20, "disease_name": "Bipolar I disorder, current episode depressive, with psychotic features"}
+{"psychiatric_disorder": 21, "disease_name": "Bipolar I disorder, most recent episode manic"}
+{"psychiatric_disorder": 22, "disease_name": "Bipolar I disorder, most recent episode depressed"}
+{"psychiatric_disorder": 23, "disease_name": "Bipolar I disorder, most recent episode mixed"}
+{"psychiatric_disorder": 24, "disease_name": "Bipolar I disorder, most recent episode hypomanic"}
+{"psychiatric_disorder": 25, "disease_name": "Bipolar II disorder, current episode hypomanic"}
+{"psychiatric_disorder": 26, "disease_name": "Bipolar II disorder, current episode depressed"}
+{"psychiatric_disorder": 27, "disease_name": "Cyclothymic disorder in adults"}
+{"psychiatric_disorder": 28, "disease_name": "Cyclothymic disorder in children and adolescents"}
+{"psychiatric_disorder": 29, "disease_name": "Other specified bipolar and related disorder"}
+{"psychiatric_disorder": 30, "disease_name": "Unspecified bipolar and related disorder"}
+{"psychiatric_disorder": 31, "disease_name": "Major depressive disorder, single episode, mild"}
+{"psychiatric_disorder": 32, "disease_name": "Major depressive disorder, single episode, moderate"}
+{"psychiatric_disorder": 33, "disease_name": "Major depressive disorder, single episode, severe without psychotic features"}
+{"psychiatric_disorder": 34, "disease_name": "Major depressive disorder, single episode, severe with psychotic features"}
+{"psychiatric_disorder": 35, "disease_name": "Major depressive disorder, recurrent, mild"}
+{"psychiatric_disorder": 36, "disease_name": "Major depressive disorder, recurrent, moderate"}
+{"psychiatric_disorder": 37, "disease_name": "Major depressive disorder, recurrent, severe without psychotic features"}
+{"psychiatric_disorder": 38, "disease_name": "Major depressive disorder, recurrent, severe with psychotic features"}
+{"psychiatric_disorder": 39, "disease_name": "Persistent depressive disorder (dysthymia) with pure dysthymic syndrome"}
+{"psychiatric_disorder": 40, "disease_name": "Persistent depressive disorder with persistent major depressive episode"}
+{"psychiatric_disorder": 41, "disease_name": "Persistent depressive disorder with intermittent major depressive episodes, with current episode"}
+{"psychiatric_disorder": 42, "disease_name": "Persistent depressive disorder with intermittent major depressive episodes, without current episode"}
+{"psychiatric_disorder": 43, "disease_name": "Premenstrual dysphoric disorder"}
+{"psychiatric_disorder": 44, "disease_name": "Disruptive mood dysregulation disorder"}
+{"psychiatric_disorder": 45, "disease_name": "Other specified depressive disorder, short-duration depressive episode"}
+{"psychiatric_disorder": 46, "disease_name": "Other specified depressive disorder, recurrent brief depression"}
+{"psychiatric_disorder": 47, "disease_name": "Other specified depressive disorder, depressive episode with insufficient symptoms"}
+{"psychiatric_disorder": 48, "disease_name": "Unspecified depressive disorder"}
+{"psychiatric_disorder": 49, "disease_name": "Generalized anxiety disorder"}
+{"psychiatric_disorder": 50, "disease_name": "Panic disorder"}
+{"psychiatric_disorder": 51, "disease_name": "Agoraphobia"}
+{"psychiatric_disorder": 52, "disease_name": "Social anxiety disorder (social phobia)"}
+{"psychiatric_disorder": 53, "disease_name": "Separation anxiety disorder in children"}
+{"psychiatric_disorder": 54, "disease_name": "Separation anxiety disorder in adults"}
+{"psychiatric_disorder": 55, "disease_name": "Selective mutism"}
+{"psychiatric_disorder": 56, "disease_name": "Other specified anxiety disorder, generalized anxiety not meeting full criteria"}
+{"psychiatric_disorder": 57, "disease_name": "Unspecified anxiety disorder"}
+{"psychiatric_disorder": 58, "disease_name": "Posttraumatic stress disorder with dissociative symptoms"}
+{"psychiatric_disorder": 59, "disease_name": "Posttraumatic stress disorder without dissociative symptoms"}
+{"psychiatric_disorder": 60, "disease_name": "Acute stress disorder"}
+{"psychiatric_disorder": 61, "disease_name": "Adjustment disorder with depressed mood"}
+{"psychiatric_disorder": 62, "disease_name": "Adjustment disorder with anxiety"}
+{"psychiatric_disorder": 63, "disease_name": "Adjustment disorder with mixed anxiety and depressed mood"}
+{"psychiatric_disorder": 64, "disease_name": "Adjustment disorder with disturbance of conduct"}
+{"psychiatric_disorder": 65, "disease_name": "Adjustment disorder with mixed disturbance of emotions and conduct"}
+{"psychiatric_disorder": 66, "disease_name": "Adjustment disorder, unspecified"}
+{"psychiatric_disorder": 67, "disease_name": "Reactive attachment disorder"}
+{"psychiatric_disorder": 68, "disease_name": "Disinhibited social engagement disorder"}
+{"psychiatric_disorder": 69, "disease_name": "Obsessive-compulsive disorder"}
+{"psychiatric_disorder": 70, "disease_name": "Body dysmorphic disorder"}
+{"psychiatric_disorder": 71, "disease_name": "Hoarding disorder"}
+{"psychiatric_disorder": 72, "disease_name": "Trichotillomania (hair-pulling disorder)"}
+{"psychiatric_disorder": 73, "disease_name": "Excoriation (skin-picking) disorder"}
+{"psychiatric_disorder": 74, "disease_name": "Substance/medication-induced obsessive-compulsive and related disorder"}
+{"psychiatric_disorder": 75, "disease_name": "Other specified obsessive-compulsive and related disorder, body-focused repetitive behaviors"}
+{"psychiatric_disorder": 76, "disease_name": "Other specified obsessive-compulsive and related disorder, obsessional jealousy"}
+{"psychiatric_disorder": 77, "disease_name": "Unspecified obsessive-compulsive and related disorder"}
+{"psychiatric_disorder": 78, "disease_name": "Anorexia nervosa, restricting type"}
+{"psychiatric_disorder": 79, "disease_name": "Anorexia nervosa, binge-eating/purging type"}
+{"psychiatric_disorder": 80, "disease_name": "Bulimia nervosa"}
+{"psychiatric_disorder": 81, "disease_name": "Binge-eating disorder"}
+{"psychiatric_disorder": 82, "disease_name": "Avoidant/restrictive food intake disorder"}
+{"psychiatric_disorder": 83, "disease_name": "Pica in children"}
+{"psychiatric_disorder": 84, "disease_name": "Pica in adults"}
+{"psychiatric_disorder": 85, "disease_name": "Rumination disorder in infants"}
+{"psychiatric_disorder": 86, "disease_name": "Rumination disorder in adults"}
+{"psychiatric_disorder": 87, "disease_name": "Other specified feeding or eating disorder, night eating syndrome"}
+{"psychiatric_disorder": 88, "disease_name": "Other specified feeding or eating disorder, atypical anorexia nervosa"}
+{"psychiatric_disorder": 89, "disease_name": "Other specified feeding or eating disorder, purging disorder"}
+{"psychiatric_disorder": 90, "disease_name": "Other specified feeding or eating disorder, subthreshold bulimia nervosa"}
+{"psychiatric_disorder": 91, "disease_name": "Unspecified feeding or eating disorder"}
+{"psychiatric_disorder": 92, "disease_name": "Insomnia disorder"}
+{"psychiatric_disorder": 93, "disease_name": "Hypersomnolence disorder"}
+{"psychiatric_disorder": 94, "disease_name": "Narcolepsy"}
+{"psychiatric_disorder": 95, "disease_name": "Obstructive sleep apnea hypopnea, moderate to severe"}
+{"psychiatric_disorder": 96, "disease_name": "Central sleep apnea with Cheyne-Stokes breathing"}
+{"psychiatric_disorder": 97, "disease_name": "Circadian rhythm sleep-wake disorder, delayed sleep phase type"}
+{"psychiatric_disorder": 98, "disease_name": "Circadian rhythm sleep-wake disorder, advanced sleep phase type"}
+{"psychiatric_disorder": 99, "disease_name": "Circadian rhythm sleep-wake disorder, non-24-hour sleep-wake type"}
+{"psychiatric_disorder": 100, "disease_name": "Shift work type circadian rhythm sleep-wake disorder"}
+{"psychiatric_disorder": 101, "disease_name": "Parasomnia, non-rapid eye movement sleep arousal disorder, sleepwalking type"}
+{"psychiatric_disorder": 102, "disease_name": "Non-rapid eye movement sleep arousal disorder, sleep terrors type"}
+{"psychiatric_disorder": 103, "disease_name": "Nightmare disorder"}
+{"psychiatric_disorder": 104, "disease_name": "Rapid eye movement sleep behavior disorder"}
+{"psychiatric_disorder": 105, "disease_name": "Restless legs syndrome"}
+{"psychiatric_disorder": 106, "disease_name": "Substance/medication-induced sleep disorder, insomnia type"}
+{"psychiatric_disorder": 107, "disease_name": "Substance/medication-induced sleep disorder, hypersomnolence type"}
+{"psychiatric_disorder": 108, "disease_name": "Other specified insomnia disorder"}
+{"psychiatric_disorder": 109, "disease_name": "Unspecified insomnia disorder"}
+{"psychiatric_disorder": 110, "disease_name": "Attention-deficit/hyperactivity disorder, predominantly inattentive presentation"}
+{"psychiatric_disorder": 111, "disease_name": "Attention-deficit/hyperactivity disorder, predominantly hyperactive/impulsive presentation"}
+{"psychiatric_disorder": 112, "disease_name": "Attention-deficit/hyperactivity disorder, combined presentation"}
+{"psychiatric_disorder": 113, "disease_name": "Autism spectrum disorder with accompanying intellectual impairment"}
+{"psychiatric_disorder": 114, "disease_name": "Autism spectrum disorder without accompanying intellectual impairment"}
+{"psychiatric_disorder": 115, "disease_name": "Autism spectrum disorder with language impairment"}
+{"psychiatric_disorder": 116, "disease_name": "Autism spectrum disorder without language impairment"}
+{"psychiatric_disorder": 117, "disease_name": "Intellectual disability, mild"}
+{"psychiatric_disorder": 118, "disease_name": "Intellectual disability, moderate"}
+{"psychiatric_disorder": 119, "disease_name": "Intellectual disability, severe"}
+{"psychiatric_disorder": 120, "disease_name": "Intellectual disability, profound"}
+{"psychiatric_disorder": 121, "disease_name": "Specific learning disorder with impairment in reading"}
+{"psychiatric_disorder": 122, "disease_name": "Specific learning disorder with impairment in written expression"}
+{"psychiatric_disorder": 123, "disease_name": "Specific learning disorder with impairment in mathematics"}
+{"psychiatric_disorder": 124, "disease_name": "Developmental coordination disorder"}
+{"psychiatric_disorder": 125, "disease_name": "Stereotypic movement disorder with self-injurious behavior"}
+{"psychiatric_disorder": 126, "disease_name": "Stereotypic movement disorder without self-injurious behavior"}
+{"psychiatric_disorder": 127, "disease_name": "Tourette's disorder"}
+{"psychiatric_disorder": 128, "disease_name": "Persistent (chronic) motor or vocal tic disorder"}
+{"psychiatric_disorder": 129, "disease_name": "Provisional tic disorder"}
+{"psychiatric_disorder": 130, "disease_name": "Other specified tic disorder"}
+{"psychiatric_disorder": 131, "disease_name": "Unspecified tic disorder"}
+{"psychiatric_disorder": 132, "disease_name": "Language disorder"}
+{"psychiatric_disorder": 133, "disease_name": "Speech sound disorder"}
+{"psychiatric_disorder": 134, "disease_name": "Childhood-onset fluency disorder (stuttering)"}
+{"psychiatric_disorder": 135, "disease_name": "Social (pragmatic) communication disorder"}
+{"psychiatric_disorder": 136, "disease_name": "Other specified neurodevelopmental disorder"}
+{"psychiatric_disorder": 137, "disease_name": "Unspecified neurodevelopmental disorder"}
+{"psychiatric_disorder": 138, "disease_name": "Oppositional defiant disorder, angry/irritable mood presentation"}
+{"psychiatric_disorder": 139, "disease_name": "Oppositional defiant disorder, argumentative/defiant behavior presentation"}
+{"psychiatric_disorder": 140, "disease_name": "Conduct disorder, childhood-onset type"}
+{"psychiatric_disorder": 141, "disease_name": "Conduct disorder, adolescent-onset type"}
+{"psychiatric_disorder": 142, "disease_name": "Intermittent explosive disorder"}
+{"psychiatric_disorder": 143, "disease_name": "Pyromania"}
+{"psychiatric_disorder": 144, "disease_name": "Kleptomania"}
+{"psychiatric_disorder": 145, "disease_name": "Other specified disruptive, impulse-control, and conduct disorder"}
+{"psychiatric_disorder": 146, "disease_name": "Unspecified disruptive, impulse-control, and conduct disorder"}
+{"psychiatric_disorder": 147, "disease_name": "Gambling disorder"}
+{"psychiatric_disorder": 148, "disease_name": "Internet gaming disorder"}
+{"psychiatric_disorder": 149, "disease_name": "Compulsive sexual behavior disorder"}
+{"psychiatric_disorder": 150, "disease_name": "Other specified addictive disorder"}
+{"psychiatric_disorder": 151, "disease_name": "Alcohol use disorder, mild"}
+{"psychiatric_disorder": 152, "disease_name": "Alcohol use disorder, moderate"}
+{"psychiatric_disorder": 153, "disease_name": "Alcohol use disorder, severe"}
+{"psychiatric_disorder": 154, "disease_name": "Alcohol intoxication"}
+{"psychiatric_disorder": 155, "disease_name": "Alcohol withdrawal with perceptual disturbances"}
+{"psychiatric_disorder": 156, "disease_name": "Alcohol-induced depressive disorder"}
+{"psychiatric_disorder": 157, "disease_name": "Alcohol-induced anxiety disorder"}
+{"psychiatric_disorder": 158, "disease_name": "Alcohol-induced psychotic disorder with delusions"}
+{"psychiatric_disorder": 159, "disease_name": "Alcohol-induced psychotic disorder with hallucinations"}
+{"psychiatric_disorder": 160, "disease_name": "Alcohol-induced bipolar and related disorder"}
+{"psychiatric_disorder": 161, "disease_name": "Alcohol-induced sleep disorder, insomnia type"}
+{"psychiatric_disorder": 162, "disease_name": "Alcohol-induced sleep disorder, hypersomnolence type"}
+{"psychiatric_disorder": 163, "disease_name": "Alcohol-related neurocognitive disorder, mild"}
+{"psychiatric_disorder": 164, "disease_name": "Alcohol-related neurocognitive disorder, major"}
+{"psychiatric_disorder": 165, "disease_name": "Wernicke-Korsakoff syndrome due to alcohol"}
+{"psychiatric_disorder": 166, "disease_name": "Caffeine intoxication"}
+{"psychiatric_disorder": 167, "disease_name": "Caffeine withdrawal"}
+{"psychiatric_disorder": 168, "disease_name": "Caffeine-induced anxiety disorder"}
+{"psychiatric_disorder": 169, "disease_name": "Caffeine-induced sleep disorder"}
+{"psychiatric_disorder": 170, "disease_name": "Cannabis use disorder, moderate"}
+{"psychiatric_disorder": 171, "disease_name": "Cannabis use disorder, severe"}
+{"psychiatric_disorder": 172, "disease_name": "Cannabis intoxication"}
+{"psychiatric_disorder": 173, "disease_name": "Cannabis-induced psychotic disorder with delusions"}
+{"psychiatric_disorder": 174, "disease_name": "Cannabis-induced psychotic disorder with hallucinations"}
+{"psychiatric_disorder": 175, "disease_name": "Cannabis-induced anxiety disorder"}
+{"psychiatric_disorder": 176, "disease_name": "Cannabis-induced sleep disorder"}
+{"psychiatric_disorder": 177, "disease_name": "Phencyclidine use disorder"}
+{"psychiatric_disorder": 178, "disease_name": "Phencyclidine intoxication"}
+{"psychiatric_disorder": 179, "disease_name": "Other hallucinogen use disorder"}
+{"psychiatric_disorder": 180, "disease_name": "Other hallucinogen intoxication"}
+{"psychiatric_disorder": 181, "disease_name": "Hallucinogen persisting perception disorder"}
+{"psychiatric_disorder": 182, "disease_name": "Inhalant use disorder"}
+{"psychiatric_disorder": 183, "disease_name": "Inhalant intoxication"}
+{"psychiatric_disorder": 184, "disease_name": "Opioid use disorder, moderate"}
+{"psychiatric_disorder": 185, "disease_name": "Opioid use disorder, severe"}
+{"psychiatric_disorder": 186, "disease_name": "Opioid intoxication"}
+{"psychiatric_disorder": 187, "disease_name": "Opioid withdrawal"}
+{"psychiatric_disorder": 188, "disease_name": "Opioid-induced depressive disorder"}
+{"psychiatric_disorder": 189, "disease_name": "Opioid-induced anxiety disorder"}
+{"psychiatric_disorder": 190, "disease_name": "Opioid-induced sleep disorder"}
+{"psychiatric_disorder": 191, "disease_name": "Sedative, hypnotic, or anxiolytic use disorder, moderate"}
+{"psychiatric_disorder": 192, "disease_name": "Sedative, hypnotic, or anxiolytic use disorder, severe"}
+{"psychiatric_disorder": 193, "disease_name": "Sedative, hypnotic, or anxiolytic intoxication"}
+{"psychiatric_disorder": 194, "disease_name": "Sedative, hypnotic, or anxiolytic withdrawal"}
+{"psychiatric_disorder": 195, "disease_name": "Sedative-induced sleep disorder"}
+{"psychiatric_disorder": 196, "disease_name": "Cocaine use disorder, moderate"}
+{"psychiatric_disorder": 197, "disease_name": "Cocaine use disorder, severe"}
+{"psychiatric_disorder": 198, "disease_name": "Cocaine intoxication with perceptual disturbances"}
+{"psychiatric_disorder": 199, "disease_name": "Cocaine withdrawal"}
+{"psychiatric_disorder": 200, "disease_name": "Cocaine-induced psychotic disorder with delusions"}
+{"psychiatric_disorder": 201, "disease_name": "Cocaine-induced psychotic disorder with hallucinations"}
+{"psychiatric_disorder": 202, "disease_name": "Cocaine-induced depressive disorder"}
+{"psychiatric_disorder": 203, "disease_name": "Cocaine-induced anxiety disorder"}
+{"psychiatric_disorder": 204, "disease_name": "Cocaine-induced sleep disorder"}
+{"psychiatric_disorder": 205, "disease_name": "Amphetamine-type stimulant use disorder"}
+{"psychiatric_disorder": 206, "disease_name": "Amphetamine-type stimulant intoxication"}
+{"psychiatric_disorder": 207, "disease_name": "Amphetamine-type stimulant withdrawal"}
+{"psychiatric_disorder": 208, "disease_name": "Amphetamine-induced psychotic disorder with delusions"}
+{"psychiatric_disorder": 209, "disease_name": "Amphetamine-induced psychotic disorder with hallucinations"}
+{"psychiatric_disorder": 210, "disease_name": "Amphetamine-induced anxiety disorder"}
+{"psychiatric_disorder": 211, "disease_name": "Amphetamine-induced mood disorder"}
+{"psychiatric_disorder": 212, "disease_name": "Tobacco use disorder, moderate"}
+{"psychiatric_disorder": 213, "disease_name": "Tobacco use disorder, severe"}
+{"psychiatric_disorder": 214, "disease_name": "Tobacco withdrawal"}
+{"psychiatric_disorder": 215, "disease_name": "Tobacco-induced sleep disorder"}
+{"psychiatric_disorder": 216, "disease_name": "Other (or unknown) substance use disorder"}
+{"psychiatric_disorder": 217, "disease_name": "Other (or unknown) substance intoxication"}
+{"psychiatric_disorder": 218, "disease_name": "Other (or unknown) substance-induced psychotic disorder"}
+{"psychiatric_disorder": 219, "disease_name": "Other (or unknown) substance-induced depressive disorder"}
+{"psychiatric_disorder": 220, "disease_name": "Other (or unknown) substance-induced anxiety disorder"}
+{"psychiatric_disorder": 221, "disease_name": "Mild neurocognitive disorder due to Alzheimer's disease"}
+{"psychiatric_disorder": 222, "disease_name": "Major neurocognitive disorder due to Alzheimer's disease with behavioral disturbance"}
+{"psychiatric_disorder": 223, "disease_name": "Major neurocognitive disorder due to Alzheimer's disease without behavioral disturbance"}
+{"psychiatric_disorder": 224, "disease_name": "Mild neurocognitive disorder due to frontotemporal lobar degeneration"}
+{"psychiatric_disorder": 225, "disease_name": "Major neurocognitive disorder due to frontotemporal lobar degeneration with behavioral disturbance"}
+{"psychiatric_disorder": 226, "disease_name": "Major neurocognitive disorder due to frontotemporal lobar degeneration without behavioral disturbance"}
+{"psychiatric_disorder": 227, "disease_name": "Mild neurocognitive disorder with Lewy bodies"}
+{"psychiatric_disorder": 228, "disease_name": "Major neurocognitive disorder with Lewy bodies with behavioral disturbance"}
+{"psychiatric_disorder": 229, "disease_name": "Major neurocognitive disorder with Lewy bodies without behavioral disturbance"}
+{"psychiatric_disorder": 230, "disease_name": "Mild vascular neurocognitive disorder"}
+{"psychiatric_disorder": 231, "disease_name": "Major vascular neurocognitive disorder with behavioral disturbance"}
+{"psychiatric_disorder": 232, "disease_name": "Major vascular neurocognitive disorder without behavioral disturbance"}
+{"psychiatric_disorder": 233, "disease_name": "Major neurocognitive disorder due to traumatic brain injury with behavioral disturbance"}
+{"psychiatric_disorder": 234, "disease_name": "Major neurocognitive disorder due to traumatic brain injury without behavioral disturbance"}
+{"psychiatric_disorder": 235, "disease_name": "Mild neurocognitive disorder due to Parkinson's disease"}
+{"psychiatric_disorder": 236, "disease_name": "Major neurocognitive disorder due to Parkinson's disease with behavioral disturbance"}
+{"psychiatric_disorder": 237, "disease_name": "Major neurocognitive disorder due to Parkinson's disease without behavioral disturbance"}
+{"psychiatric_disorder": 238, "disease_name": "Mild neurocognitive disorder due to Huntington's disease"}
+{"psychiatric_disorder": 239, "disease_name": "Major neurocognitive disorder due to Huntington's disease"}
+{"psychiatric_disorder": 240, "disease_name": "Major neurocognitive disorder due to HIV infection"}
+{"psychiatric_disorder": 241, "disease_name": "Mild neurocognitive disorder due to another medical condition"}
+{"psychiatric_disorder": 242, "disease_name": "Major neurocognitive disorder due to another medical condition"}
+{"psychiatric_disorder": 243, "disease_name": "Mild substance/medication-induced neurocognitive disorder"}
+{"psychiatric_disorder": 244, "disease_name": "Major substance/medication-induced neurocognitive disorder with behavioral disturbance"}
+{"psychiatric_disorder": 245, "disease_name": "Major substance/medication-induced neurocognitive disorder without behavioral disturbance"}
+{"psychiatric_disorder": 246, "disease_name": "Unspecified neurocognitive disorder"}
+{"psychiatric_disorder": 247, "disease_name": "Paranoid personality disorder"}
+{"psychiatric_disorder": 248, "disease_name": "Schizoid personality disorder"}
+{"psychiatric_disorder": 249, "disease_name": "Schizotypal personality disorder"}
+{"psychiatric_disorder": 250, "disease_name": "Antisocial personality disorder"}
+{"psychiatric_disorder": 251, "disease_name": "Borderline personality disorder"}
+{"psychiatric_disorder": 252, "disease_name": "Histrionic personality disorder"}
+{"psychiatric_disorder": 253, "disease_name": "Narcissistic personality disorder"}
+{"psychiatric_disorder": 254, "disease_name": "Avoidant personality disorder"}
+{"psychiatric_disorder": 255, "disease_name": "Dependent personality disorder"}
+{"psychiatric_disorder": 256, "disease_name": "Obsessive-compulsive personality disorder"}
+{"psychiatric_disorder": 257, "disease_name": "Personality change due to another medical condition, labile type"}
+{"psychiatric_disorder": 258, "disease_name": "Personality change due to another medical condition, aggressive type"}
+{"psychiatric_disorder": 259, "disease_name": "Personality change due to another medical condition, apathetic type"}
+{"psychiatric_disorder": 260, "disease_name": "Personality change due to another medical condition, paranoid type"}
+{"psychiatric_disorder": 261, "disease_name": "Other specified personality disorder"}
+{"psychiatric_disorder": 262, "disease_name": "Unspecified personality disorder"}
+{"psychiatric_disorder": 263, "disease_name": "Illness anxiety disorder, care-seeking type"}
+{"psychiatric_disorder": 264, "disease_name": "Illness anxiety disorder, care-avoidant type"}
+{"psychiatric_disorder": 265, "disease_name": "Somatic symptom disorder with predominant pain"}
+{"psychiatric_disorder": 266, "disease_name": "Somatic symptom disorder with persistent severe symptoms"}
+{"psychiatric_disorder": 267, "disease_name": "Conversion disorder with weakness or paralysis"}
+{"psychiatric_disorder": 268, "disease_name": "Conversion disorder with abnormal movement"}
+{"psychiatric_disorder": 269, "disease_name": "Conversion disorder with swallowing symptoms"}
+{"psychiatric_disorder": 270, "disease_name": "Conversion disorder with speech symptom"}
+{"psychiatric_disorder": 271, "disease_name": "Conversion disorder with attacks or seizures"}
+{"psychiatric_disorder": 272, "disease_name": "Conversion disorder with anesthesia or sensory loss"}
+{"psychiatric_disorder": 273, "disease_name": "Psychological factors affecting other medical conditions, mild"}
+{"psychiatric_disorder": 274, "disease_name": "Psychological factors affecting other medical conditions, moderate"}
+{"psychiatric_disorder": 275, "disease_name": "Factitious disorder imposed on self"}
+{"psychiatric_disorder": 276, "disease_name": "Factitious disorder imposed on another"}
+{"psychiatric_disorder": 277, "disease_name": "Other specified somatic symptom and related disorder"}
+{"psychiatric_disorder": 278, "disease_name": "Unspecified somatic symptom and related disorder"}
+{"psychiatric_disorder": 279, "disease_name": "Dissociative identity disorder"}
+{"psychiatric_disorder": 280, "disease_name": "Dissociative amnesia with dissociative fugue"}
+{"psychiatric_disorder": 281, "disease_name": "Dissociative amnesia without dissociative fugue"}
+{"psychiatric_disorder": 282, "disease_name": "Depersonalization/derealization disorder"}
+{"psychiatric_disorder": 283, "disease_name": "Other specified dissociative disorder, chronic mixed dissociative symptoms"}
+{"psychiatric_disorder": 284, "disease_name": "Other specified dissociative disorder, identity disturbance due to coercion"}
+{"psychiatric_disorder": 285, "disease_name": "Unspecified dissociative disorder"}
+{"psychiatric_disorder": 286, "disease_name": "Enuresis, nocturnal only"}
+{"psychiatric_disorder": 287, "disease_name": "Enuresis, diurnal only"}
+{"psychiatric_disorder": 288, "disease_name": "Enuresis, nocturnal and diurnal"}
+{"psychiatric_disorder": 289, "disease_name": "Encopresis with constipation and overflow incontinence"}
+{"psychiatric_disorder": 290, "disease_name": "Encopresis without constipation and overflow incontinence"}
+{"psychiatric_disorder": 291, "disease_name": "Other specified elimination disorder"}
+{"psychiatric_disorder": 292, "disease_name": "Unspecified elimination disorder"}
+{"psychiatric_disorder": 293, "disease_name": "Gender dysphoria in adolescents and adults"}
+{"psychiatric_disorder": 294, "disease_name": "Gender dysphoria in children"}
+{"psychiatric_disorder": 295, "disease_name": "Other specified gender dysphoria"}
+{"psychiatric_disorder": 296, "disease_name": "Unspecified gender dysphoria"}
+{"psychiatric_disorder": 297, "disease_name": "Delirium due to another medical condition"}
+{"psychiatric_disorder": 298, "disease_name": "Substance intoxication delirium"}
+{"psychiatric_disorder": 299, "disease_name": "Substance withdrawal delirium"}
+{"psychiatric_disorder": 300, "disease_name": "Medication-induced delirium"}
+{"psychiatric_disorder": 301, "disease_name": "Acrophobia (specific phobia, heights)"}
+{"psychiatric_disorder": 302, "disease_name": "Aerophobia (specific phobia, flying)"}
+{"psychiatric_disorder": 303, "disease_name": "Claustrophobia (specific phobia, enclosed spaces)"}
+{"psychiatric_disorder": 304, "disease_name": "Arachnophobia (specific phobia, spiders)"}
+{"psychiatric_disorder": 305, "disease_name": "Ophidiophobia (specific phobia, snakes)"}
+{"psychiatric_disorder": 306, "disease_name": "Cynophobia (specific phobia, dogs)"}
+{"psychiatric_disorder": 307, "disease_name": "Ailurophobia (specific phobia, cats)"}
+{"psychiatric_disorder": 308, "disease_name": "Entomophobia (specific phobia, insects)"}
+{"psychiatric_disorder": 309, "disease_name": "Mysophobia (specific phobia, germs or contamination)"}
+{"psychiatric_disorder": 310, "disease_name": "Trypanophobia (specific phobia, injections)"}
+{"psychiatric_disorder": 311, "disease_name": "Hemophobia (specific phobia, blood)"}
+{"psychiatric_disorder": 312, "disease_name": "Dentophobia (specific phobia, dentists)"}
+{"psychiatric_disorder": 313, "disease_name": "Astraphobia (specific phobia, thunderstorms)"}
+{"psychiatric_disorder": 314, "disease_name": "Brontophobia (specific phobia, thunder)"}
+{"psychiatric_disorder": 315, "disease_name": "Nyctophobia (specific phobia, darkness)"}
+{"psychiatric_disorder": 316, "disease_name": "Thalassophobia (specific phobia, deep water or oceans)"}
+{"psychiatric_disorder": 317, "disease_name": "Aquaphobia (specific phobia, water)"}
+{"psychiatric_disorder": 318, "disease_name": "Elevator phobia (specific phobia, elevators)"}
+{"psychiatric_disorder": 319, "disease_name": "Tunnel phobia (specific phobia, tunnels)"}
+{"psychiatric_disorder": 320, "disease_name": "Driving phobia (specific phobia, driving a car)"}
+{"psychiatric_disorder": 321, "disease_name": "Fear of choking (specific phobia, choking)"}
+{"psychiatric_disorder": 322, "disease_name": "Emetophobia (specific phobia, vomiting)"}
+{"psychiatric_disorder": 323, "disease_name": "Nosophobia (specific phobia, serious illness)"}
+{"psychiatric_disorder": 324, "disease_name": "Iatrophobia (specific phobia, doctors)"}
+{"psychiatric_disorder": 325, "disease_name": "Hospital phobia (specific phobia, hospitals)"}
+{"psychiatric_disorder": 326, "disease_name": "Acousticophobia (specific phobia, loud sounds)"}
+{"psychiatric_disorder": 327, "disease_name": "Amaxophobia (specific phobia, riding in a car)"}
+{"psychiatric_disorder": 328, "disease_name": "Phobia of bridges (specific phobia, crossing bridges)"}
+{"psychiatric_disorder": 329, "disease_name": "Phobia of clowns (specific phobia, clowns)"}
+{"psychiatric_disorder": 330, "disease_name": "Phobia of costumed characters (specific phobia, costumed figures)"}
+{"psychiatric_disorder": 331, "disease_name": "Ornithophobia (specific phobia, birds)"}
+{"psychiatric_disorder": 332, "disease_name": "Apiphobia (specific phobia, bees)"}
+{"psychiatric_disorder": 333, "disease_name": "Musophobia (specific phobia, mice)"}
+{"psychiatric_disorder": 334, "disease_name": "Batrachophobia (specific phobia, amphibians)"}
+{"psychiatric_disorder": 335, "disease_name": "Scoleciphobia (specific phobia, worms)"}
+{"psychiatric_disorder": 336, "disease_name": "Injury phobia (specific phobia, seeing injury)"}
+{"psychiatric_disorder": 337, "disease_name": "Storm phobia (specific phobia, storms)"}
+{"psychiatric_disorder": 338, "disease_name": "Fear of flying insects (specific phobia, flying insects)"}
+{"psychiatric_disorder": 339, "disease_name": "Fear of public toilets (specific phobia, public restrooms)"}
+{"psychiatric_disorder": 340, "disease_name": "Fear of vomit contamination (specific phobia, vomit-related situations)"}
+{"psychiatric_disorder": 341, "disease_name": "Fear of choking on pills (specific phobia, pills)"}
+{"psychiatric_disorder": 342, "disease_name": "Fear of dental injections (specific phobia, dental needles)"}
+{"psychiatric_disorder": 343, "disease_name": "Fear of blood draws (specific phobia, venipuncture)"}
+{"psychiatric_disorder": 344, "disease_name": "Fear of surgical procedures (specific phobia, surgery-related medical procedures)"}
+{"psychiatric_disorder": 345, "disease_name": "Fear of heights in open spaces (specific phobia, open high places)"}
+{"psychiatric_disorder": 346, "disease_name": "Fear of heights on ladders (specific phobia, ladders)"}
+{"psychiatric_disorder": 347, "disease_name": "Fear of flying in small planes (specific phobia, small aircraft)"}
+{"psychiatric_disorder": 348, "disease_name": "Fear of flying in large commercial jets (specific phobia, commercial aircraft)"}
+{"psychiatric_disorder": 349, "disease_name": "Fear of deep lakes (specific phobia, lakes)"}
+{"psychiatric_disorder": 350, "disease_name": "Fear of swimming pools (specific phobia, pools)"}
+{"psychiatric_disorder": 351, "disease_name": "Fetishistic disorder"}
+{"psychiatric_disorder": 352, "disease_name": "Transvestic disorder with fetishism"}
+{"psychiatric_disorder": 353, "disease_name": "Exhibitionistic disorder"}
+{"psychiatric_disorder": 354, "disease_name": "Voyeuristic disorder"}
+{"psychiatric_disorder": 355, "disease_name": "Frotteuristic disorder"}
+{"psychiatric_disorder": 356, "disease_name": "Sexual masochism disorder"}
+{"psychiatric_disorder": 357, "disease_name": "Sexual sadism disorder"}
+{"psychiatric_disorder": 358, "disease_name": "Pedophilic disorder"}
+{"psychiatric_disorder": 359, "disease_name": "Other specified paraphilic disorder, telephone scatologia"}
+{"psychiatric_disorder": 360, "disease_name": "Other specified paraphilic disorder, necrophilia"}
+{"psychiatric_disorder": 361, "disease_name": "Other specified anxiety disorder, limited-symptom panic attacks"}
+{"psychiatric_disorder": 362, "disease_name": "Other specified anxiety disorder, generalized anxiety with insufficient duration"}
+{"psychiatric_disorder": 363, "disease_name": "Other specified obsessive-compulsive and related disorder, body dysmorphic-like disorder without repetitive behaviors"}
+{"psychiatric_disorder": 364, "disease_name": "Other specified obsessive-compulsive and related disorder, body-focused repetitive behavior disorder"}
+{"psychiatric_disorder": 365, "disease_name": "Other specified feeding or eating disorder, low-frequency binge-eating disorder"}
+{"psychiatric_disorder": 366, "disease_name": "Other specified trauma- and stressor-related disorder, adjustment-like disorders with prolonged duration"}
+{"psychiatric_disorder": 367, "disease_name": "Other specified trauma- and stressor-related disorder, cultural syndrome of distress"}
+{"psychiatric_disorder": 368, "disease_name": "Other specified neurocognitive disorder, mild cognitive impairment without biomarker confirmation"}
+{"psychiatric_disorder": 369, "disease_name": "Other specified schizophrenia spectrum and other psychotic disorder, persistent auditory hallucinations without other symptoms"}
+{"psychiatric_disorder": 370, "disease_name": "Other specified schizophrenia spectrum and other psychotic disorder, delusions with significant overlapping depressive symptoms"}
+{"psychiatric_disorder": 371, "disease_name": "Substance/medication-induced bipolar and related disorder with manic features"}
+{"psychiatric_disorder": 372, "disease_name": "Substance/medication-induced bipolar and related disorder with mixed features"}
+{"psychiatric_disorder": 373, "disease_name": "Substance/medication-induced anxiety disorder, onset during intoxication"}
+{"psychiatric_disorder": 374, "disease_name": "Substance/medication-induced anxiety disorder, onset during withdrawal"}
+{"psychiatric_disorder": 375, "disease_name": "Substance/medication-induced obsessive-compulsive and related disorder, onset during intoxication"}
+{"psychiatric_disorder": 376, "disease_name": "Substance/medication-induced sleep disorder, parasomnia type"}
+{"psychiatric_disorder": 377, "disease_name": "Substance/medication-induced sexual dysfunction, decreased libido"}
+{"psychiatric_disorder": 378, "disease_name": "Substance/medication-induced sexual dysfunction, erectile dysfunction"}
+{"psychiatric_disorder": 379, "disease_name": "Substance/medication-induced delirium, mixed level of activity"}
+{"psychiatric_disorder": 380, "disease_name": "Substance/medication-induced neurocognitive disorder with memory impairment"}
+{"psychiatric_disorder": 381, "disease_name": "Major depressive disorder with peripartum onset"}
+{"psychiatric_disorder": 382, "disease_name": "Major depressive disorder with seasonal pattern"}
+{"psychiatric_disorder": 383, "disease_name": "Bipolar I disorder with seasonal pattern"}
+{"psychiatric_disorder": 384, "disease_name": "Bipolar II disorder with rapid cycling"}
+{"psychiatric_disorder": 385, "disease_name": "Bipolar I disorder with rapid cycling"}
+{"psychiatric_disorder": 386, "disease_name": "Cyclothymic disorder with anxious distress"}
+{"psychiatric_disorder": 387, "disease_name": "Generalized anxiety disorder with panic attacks"}
+{"psychiatric_disorder": 388, "disease_name": "Panic disorder with agoraphobia"}
+{"psychiatric_disorder": 389, "disease_name": "Social anxiety disorder, performance only"}
+{"psychiatric_disorder": 390, "disease_name": "Social anxiety disorder, generalized"}
+{"psychiatric_disorder": 391, "disease_name": "Posttraumatic stress disorder with delayed expression"}
+{"psychiatric_disorder": 392, "disease_name": "Posttraumatic stress disorder with prominent dissociative symptoms"}
+{"psychiatric_disorder": 393, "disease_name": "Acute stress disorder with predominant dissociative symptoms"}
+{"psychiatric_disorder": 394, "disease_name": "Obsessive-compulsive disorder with good or fair insight"}
+{"psychiatric_disorder": 395, "disease_name": "Obsessive-compulsive disorder with poor insight"}
+{"psychiatric_disorder": 396, "disease_name": "Obsessive-compulsive disorder with absent insight/delusional beliefs"}
+{"psychiatric_disorder": 397, "disease_name": "Body dysmorphic disorder with muscle dysmorphia"}
+{"psychiatric_disorder": 398, "disease_name": "Hoarding disorder with excessive acquisition"}
+{"psychiatric_disorder": 399, "disease_name": "Hoarding disorder with good or fair insight"}
+{"psychiatric_disorder": 400, "disease_name": "Hoarding disorder with poor insight"}
+{"psychiatric_disorder": 401, "disease_name": "Schizophrenia, first episode, currently in acute episode"}
+{"psychiatric_disorder": 402, "disease_name": "Schizophrenia, multiple episodes, currently in partial remission"}
+{"psychiatric_disorder": 403, "disease_name": "Schizophrenia, multiple episodes, currently in full remission"}
+{"psychiatric_disorder": 404, "disease_name": "Schizoaffective disorder, first episode, currently in acute episode"}
+{"psychiatric_disorder": 405, "disease_name": "Schizoaffective disorder, multiple episodes, currently in partial remission"}
+{"psychiatric_disorder": 406, "disease_name": "Brief psychotic disorder with marked stressors"}
+{"psychiatric_disorder": 407, "disease_name": "Brief psychotic disorder without marked stressors"}
+{"psychiatric_disorder": 408, "disease_name": "Brief psychotic disorder with postpartum onset"}
+{"psychiatric_disorder": 409, "disease_name": "Delusional disorder, with bizarre content"}
+{"psychiatric_disorder": 410, "disease_name": "Delusional disorder, with mood-incongruent psychotic features"}
+{"psychiatric_disorder": 411, "disease_name": "Substance/medication-induced psychotic disorder, onset during intoxication"}
+{"psychiatric_disorder": 412, "disease_name": "Substance/medication-induced psychotic disorder, onset during withdrawal"}
+{"psychiatric_disorder": 413, "disease_name": "Psychotic disorder due to another medical condition with delusions"}
+{"psychiatric_disorder": 414, "disease_name": "Psychotic disorder due to another medical condition with hallucinations"}
+{"psychiatric_disorder": 415, "disease_name": "Other specified schizophrenia spectrum and other psychotic disorder, persistent non-bizarre delusions"}
+{"psychiatric_disorder": 416, "disease_name": "Unspecified schizophrenia spectrum and other psychotic disorder"}
+{"psychiatric_disorder": 417, "disease_name": "Major depressive disorder with anxious distress"}
+{"psychiatric_disorder": 418, "disease_name": "Major depressive disorder with mixed features"}
+{"psychiatric_disorder": 419, "disease_name": "Major depressive disorder with atypical features"}
+{"psychiatric_disorder": 420, "disease_name": "Major depressive disorder with melancholic features"}
+{"psychiatric_disorder": 421, "disease_name": "Major depressive disorder with catatonia"}
+{"psychiatric_disorder": 422, "disease_name": "Persistent depressive disorder with pure dysthymic syndrome and anxious distress"}
+{"psychiatric_disorder": 423, "disease_name": "Disruptive mood dysregulation disorder with comorbid ADHD"}
+{"psychiatric_disorder": 424, "disease_name": "Premenstrual dysphoric disorder with comorbid generalized anxiety disorder"}
+{"psychiatric_disorder": 425, "disease_name": "Other specified depressive disorder, recurrent brief depression with intermittent hypomanic symptoms"}
+{"psychiatric_disorder": 426, "disease_name": "Other specified bipolar and related disorder, short-duration hypomanic episodes"}
+{"psychiatric_disorder": 427, "disease_name": "Panic disorder with agoraphobia and partial remission"}
+{"psychiatric_disorder": 428, "disease_name": "Social anxiety disorder with performance-only specifier and partial remission"}
+{"psychiatric_disorder": 429, "disease_name": "Specific phobia, animal type (dogs)"}
+{"psychiatric_disorder": 430, "disease_name": "Specific phobia, natural environment type (heights)"}
+{"psychiatric_disorder": 431, "disease_name": "Specific phobia, situational type (airplanes)"}
+{"psychiatric_disorder": 432, "disease_name": "Specific phobia, blood-injection-injury type (injections)"}
+{"psychiatric_disorder": 433, "disease_name": "Specific phobia, other type (vomiting)"}
+{"psychiatric_disorder": 434, "disease_name": "Relational trauma-related disorder of early childhood"}
+{"psychiatric_disorder": 435, "disease_name": "Complex posttraumatic stress disorder"}
+{"psychiatric_disorder": 436, "disease_name": "Attention-deficit/hyperactivity disorder with predominantly inattentive presentation and comorbid anxiety"}
+{"psychiatric_disorder": 437, "disease_name": "Attention-deficit/hyperactivity disorder with combined presentation and comorbid oppositional defiant disorder"}
+{"psychiatric_disorder": 438, "disease_name": "Autism spectrum disorder with comorbid intellectual disability and language impairment"}
+{"psychiatric_disorder": 439, "disease_name": "Tourette's disorder with comorbid obsessive-compulsive disorder"}
+{"psychiatric_disorder": 440, "disease_name": "Persistent motor tic disorder with comorbid ADHD"}
+{"psychiatric_disorder": 441, "disease_name": "Developmental coordination disorder with comorbid specific learning disorder"}
+{"psychiatric_disorder": 442, "disease_name": "Specific learning disorder with impairment in reading and written expression"}
+{"psychiatric_disorder": 443, "disease_name": "Specific learning disorder with impairment in mathematics and written expression"}
+{"psychiatric_disorder": 444, "disease_name": "Social (pragmatic) communication disorder with comorbid anxiety disorder"}
+{"psychiatric_disorder": 445, "disease_name": "Oppositional defiant disorder with limited prosocial emotions"}
+{"psychiatric_disorder": 446, "disease_name": "Conduct disorder with limited prosocial emotions, childhood-onset"}
+{"psychiatric_disorder": 447, "disease_name": "Conduct disorder with limited prosocial emotions, adolescent-onset"}
+{"psychiatric_disorder": 448, "disease_name": "Intermittent explosive disorder with comorbid substance use disorder"}
+{"psychiatric_disorder": 449, "disease_name": "Kleptomania with comorbid depressive disorder"}
+{"psychiatric_disorder": 450, "disease_name": "Gambling disorder, episodic"}
+{"psychiatric_disorder": 451, "disease_name": "Gambling disorder, persistent"}
+{"psychiatric_disorder": 452, "disease_name": "Internet gaming disorder, predominantly online"}
+{"psychiatric_disorder": 453, "disease_name": "Internet gaming disorder, predominantly offline"}
+{"psychiatric_disorder": 454, "disease_name": "Compulsive buying-shopping disorder"}
+{"psychiatric_disorder": 455, "disease_name": "Other specified addictive disorder, compulsive exercise"}
+{"psychiatric_disorder": 456, "disease_name": "Other specified addictive disorder, tanning addiction"}
+{"psychiatric_disorder": 457, "disease_name": "Paranoid personality disorder with prominent suspiciousness"}
+{"psychiatric_disorder": 458, "disease_name": "Borderline personality disorder with recurrent self-harm"}
+{"psychiatric_disorder": 459, "disease_name": "Narcissistic personality disorder with grandiose features"}
+{"psychiatric_disorder": 460, "disease_name": "Avoidant personality disorder with social inhibition and feelings of inadequacy"}
+{"psychiatric_disorder": 461, "disease_name": "Obsessive-compulsive personality disorder with perfectionism and control"}
+{"psychiatric_disorder": 462, "disease_name": "Mild neurocognitive disorder due to multiple etiologies"}
+{"psychiatric_disorder": 463, "disease_name": "Major neurocognitive disorder due to multiple etiologies"}
+{"psychiatric_disorder": 464, "disease_name": "Major neurocognitive disorder with behavioral disturbance due to Parkinson's disease"}
+{"psychiatric_disorder": 465, "disease_name": "Major neurocognitive disorder with psychotic features due to Alzheimer's disease"}
+{"psychiatric_disorder": 466, "disease_name": "Major neurocognitive disorder with mood disturbance due to vascular disease"}
+{"psychiatric_disorder": 467, "disease_name": "Substance/medication-induced sexual dysfunction, orgasmic disorder"}
+{"psychiatric_disorder": 468, "disease_name": "Substance/medication-induced sexual dysfunction, genito-pelvic pain/penetration disorder"}
+{"psychiatric_disorder": 469, "disease_name": "Alcohol-induced sexual dysfunction"}
+{"psychiatric_disorder": 470, "disease_name": "Opioid-induced sexual dysfunction"}
+{"psychiatric_disorder": 471, "disease_name": "Sedative-induced sexual dysfunction"}
+{"psychiatric_disorder": 472, "disease_name": "Major depressive disorder due to another medical condition"}
+{"psychiatric_disorder": 473, "disease_name": "Anxiety disorder due to another medical condition"}
+{"psychiatric_disorder": 474, "disease_name": "Psychotic disorder due to another medical condition with catatonia"}
+{"psychiatric_disorder": 475, "disease_name": "Bipolar and related disorder due to another medical condition"}
+{"psychiatric_disorder": 476, "disease_name": "Personality change due to traumatic brain injury"}
+{"psychiatric_disorder": 477, "disease_name": "Other specified depressive disorder, short-duration depressive episode (4–13 days)"}
+{"psychiatric_disorder": 478, "disease_name": "Other specified depressive disorder, depressive episode with insufficient symptoms but significant distress"}
+{"psychiatric_disorder": 479, "disease_name": "Other specified anxiety disorder, generalized anxiety not occurring more days than not"}
+{"psychiatric_disorder": 480, "disease_name": "Trichotillomania with comorbid depressive disorder"}
+{"psychiatric_disorder": 481, "disease_name": "Excoriation disorder with comorbid obsessive-compulsive disorder"}
+{"psychiatric_disorder": 482, "disease_name": "Body dysmorphic disorder with suicidal ideation"}
+{"psychiatric_disorder": 483, "disease_name": "Hoarding disorder with severe clutter and safety risks"}
+{"psychiatric_disorder": 484, "disease_name": "Narcolepsy with cataplexy"}
+{"psychiatric_disorder": 485, "disease_name": "Narcolepsy without cataplexy"}
+{"psychiatric_disorder": 486, "disease_name": "Obstructive sleep apnea hypopnea, mild with insomnia complaints"}
+{"psychiatric_disorder": 487, "disease_name": "Restless legs syndrome with periodic limb movement disorder"}
+{"psychiatric_disorder": 488, "disease_name": "Nightmare disorder with comorbid PTSD"}
+{"psychiatric_disorder": 489, "disease_name": "Gender dysphoria in adolescents undergoing transition"}
+{"psychiatric_disorder": 490, "disease_name": "Gender dysphoria with comorbid depressive disorder"}
+{"psychiatric_disorder": 491, "disease_name": "Cannabis-induced anxiety disorder with panic attacks"}
+{"psychiatric_disorder": 492, "disease_name": "Cocaine-induced anxiety disorder with panic attacks"}
+{"psychiatric_disorder": 493, "disease_name": "Amphetamine-induced anxiety disorder with panic attacks"}
+{"psychiatric_disorder": 494, "disease_name": "Alcohol-induced anxiety disorder during withdrawal"}
+{"psychiatric_disorder": 495, "disease_name": "Sedative-induced anxiety disorder after cessation"}
+{"psychiatric_disorder": 496, "disease_name": "Other specified schizophrenia spectrum and other psychotic disorder, postpartum psychosis not otherwise specified"}
+{"psychiatric_disorder": 497, "disease_name": "Other specified bipolar and related disorder, hypomanic episode without prior major depressive episode"}
+{"psychiatric_disorder": 498, "disease_name": "Other specified bipolar and related disorder, short-duration cyclothymic symptoms"}
+{"psychiatric_disorder": 499, "disease_name": "Enuresis associated with sleepwalking disorder"}
+{"psychiatric_disorder": 500, "disease_name": "Encopresis associated with oppositional defiant disorder"}
+{"psychiatric_disorder": 501, "disease_name": "Specific phobia, animal type (snakes)"}
+{"psychiatric_disorder": 502, "disease_name": "Specific phobia, animal type (spiders)"}
+{"psychiatric_disorder": 503, "disease_name": "Specific phobia, natural environment type (storms)"}
+{"psychiatric_disorder": 504, "disease_name": "Specific phobia, situational type (bridges)"}
+{"psychiatric_disorder": 505, "disease_name": "Specific phobia, other type (choking)"}
+{"psychiatric_disorder": 506, "disease_name": "Specific phobia, other type (loud sounds)"}
+{"psychiatric_disorder": 507, "disease_name": "Specific phobia, situational type (driving)"}
+{"psychiatric_disorder": 508, "disease_name": "Specific phobia, situational type (tunnels)"}
+{"psychiatric_disorder": 509, "disease_name": "Specific phobia, natural environment type (deep water)"}
+{"psychiatric_disorder": 510, "disease_name": "Specific phobia, blood-injection-injury type (seeing blood)"}
+{"psychiatric_disorder": 511, "disease_name": "Specific phobia, blood-injection-injury type (receiving an injection)"}
+{"psychiatric_disorder": 512, "disease_name": "Specific phobia, situational type (elevators)"}
+{"psychiatric_disorder": 513, "disease_name": "Specific phobia, other type (contracting an illness)"}
+{"psychiatric_disorder": 514, "disease_name": "Specific phobia, animal type (dogs and cats)"}
+{"psychiatric_disorder": 515, "disease_name": "Specific phobia, natural environment type (thunderstorms)"}
+{"psychiatric_disorder": 516, "disease_name": "Specific phobia, situational type (airplanes and airports)"}
+{"psychiatric_disorder": 517, "disease_name": "Specific phobia, blood-injection-injury type (blood tests)"}
+{"psychiatric_disorder": 518, "disease_name": "Specific phobia, other type (vomiting in public)"}
+{"psychiatric_disorder": 519, "disease_name": "Specific phobia, other type (choking on solid food)"}
+{"psychiatric_disorder": 520, "disease_name": "Alcohol use disorder, in early remission"}
+{"psychiatric_disorder": 521, "disease_name": "Alcohol use disorder, in sustained remission"}
+{"psychiatric_disorder": 522, "disease_name": "Opioid use disorder, in early remission"}
+{"psychiatric_disorder": 523, "disease_name": "Opioid use disorder, in sustained remission"}
+{"psychiatric_disorder": 524, "disease_name": "Cocaine use disorder, in early remission"}
+{"psychiatric_disorder": 525, "disease_name": "Cocaine use disorder, in sustained remission"}
+{"psychiatric_disorder": 526, "disease_name": "Cannabis use disorder, in early remission"}
+{"psychiatric_disorder": 527, "disease_name": "Cannabis use disorder, in sustained remission"}
+{"psychiatric_disorder": 528, "disease_name": "Sedative, hypnotic, or anxiolytic use disorder, in early remission"}
+{"psychiatric_disorder": 529, "disease_name": "Sedative, hypnotic, or anxiolytic use disorder, in sustained remission"}
+{"psychiatric_disorder": 530, "disease_name": "Other specified trauma- and stressor-related disorder, persistent complex bereavement-like disorder"}
+{"psychiatric_disorder": 531, "disease_name": "Other specified trauma- and stressor-related disorder, cultural grief-related syndrome"}
+{"psychiatric_disorder": 532, "disease_name": "Other specified anxiety disorder, limited-symptom social anxiety presentations"}
+{"psychiatric_disorder": 533, "disease_name": "Other specified depressive disorder, recurrent brief depression without previous major depressive episode"}
+{"psychiatric_disorder": 534, "disease_name": "Other specified somatic symptom and related disorder, health anxiety without somatic symptoms"}
+{"psychiatric_disorder": 535, "disease_name": "Delirium due to hepatic encephalopathy"}
+{"psychiatric_disorder": 536, "disease_name": "Delirium due to hypoxic-ischemic encephalopathy"}
+{"psychiatric_disorder": 537, "disease_name": "Delirium due to postoperative complications"}
+{"psychiatric_disorder": 538, "disease_name": "Delirium due to infection with sepsis"}
+{"psychiatric_disorder": 539, "disease_name": "Delirium due to electrolyte disturbance"}
+{"psychiatric_disorder": 540, "disease_name": "Major depressive disorder comorbid with generalized anxiety disorder"}
+{"psychiatric_disorder": 541, "disease_name": "Bipolar I disorder comorbid with panic disorder"}
+{"psychiatric_disorder": 542, "disease_name": "Schizophrenia comorbid with obsessive-compulsive disorder"}
+{"psychiatric_disorder": 543, "disease_name": "Autism spectrum disorder comorbid with attention-deficit/hyperactivity disorder"}
+{"psychiatric_disorder": 544, "disease_name": "Tourette's disorder comorbid with obsessive-compulsive disorder and ADHD"}
+{"psychiatric_disorder": 545, "disease_name": "Opioid-induced neurocognitive disorder"}
+{"psychiatric_disorder": 546, "disease_name": "Alcohol-induced neurocognitive disorder with behavioral disturbance"}
+{"psychiatric_disorder": 547, "disease_name": "Sedative-induced neurocognitive disorder"}
+{"psychiatric_disorder": 548, "disease_name": "Tobacco-induced sleep disorder with insomnia"}
+{"psychiatric_disorder": 549, "disease_name": "Caffeine-induced sleep disorder with insomnia"}
+{"psychiatric_disorder": 550, "disease_name": "Illness anxiety disorder with comorbid obsessive-compulsive disorder"}
+{"psychiatric_disorder": 551, "disease_name": "Somatic symptom disorder with predominant anxiety"}
+{"psychiatric_disorder": 552, "disease_name": "Somatic symptom disorder with predominant health concerns"}
+{"psychiatric_disorder": 553, "disease_name": "Conversion disorder with abnormal movement and seizures"}
+{"psychiatric_disorder": 554, "disease_name": "Other specified somatic symptom and related disorder, factitious symptoms predominantly psychological"}
+{"psychiatric_disorder": 555, "disease_name": "Dissociative identity disorder with comorbid posttraumatic stress disorder"}
+{"psychiatric_disorder": 556, "disease_name": "Depersonalization/derealization disorder with comorbid panic disorder"}
+{"psychiatric_disorder": 557, "disease_name": "Dissociative amnesia related to combat trauma"}
+{"psychiatric_disorder": 558, "disease_name": "Insomnia disorder comorbid with major depressive disorder"}
+{"psychiatric_disorder": 559, "disease_name": "Insomnia disorder comorbid with generalized anxiety disorder"}
+{"psychiatric_disorder": 560, "disease_name": "Hypersomnolence disorder comorbid with depressive disorder"}
+{"psychiatric_disorder": 561, "disease_name": "Nightmare disorder comorbid with substance use disorder"}
+{"psychiatric_disorder": 562, "disease_name": "Restless legs syndrome comorbid with attention-deficit/hyperactivity disorder"}
+{"psychiatric_disorder": 563, "disease_name": "Oppositional defiant disorder comorbid with depressive disorder"}
+{"psychiatric_disorder": 564, "disease_name": "Conduct disorder comorbid with substance use disorder"}
+{"psychiatric_disorder": 565, "disease_name": "Borderline personality disorder with comorbid eating disorder"}
+{"psychiatric_disorder": 566, "disease_name": "Avoidant personality disorder with comorbid social anxiety disorder"}
+{"psychiatric_disorder": 567, "disease_name": "Obsessive-compulsive personality disorder comorbid with obsessive-compulsive disorder"}
+{"psychiatric_disorder": 568, "disease_name": "Alcohol-induced sleep disorder, parasomnia type"}
+{"psychiatric_disorder": 569, "disease_name": "Cocaine-induced sleep disorder, insomnia type"}
+{"psychiatric_disorder": 570, "disease_name": "Amphetamine-induced sleep disorder, insomnia type"}
+{"psychiatric_disorder": 571, "disease_name": "Cannabis-induced sleep disorder, hypersomnolence type"}
+{"psychiatric_disorder": 572, "disease_name": "Opioid-induced sleep disorder, insomnia type"}
+{"psychiatric_disorder": 573, "disease_name": "Other specified bipolar and related disorder, depressive episodes with short-duration hypomania"}
+{"psychiatric_disorder": 574, "disease_name": "Other specified anxiety disorder, generalized anxiety with insufficient number of symptoms"}
+{"psychiatric_disorder": 575, "disease_name": "Other specified obsessive-compulsive and related disorder, nail-biting disorder"}
+{"psychiatric_disorder": 576, "disease_name": "Other specified feeding or eating disorder, orthorexia-like presentation"}
+{"psychiatric_disorder": 577, "disease_name": "Other specified sleep-wake disorder, short sleeper"}
+{"psychiatric_disorder": 578, "disease_name": "Other specified neurocognitive disorder, mild cognitive impairment with memory deficits only"}
+{"psychiatric_disorder": 579, "disease_name": "Other specified personality disorder, mixed personality features"}
+{"psychiatric_disorder": 580, "disease_name": "Cannabis use disorder, mild"}
+{"psychiatric_disorder": 581, "disease_name": "Cocaine use disorder, mild"}
+{"psychiatric_disorder": 582, "disease_name": "Opioid use disorder, mild"}
+{"psychiatric_disorder": 583, "disease_name": "Sedative, hypnotic, or anxiolytic use disorder, mild"}
+{"psychiatric_disorder": 584, "disease_name": "Stimulant use disorder (amphetamine-type), mild"}
+{"psychiatric_disorder": 585, "disease_name": "Stimulant use disorder (cocaine), mild"}
+{"psychiatric_disorder": 586, "disease_name": "Hallucinogen use disorder, mild"}
+{"psychiatric_disorder": 587, "disease_name": "Inhalant use disorder, mild"}
+{"psychiatric_disorder": 588, "disease_name": "Tobacco use disorder, mild"}
+{"psychiatric_disorder": 589, "disease_name": "Other (or unknown) substance use disorder, mild"}
+{"psychiatric_disorder": 590, "disease_name": "Other specified schizophrenia spectrum and other psychotic disorder, persistent hallucinations without other symptoms"}
+{"psychiatric_disorder": 591, "disease_name": "Other specified depressive disorder, short-duration hypomanic-like episodes with depressive episodes"}
+{"psychiatric_disorder": 592, "disease_name": "Other specified anxiety disorder, social anxiety with taijin kyofusho-like features"}
+{"psychiatric_disorder": 593, "disease_name": "Other specified trauma- and stressor-related disorder, ataque de nervios-like episodes"}
+{"psychiatric_disorder": 594, "disease_name": "Other specified dissociative disorder, trance-like episodes"}
+{"psychiatric_disorder": 595, "disease_name": "Other specified somatic symptom and related disorder, pseudocyesis"}
+{"psychiatric_disorder": 596, "disease_name": "Other specified feeding or eating disorder, night eating syndrome with obesity"}
+{"psychiatric_disorder": 597, "disease_name": "Other specified elimination disorder, functional urinary frequency"}
+{"psychiatric_disorder": 598, "disease_name": "Other specified gender dysphoria, partial transition"}
+{"psychiatric_disorder": 599, "disease_name": "Unspecified mental disorder due to another medical condition"}

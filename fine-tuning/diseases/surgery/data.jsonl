@@ -1,0 +1,600 @@
+{"surgical_condition": 1, "disease_name": "Acute Calculous Cholecystitis"}
+{"surgical_condition": 2, "disease_name": "Acute Acalculous Cholecystitis"}
+{"surgical_condition": 3, "disease_name": "Chronic Calculous Cholecystitis"}
+{"surgical_condition": 4, "disease_name": "Choledocholithiasis"}
+{"surgical_condition": 5, "disease_name": "Acute Suppurative Cholangitis"}
+{"surgical_condition": 6, "disease_name": "Recurrent Pyogenic Cholangitis"}
+{"surgical_condition": 7, "disease_name": "Primary Sclerosing Cholangitis"}
+{"surgical_condition": 8, "disease_name": "Gallstone Ileus"}
+{"surgical_condition": 9, "disease_name": "Gallbladder Empyema"}
+{"surgical_condition": 10, "disease_name": "Perforated Gallbladder"}
+{"surgical_condition": 11, "disease_name": "Mirizzi Syndrome"}
+{"surgical_condition": 12, "disease_name": "Gallstone Pancreatitis"}
+{"surgical_condition": 13, "disease_name": "Acute Interstitial Edematous Pancreatitis"}
+{"surgical_condition": 14, "disease_name": "Acute Necrotizing Pancreatitis"}
+{"surgical_condition": 15, "disease_name": "Infected Pancreatic Necrosis"}
+{"surgical_condition": 16, "disease_name": "Pancreatic Pseudocyst"}
+{"surgical_condition": 17, "disease_name": "Walled-off Pancreatic Necrosis"}
+{"surgical_condition": 18, "disease_name": "Chronic Calcific Pancreatitis"}
+{"surgical_condition": 19, "disease_name": "Groove Pancreatitis"}
+{"surgical_condition": 20, "disease_name": "Autoimmune Pancreatitis"}
+{"surgical_condition": 21, "disease_name": "Adenocarcinoma of the Head of the Pancreas"}
+{"surgical_condition": 22, "disease_name": "Adenocarcinoma of the Body of the Pancreas"}
+{"surgical_condition": 23, "disease_name": "Adenocarcinoma of the Tail of the Pancreas"}
+{"surgical_condition": 24, "disease_name": "Intraductal Papillary Mucinous Neoplasm of the Pancreas"}
+{"surgical_condition": 25, "disease_name": "Mucinous Cystic Neoplasm of the Pancreas"}
+{"surgical_condition": 26, "disease_name": "Solid Pseudopapillary Neoplasm of the Pancreas"}
+{"surgical_condition": 27, "disease_name": "Pancreatic Neuroendocrine Tumor"}
+{"surgical_condition": 28, "disease_name": "Hepatocellular Carcinoma"}
+{"surgical_condition": 29, "disease_name": "Fibrolamellar Hepatocellular Carcinoma"}
+{"surgical_condition": 30, "disease_name": "Cholangiocarcinoma of the Intrahepatic Bile Ducts"}
+{"surgical_condition": 31, "disease_name": "Perihilar Cholangiocarcinoma"}
+{"surgical_condition": 32, "disease_name": "Distal Extrahepatic Cholangiocarcinoma"}
+{"surgical_condition": 33, "disease_name": "Gallbladder Carcinoma"}
+{"surgical_condition": 34, "disease_name": "Hepatic Hemangioma"}
+{"surgical_condition": 35, "disease_name": "Focal Nodular Hyperplasia of the Liver"}
+{"surgical_condition": 36, "disease_name": "Hepatic Adenoma"}
+{"surgical_condition": 37, "disease_name": "Pyogenic Liver Abscess"}
+{"surgical_condition": 38, "disease_name": "Amebic Liver Abscess"}
+{"surgical_condition": 39, "disease_name": "Hydatid Cyst of the Liver"}
+{"surgical_condition": 40, "disease_name": "Spontaneous Rupture of Hepatocellular Carcinoma"}
+{"surgical_condition": 41, "disease_name": "Spontaneous Bacterial Peritonitis in Cirrhosis"}
+{"surgical_condition": 42, "disease_name": "Bleeding Esophageal Varices"}
+{"surgical_condition": 43, "disease_name": "Bleeding Gastric Varices"}
+{"surgical_condition": 44, "disease_name": "Portal Vein Thrombosis with Bowel Ischemia"}
+{"surgical_condition": 45, "disease_name": "Budd–Chiari Syndrome with Hepatic Vein Thrombosis"}
+{"surgical_condition": 46, "disease_name": "Perforated Duodenal Ulcer"}
+{"surgical_condition": 47, "disease_name": "Perforated Gastric Ulcer"}
+{"surgical_condition": 48, "disease_name": "Bleeding Duodenal Ulcer"}
+{"surgical_condition": 49, "disease_name": "Bleeding Gastric Ulcer"}
+{"surgical_condition": 50, "disease_name": "Refractory Peptic Ulcer Disease"}
+{"surgical_condition": 51, "disease_name": "Zollinger–Ellison Syndrome with Gastrinoma"}
+{"surgical_condition": 52, "disease_name": "Gastrojejunostomy Ulcer (Marginal Ulcer)"}
+{"surgical_condition": 53, "disease_name": "Acute Gastric Volvulus"}
+{"surgical_condition": 54, "disease_name": "Chronic Gastric Volvulus"}
+{"surgical_condition": 55, "disease_name": "Gastric Outlet Obstruction due to Pyloric Stenosis"}
+{"surgical_condition": 56, "disease_name": "Hypertrophic Pyloric Stenosis of Infancy"}
+{"surgical_condition": 57, "disease_name": "Gastric Adenocarcinoma of the Antrum"}
+{"surgical_condition": 58, "disease_name": "Gastric Adenocarcinoma of the Body"}
+{"surgical_condition": 59, "disease_name": "Gastric Adenocarcinoma of the Cardia"}
+{"surgical_condition": 60, "disease_name": "Diffuse-type Gastric Carcinoma"}
+{"surgical_condition": 61, "disease_name": "Intestinal-type Gastric Carcinoma"}
+{"surgical_condition": 62, "disease_name": "Gastrointestinal Stromal Tumor of the Stomach"}
+{"surgical_condition": 63, "disease_name": "Gastrointestinal Stromal Tumor of the Duodenum"}
+{"surgical_condition": 64, "disease_name": "Gastric MALT Lymphoma"}
+{"surgical_condition": 65, "disease_name": "Esophageal Squamous Cell Carcinoma"}
+{"surgical_condition": 66, "disease_name": "Esophageal Adenocarcinoma"}
+{"surgical_condition": 67, "disease_name": "High-grade Dysplasia in Barrett Esophagus"}
+{"surgical_condition": 68, "disease_name": "Achalasia with Megaesophagus"}
+{"surgical_condition": 69, "disease_name": "Refractory Gastroesophageal Reflux Disease"}
+{"surgical_condition": 70, "disease_name": "Peptic Stricture of the Esophagus"}
+{"surgical_condition": 71, "disease_name": "Esophageal Perforation (Boerhaave Syndrome)"}
+{"surgical_condition": 72, "disease_name": "Cervical Esophageal Web with Dysphagia"}
+{"surgical_condition": 73, "disease_name": "Zenker Diverticulum"}
+{"surgical_condition": 74, "disease_name": "Epiphrenic Esophageal Diverticulum"}
+{"surgical_condition": 75, "disease_name": "Paraesophageal Hiatal Hernia with Gastric Volvulus"}
+{"surgical_condition": 76, "disease_name": "Sliding Hiatal Hernia with Reflux Esophagitis"}
+{"surgical_condition": 77, "disease_name": "Short Esophagus with Refractory Reflux"}
+{"surgical_condition": 78, "disease_name": "Mallory–Weiss Tear with Upper Gastrointestinal Hemorrhage"}
+{"surgical_condition": 79, "disease_name": "Dieulafoy Lesion of the Stomach"}
+{"surgical_condition": 80, "disease_name": "Cameron Ulcers in Large Hiatal Hernia"}
+{"surgical_condition": 81, "disease_name": "Crohn Disease of the Terminal Ileum with Obstruction"}
+{"surgical_condition": 82, "disease_name": "Crohn Disease of the Jejunum with Strictures"}
+{"surgical_condition": 83, "disease_name": "Crohn Colitis with Fistulizing Disease"}
+{"surgical_condition": 84, "disease_name": "Ulcerative Proctitis"}
+{"surgical_condition": 85, "disease_name": "Left-sided Ulcerative Colitis"}
+{"surgical_condition": 86, "disease_name": "Pancolitis due to Ulcerative Colitis"}
+{"surgical_condition": 87, "disease_name": "Fulminant Ulcerative Colitis"}
+{"surgical_condition": 88, "disease_name": "Toxic Megacolon in Ulcerative Colitis"}
+{"surgical_condition": 89, "disease_name": "Colorectal Adenocarcinoma of the Cecum"}
+{"surgical_condition": 90, "disease_name": "Colorectal Adenocarcinoma of the Ascending Colon"}
+{"surgical_condition": 91, "disease_name": "Colorectal Adenocarcinoma of the Hepatic Flexure"}
+{"surgical_condition": 92, "disease_name": "Colorectal Adenocarcinoma of the Transverse Colon"}
+{"surgical_condition": 93, "disease_name": "Colorectal Adenocarcinoma of the Splenic Flexure"}
+{"surgical_condition": 94, "disease_name": "Colorectal Adenocarcinoma of the Descending Colon"}
+{"surgical_condition": 95, "disease_name": "Adenocarcinoma of the Sigmoid Colon"}
+{"surgical_condition": 96, "disease_name": "Upper Rectal Adenocarcinoma"}
+{"surgical_condition": 97, "disease_name": "Mid-rectal Adenocarcinoma"}
+{"surgical_condition": 98, "disease_name": "Low Rectal Adenocarcinoma"}
+{"surgical_condition": 99, "disease_name": "Mucinous Adenocarcinoma of the Rectum"}
+{"surgical_condition": 100, "disease_name": "Signet Ring Cell Carcinoma of the Colon"}
+{"surgical_condition": 101, "disease_name": "Familial Adenomatous Polyposis with Colorectal Carcinoma"}
+{"surgical_condition": 102, "disease_name": "Attenuated Familial Adenomatous Polyposis"}
+{"surgical_condition": 103, "disease_name": "Hereditary Nonpolyposis Colorectal Cancer (Lynch Syndrome) with Colon Cancer"}
+{"surgical_condition": 104, "disease_name": "Juvenile Polyposis Syndrome with Colorectal Polyps"}
+{"surgical_condition": 105, "disease_name": "Peutz–Jeghers Syndrome with Small Bowel Polyps"}
+{"surgical_condition": 106, "disease_name": "Advanced Adenomatous Polyp with High-grade Dysplasia"}
+{"surgical_condition": 107, "disease_name": "Villous Adenoma of the Rectum"}
+{"surgical_condition": 108, "disease_name": "Sessile Serrated Adenoma of the Colon"}
+{"surgical_condition": 109, "disease_name": "Ischemic Colitis with Transmural Necrosis"}
+{"surgical_condition": 110, "disease_name": "Acute Mesenteric Arterial Thrombosis with Bowel Infarction"}
+{"surgical_condition": 111, "disease_name": "Acute Mesenteric Venous Thrombosis with Bowel Ischemia"}
+{"surgical_condition": 112, "disease_name": "Nonocclusive Mesenteric Ischemia with Bowel Necrosis"}
+{"surgical_condition": 113, "disease_name": "Strangulated Internal Hernia with Small Bowel Ischemia"}
+{"surgical_condition": 114, "disease_name": "Closed-loop Small Bowel Obstruction with Ischemia"}
+{"surgical_condition": 115, "disease_name": "Postoperative Adhesive Small Bowel Obstruction"}
+{"surgical_condition": 116, "disease_name": "Jejunal Obstruction due to Congenital Atresia"}
+{"surgical_condition": 117, "disease_name": "Ileal Obstruction due to Meckel Diverticulum"}
+{"surgical_condition": 118, "disease_name": "Meckel Diverticulum with Bleeding"}
+{"surgical_condition": 119, "disease_name": "Meckel Diverticulum with Perforation"}
+{"surgical_condition": 120, "disease_name": "Intussusception of the Ileocolic Region in Children"}
+{"surgical_condition": 121, "disease_name": "Sigmoid Volvulus"}
+{"surgical_condition": 122, "disease_name": "Cecal Volvulus"}
+{"surgical_condition": 123, "disease_name": "Transverse Colon Volvulus"}
+{"surgical_condition": 124, "disease_name": "Redundant Sigmoid Colon with Recurrent Volvulus"}
+{"surgical_condition": 125, "disease_name": "Perforated Sigmoid Diverticulitis with Generalized Peritonitis"}
+{"surgical_condition": 126, "disease_name": "Sigmoid Diverticulitis with Localized Abscess"}
+{"surgical_condition": 127, "disease_name": "Colovesical Fistula due to Sigmoid Diverticulitis"}
+{"surgical_condition": 128, "disease_name": "Colovaginal Fistula due to Diverticulitis"}
+{"surgical_condition": 129, "disease_name": "Right-sided Colonic Diverticulitis with Abscess"}
+{"surgical_condition": 130, "disease_name": "Perforated Carcinoma of the Colon with Fecal Peritonitis"}
+{"surgical_condition": 131, "disease_name": "Obstructing Carcinoma of the Left Colon with Megacolon"}
+{"surgical_condition": 132, "disease_name": "Obstructing Rectosigmoid Carcinoma with Acute Obstruction"}
+{"surgical_condition": 133, "disease_name": "Radiation Proctitis with Rectal Ulceration"}
+{"surgical_condition": 134, "disease_name": "Solitary Rectal Ulcer Syndrome"}
+{"surgical_condition": 135, "disease_name": "Rectal Prolapse with Fecal Incontinence"}
+{"surgical_condition": 136, "disease_name": "Internal Hemorrhoids Grade III"}
+{"surgical_condition": 137, "disease_name": "Internal Hemorrhoids Grade IV"}
+{"surgical_condition": 138, "disease_name": "Thrombosed External Hemorrhoid"}
+{"surgical_condition": 139, "disease_name": "Chronic Anal Fissure"}
+{"surgical_condition": 140, "disease_name": "Acute Anal Fissure"}
+{"surgical_condition": 141, "disease_name": "Low Transsphincteric Anal Fistula"}
+{"surgical_condition": 142, "disease_name": "High Transsphincteric Anal Fistula"}
+{"surgical_condition": 143, "disease_name": "Suprasphincteric Anal Fistula"}
+{"surgical_condition": 144, "disease_name": "Extrasphincteric Anal Fistula"}
+{"surgical_condition": 145, "disease_name": "Perianal Abscess"}
+{"surgical_condition": 146, "disease_name": "Ischiorectal Abscess"}
+{"surgical_condition": 147, "disease_name": "Intersphincteric Abscess"}
+{"surgical_condition": 148, "disease_name": "Horseshoe Perianal Abscess"}
+{"surgical_condition": 149, "disease_name": "Anal Canal Squamous Cell Carcinoma"}
+{"surgical_condition": 150, "disease_name": "Perianal Paget Disease"}
+{"surgical_condition": 151, "disease_name": "Perianal Bowen Disease"}
+{"surgical_condition": 152, "disease_name": "Complex Perianal Fistulizing Crohn Disease"}
+{"surgical_condition": 153, "disease_name": "Pilonidal Sinus with Abscess"}
+{"surgical_condition": 154, "disease_name": "Recurrent Pilonidal Sinus Disease"}
+{"surgical_condition": 155, "disease_name": "Enterocutaneous Fistula after Bowel Resection"}
+{"surgical_condition": 156, "disease_name": "Enteroenteric Fistula in Crohn Disease"}
+{"surgical_condition": 157, "disease_name": "Enterovesical Fistula in Crohn Disease"}
+{"surgical_condition": 158, "disease_name": "Short Bowel Syndrome after Massive Small Bowel Resection"}
+{"surgical_condition": 159, "disease_name": "Chronic Intestinal Pseudo-obstruction"}
+{"surgical_condition": 160, "disease_name": "Small Bowel Neuroendocrine Tumor"}
+{"surgical_condition": 161, "disease_name": "Duodenal Adenocarcinoma"}
+{"surgical_condition": 162, "disease_name": "Jejunal Adenocarcinoma"}
+{"surgical_condition": 163, "disease_name": "Ileal Adenocarcinoma"}
+{"surgical_condition": 164, "disease_name": "Gastrointestinal Stromal Tumor of the Small Intestine"}
+{"surgical_condition": 165, "disease_name": "Primary Intestinal Lymphoma of the Jejunum"}
+{"surgical_condition": 166, "disease_name": "Primary Intestinal Lymphoma of the Ileum"}
+{"surgical_condition": 167, "disease_name": "Perforated Small Bowel Lymphoma"}
+{"surgical_condition": 168, "disease_name": "Perforated Typhoid Ileal Ulcer"}
+{"surgical_condition": 169, "disease_name": "Strangulated Inguinal Hernia"}
+{"surgical_condition": 170, "disease_name": "Incarcerated Inguinal Hernia"}
+{"surgical_condition": 171, "disease_name": "Recurrent Indirect Inguinal Hernia"}
+{"surgical_condition": 172, "disease_name": "Recurrent Direct Inguinal Hernia"}
+{"surgical_condition": 173, "disease_name": "Bilateral Inguinal Hernia with Obstruction"}
+{"surgical_condition": 174, "disease_name": "Strangulated Femoral Hernia"}
+{"surgical_condition": 175, "disease_name": "Incarcerated Femoral Hernia"}
+{"surgical_condition": 176, "disease_name": "Richter Hernia of the Femoral Canal"}
+{"surgical_condition": 177, "disease_name": "Amyand Hernia (Appendix in Inguinal Hernia Sac)"}
+{"surgical_condition": 178, "disease_name": "De Garengeot Hernia (Appendix in Femoral Hernia Sac)"}
+{"surgical_condition": 179, "disease_name": "Littre Hernia (Meckel Diverticulum in Hernia Sac)"}
+{"surgical_condition": 180, "disease_name": "Obturator Hernia with Small Bowel Obstruction"}
+{"surgical_condition": 181, "disease_name": "Spigelian Hernia"}
+{"surgical_condition": 182, "disease_name": "Umbilical Hernia in Adults"}
+{"surgical_condition": 183, "disease_name": "Strangulated Umbilical Hernia"}
+{"surgical_condition": 184, "disease_name": "Paraumbilical Hernia"}
+{"surgical_condition": 185, "disease_name": "Epigastric Hernia"}
+{"surgical_condition": 186, "disease_name": "Recurrent Ventral Incisional Hernia"}
+{"surgical_condition": 187, "disease_name": "Giant Ventral Incisional Hernia"}
+{"surgical_condition": 188, "disease_name": "Parastomal Hernia"}
+{"surgical_condition": 189, "disease_name": "Lumbar Hernia"}
+{"surgical_condition": 190, "disease_name": "Sciatic Hernia"}
+{"surgical_condition": 191, "disease_name": "Perineal Hernia"}
+{"surgical_condition": 192, "disease_name": "Diaphragmatic Hernia due to Trauma"}
+{"surgical_condition": 193, "disease_name": "Bochdalek Diaphragmatic Hernia in Adults"}
+{"surgical_condition": 194, "disease_name": "Morgagni Diaphragmatic Hernia"}
+{"surgical_condition": 195, "disease_name": "Internal Hernia through the Foramen of Winslow"}
+{"surgical_condition": 196, "disease_name": "Left Paraduodenal Internal Hernia"}
+{"surgical_condition": 197, "disease_name": "Right Paraduodenal Internal Hernia"}
+{"surgical_condition": 198, "disease_name": "Transmesenteric Internal Hernia"}
+{"surgical_condition": 199, "disease_name": "Transmesocolic Internal Hernia"}
+{"surgical_condition": 200, "disease_name": "Pantaloon (Combined Direct and Indirect) Inguinal Hernia"}
+{"surgical_condition": 201, "disease_name": "Sliding Inguinal Hernia Containing Colon"}
+{"surgical_condition": 202, "disease_name": "Incarcerated Obturator Hernia"}
+{"surgical_condition": 203, "disease_name": "Strangulated Parastomal Hernia"}
+{"surgical_condition": 204, "disease_name": "Incarcerated Spigelian Hernia"}
+{"surgical_condition": 205, "disease_name": "Giant Congenital Umbilical Hernia in Infancy"}
+{"surgical_condition": 206, "disease_name": "Primary Midline Incisional Hernia"}
+{"surgical_condition": 207, "disease_name": "Multiple Recurrent Incisional Hernia"}
+{"surgical_condition": 208, "disease_name": "Abdominal Wall Desmoid-type Fibromatosis"}
+{"surgical_condition": 209, "disease_name": "Abdominal Wall Sarcoma"}
+{"surgical_condition": 210, "disease_name": "Rectus Sheath Hematoma Requiring Surgical Evacuation"}
+{"surgical_condition": 211, "disease_name": "Necrotizing Fasciitis of the Abdominal Wall"}
+{"surgical_condition": 212, "disease_name": "Fournier Gangrene of the Perineum"}
+{"surgical_condition": 213, "disease_name": "Primary Hyperparathyroidism due to Solitary Parathyroid Adenoma"}
+{"surgical_condition": 214, "disease_name": "Primary Hyperparathyroidism due to Parathyroid Hyperplasia"}
+{"surgical_condition": 215, "disease_name": "Parathyroid Carcinoma"}
+{"surgical_condition": 216, "disease_name": "Secondary Hyperparathyroidism Refractory to Medical Therapy"}
+{"surgical_condition": 217, "disease_name": "Tertiary Hyperparathyroidism in End-stage Renal Disease"}
+{"surgical_condition": 218, "disease_name": "Papillary Thyroid Carcinoma of the Thyroid Isthmus"}
+{"surgical_condition": 219, "disease_name": "Papillary Thyroid Carcinoma of the Thyroid Lobe"}
+{"surgical_condition": 220, "disease_name": "Follicular Thyroid Carcinoma"}
+{"surgical_condition": 221, "disease_name": "Medullary Thyroid Carcinoma in MEN 2A"}
+{"surgical_condition": 222, "disease_name": "Medullary Thyroid Carcinoma in MEN 2B"}
+{"surgical_condition": 223, "disease_name": "Anaplastic Thyroid Carcinoma"}
+{"surgical_condition": 224, "disease_name": "Hürthle Cell Carcinoma of the Thyroid"}
+{"surgical_condition": 225, "disease_name": "Toxic Multinodular Goiter"}
+{"surgical_condition": 226, "disease_name": "Toxic Solitary Thyroid Nodule"}
+{"surgical_condition": 227, "disease_name": "Graves Disease with Compressive Goiter"}
+{"surgical_condition": 228, "disease_name": "Substernal (Retrosternal) Goiter with Tracheal Compression"}
+{"surgical_condition": 229, "disease_name": "Recurrent Laryngeal Nerve Invasion by Thyroid Carcinoma"}
+{"surgical_condition": 230, "disease_name": "Primary Hyperaldosteronism due to Aldosterone-producing Adenoma"}
+{"surgical_condition": 231, "disease_name": "Pheochromocytoma of the Adrenal Gland"}
+{"surgical_condition": 232, "disease_name": "Bilateral Pheochromocytomas in MEN 2"}
+{"surgical_condition": 233, "disease_name": "Adrenocortical Carcinoma"}
+{"surgical_condition": 234, "disease_name": "Cortisol-producing Adrenal Adenoma (Cushing Syndrome)"}
+{"surgical_condition": 235, "disease_name": "Androgen-producing Adrenal Neoplasm"}
+{"surgical_condition": 236, "disease_name": "Nonfunctioning Adrenal Incidentaloma Requiring Resection"}
+{"surgical_condition": 237, "disease_name": "Extra-adrenal Paraganglioma of the Retroperitoneum"}
+{"surgical_condition": 238, "disease_name": "Pancreatic Insulinoma"}
+{"surgical_condition": 239, "disease_name": "Pancreatic Gastrinoma"}
+{"surgical_condition": 240, "disease_name": "Pancreatic Glucagonoma"}
+{"surgical_condition": 241, "disease_name": "Multiple Endocrine Neoplasia Type 1 with Pancreatic Neuroendocrine Tumors"}
+{"surgical_condition": 242, "disease_name": "Multiple Endocrine Neoplasia Type 1 with Parathyroid Hyperplasia"}
+{"surgical_condition": 243, "disease_name": "Multiple Endocrine Neoplasia Type 2A with Medullary Thyroid Carcinoma"}
+{"surgical_condition": 244, "disease_name": "Primary Hyperparathyroidism in MEN 2A"}
+{"surgical_condition": 245, "disease_name": "Bilateral Adrenal Hyperplasia in Cushing Disease"}
+{"surgical_condition": 246, "disease_name": "Primary Aldosteronism due to Bilateral Adrenal Hyperplasia"}
+{"surgical_condition": 247, "disease_name": "Breast Invasive Ductal Carcinoma, Hormone Receptor-positive"}
+{"surgical_condition": 248, "disease_name": "Breast Invasive Ductal Carcinoma, HER2-positive"}
+{"surgical_condition": 249, "disease_name": "Triple-negative Invasive Ductal Carcinoma of the Breast"}
+{"surgical_condition": 250, "disease_name": "Invasive Lobular Carcinoma of the Breast"}
+{"surgical_condition": 251, "disease_name": "Paget Disease of the Nipple with Underlying Carcinoma"}
+{"surgical_condition": 252, "disease_name": "Inflammatory Carcinoma of the Breast"}
+{"surgical_condition": 253, "disease_name": "Ductal Carcinoma in Situ of the Breast"}
+{"surgical_condition": 254, "disease_name": "Lobular Carcinoma in Situ of the Breast"}
+{"surgical_condition": 255, "disease_name": "Phyllodes Tumor of the Breast, Benign"}
+{"surgical_condition": 256, "disease_name": "Borderline Phyllodes Tumor of the Breast"}
+{"surgical_condition": 257, "disease_name": "Malignant Phyllodes Tumor of the Breast"}
+{"surgical_condition": 258, "disease_name": "Locally Recurrent Breast Carcinoma after Lumpectomy"}
+{"surgical_condition": 259, "disease_name": "Breast Implant-associated Anaplastic Large Cell Lymphoma"}
+{"surgical_condition": 260, "disease_name": "Male Breast Carcinoma"}
+{"surgical_condition": 261, "disease_name": "Metastatic Breast Carcinoma to Axillary Lymph Nodes"}
+{"surgical_condition": 262, "disease_name": "Soft Tissue Liposarcoma of the Thigh"}
+{"surgical_condition": 263, "disease_name": "Soft Tissue Leiomyosarcoma of the Retroperitoneum"}
+{"surgical_condition": 264, "disease_name": "Undifferentiated Pleomorphic Sarcoma of the Extremity"}
+{"surgical_condition": 265, "disease_name": "Synovial Sarcoma of the Knee Region"}
+{"surgical_condition": 266, "disease_name": "Myxofibrosarcoma of the Upper Limb"}
+{"surgical_condition": 267, "disease_name": "Dermatofibrosarcoma Protuberans of the Trunk"}
+{"surgical_condition": 268, "disease_name": "Desmoid-type Fibromatosis of the Mesentery"}
+{"surgical_condition": 269, "disease_name": "Retroperitoneal Liposarcoma"}
+{"surgical_condition": 270, "disease_name": "Retroperitoneal Leiomyosarcoma"}
+{"surgical_condition": 271, "disease_name": "Peripheral Nerve Sheath Tumor, Malignant"}
+{"surgical_condition": 272, "disease_name": "Extremity Osteogenic Sarcoma with Soft Tissue Extension"}
+{"surgical_condition": 273, "disease_name": "Chest Wall Chondrosarcoma"}
+{"surgical_condition": 274, "disease_name": "Abdominal Wall Rhabdomyosarcoma"}
+{"surgical_condition": 275, "disease_name": "Metastatic Melanoma to Small Intestine"}
+{"surgical_condition": 276, "disease_name": "Metastatic Melanoma to the Stomach"}
+{"surgical_condition": 277, "disease_name": "Metastatic Carcinoma to the Adrenal Gland"}
+{"surgical_condition": 278, "disease_name": "Oligometastatic Colorectal Cancer to the Liver"}
+{"surgical_condition": 279, "disease_name": "Solitary Pulmonary Metastasis from Colorectal Cancer"}
+{"surgical_condition": 280, "disease_name": "Peritoneal Carcinomatosis from Colorectal Carcinoma"}
+{"surgical_condition": 281, "disease_name": "Pseudomyxoma Peritonei from Appendiceal Neoplasm"}
+{"surgical_condition": 282, "disease_name": "Low-grade Appendiceal Mucinous Neoplasm with Perforation"}
+{"surgical_condition": 283, "disease_name": "High-grade Appendiceal Mucinous Neoplasm"}
+{"surgical_condition": 284, "disease_name": "Goblet Cell Adenocarcinoma of the Appendix"}
+{"surgical_condition": 285, "disease_name": "Acute Appendicitis"}
+{"surgical_condition": 286, "disease_name": "Gangrenous Acute Appendicitis"}
+{"surgical_condition": 287, "disease_name": "Perforated Acute Appendicitis with Localized Abscess"}
+{"surgical_condition": 288, "disease_name": "Perforated Acute Appendicitis with Generalized Peritonitis"}
+{"surgical_condition": 289, "disease_name": "Appendiceal Neuroendocrine Tumor"}
+{"surgical_condition": 290, "disease_name": "Carcinoid Tumor of the Appendix with Mesenteric Invasion"}
+{"surgical_condition": 291, "disease_name": "Hemangiopericytoma of the Retroperitoneum"}
+{"surgical_condition": 292, "disease_name": "Primary Peritoneal Mesothelioma"}
+{"surgical_condition": 293, "disease_name": "Desmoplastic Small Round Cell Tumor of the Peritoneum"}
+{"surgical_condition": 294, "disease_name": "Primary Non-Hodgkin Lymphoma of the Stomach"}
+{"surgical_condition": 295, "disease_name": "Primary Non-Hodgkin Lymphoma of the Colon"}
+{"surgical_condition": 296, "disease_name": "Primary Splenic Lymphoma"}
+{"surgical_condition": 297, "disease_name": "Splenic Hemangioma with Risk of Rupture"}
+{"surgical_condition": 298, "disease_name": "Splenic Cyst Requiring Splenectomy"}
+{"surgical_condition": 299, "disease_name": "Hypersplenism with Symptomatic Splenomegaly"}
+{"surgical_condition": 300, "disease_name": "Ruptured Splenic Artery Aneurysm in Pregnancy"}
+{"surgical_condition": 301, "disease_name": "Traumatic Splenic Laceration, Grade II"}
+{"surgical_condition": 302, "disease_name": "Traumatic Splenic Laceration, Grade III"}
+{"surgical_condition": 303, "disease_name": "Traumatic Splenic Laceration, Grade IV"}
+{"surgical_condition": 304, "disease_name": "Traumatic Splenic Rupture with Hemoperitoneum"}
+{"surgical_condition": 305, "disease_name": "Traumatic Liver Laceration, Grade II"}
+{"surgical_condition": 306, "disease_name": "Traumatic Liver Laceration, Grade III"}
+{"surgical_condition": 307, "disease_name": "Traumatic Liver Laceration, Grade IV"}
+{"surgical_condition": 308, "disease_name": "Traumatic Liver Avulsion Injury"}
+{"surgical_condition": 309, "disease_name": "Traumatic Pancreatic Contusion with Duct Injury"}
+{"surgical_condition": 310, "disease_name": "Traumatic Pancreatic Transection"}
+{"surgical_condition": 311, "disease_name": "Traumatic Duodenal Hematoma with Obstruction"}
+{"surgical_condition": 312, "disease_name": "Traumatic Duodenal Perforation"}
+{"surgical_condition": 313, "disease_name": "Blunt Traumatic Small Bowel Perforation"}
+{"surgical_condition": 314, "disease_name": "Penetrating Small Bowel Injury with Perforation"}
+{"surgical_condition": 315, "disease_name": "Blunt Traumatic Colon Perforation"}
+{"surgical_condition": 316, "disease_name": "Penetrating Colon Injury with Fecal Contamination"}
+{"surgical_condition": 317, "disease_name": "Traumatic Diaphragmatic Rupture"}
+{"surgical_condition": 318, "disease_name": "Traumatic Intraperitoneal Bladder Rupture"}
+{"surgical_condition": 319, "disease_name": "Traumatic Extraperitoneal Bladder Rupture"}
+{"surgical_condition": 320, "disease_name": "Traumatic Renal Laceration, Grade III"}
+{"surgical_condition": 321, "disease_name": "Traumatic Renal Laceration, Grade IV"}
+{"surgical_condition": 322, "disease_name": "Traumatic Renal Pedicle Avulsion"}
+{"surgical_condition": 323, "disease_name": "Mesenteric Tear with Active Hemorrhage"}
+{"surgical_condition": 324, "disease_name": "Abdominal Compartment Syndrome after Trauma"}
+{"surgical_condition": 325, "disease_name": "Open Abdomen with Loss of Domain after Damage Control Laparotomy"}
+{"surgical_condition": 326, "disease_name": "Traumatic Aortic Injury at the Isthmus"}
+{"surgical_condition": 327, "disease_name": "Penetrating Abdominal Aortic Injury"}
+{"surgical_condition": 328, "disease_name": "Acute Traumatic Limb Ischemia from Vascular Injury"}
+{"surgical_condition": 329, "disease_name": "Traumatic Inferior Vena Cava Laceration"}
+{"surgical_condition": 330, "disease_name": "Acute Mesenteric Ischemia from Superior Mesenteric Artery Embolus"}
+{"surgical_condition": 331, "disease_name": "Acute Mesenteric Ischemia from Nonocclusive Low-flow State"}
+{"surgical_condition": 332, "disease_name": "Strangulated Incarcerated Umbilical Hernia"}
+{"surgical_condition": 333, "disease_name": "Strangulated Incisional Hernia"}
+{"surgical_condition": 334, "disease_name": "Strangulated Femoral Hernia with Bowel Gangrene"}
+{"surgical_condition": 335, "disease_name": "Perforated Peptic Ulcer with Generalized Peritonitis"}
+{"surgical_condition": 336, "disease_name": "Generalized Fecal Peritonitis from Colon Perforation"}
+{"surgical_condition": 337, "disease_name": "Generalized Purulent Peritonitis from Small Bowel Perforation"}
+{"surgical_condition": 338, "disease_name": "Postoperative Anastomotic Leak after Colorectal Resection"}
+{"surgical_condition": 339, "disease_name": "Postoperative Pancreaticojejunostomy Leak after Pancreatic Resection"}
+{"surgical_condition": 340, "disease_name": "Postoperative Bile Leak after Hepatic Resection"}
+{"surgical_condition": 341, "disease_name": "Intra-abdominal Abscess following Appendectomy"}
+{"surgical_condition": 342, "disease_name": "Intra-abdominal Abscess following Colorectal Surgery"}
+{"surgical_condition": 343, "disease_name": "Necrotizing Soft Tissue Infection of the Abdominal Wall"}
+{"surgical_condition": 344, "disease_name": "Necrotizing Soft Tissue Infection of the Extremity"}
+{"surgical_condition": 345, "disease_name": "Gas Gangrene of the Extremity"}
+{"surgical_condition": 346, "disease_name": "Severe Acute Pancreatitis with Abdominal Compartment Syndrome"}
+{"surgical_condition": 347, "disease_name": "Acute Mesenteric Venous Thrombosis Requiring Resection"}
+{"surgical_condition": 348, "disease_name": "Ischemic Small Bowel Stricture after Mesenteric Ischemia"}
+{"surgical_condition": 349, "disease_name": "Ischemic Colonic Stricture after Ischemic Colitis"}
+{"surgical_condition": 350, "disease_name": "Strangulated Internal Hernia after Roux-en-Y Gastric Bypass"}
+{"surgical_condition": 351, "disease_name": "Obstructed Internal Hernia through Petersen Defect"}
+{"surgical_condition": 352, "disease_name": "Acute Closed-loop Obstruction after Adhesions"}
+{"surgical_condition": 353, "disease_name": "Small Bowel Obstruction due to Incarcerated Inguinal Hernia"}
+{"surgical_condition": 354, "disease_name": "Small Bowel Obstruction due to Gallstone Ileus"}
+{"surgical_condition": 355, "disease_name": "Small Bowel Obstruction due to Bezoar"}
+{"surgical_condition": 356, "disease_name": "Obstructing Crohn Ileal Stricture"}
+{"surgical_condition": 357, "disease_name": "Obstructing Colonic Stricture due to Diverticulitis"}
+{"surgical_condition": 358, "disease_name": "Obstructing Colonic Stricture due to Radiation"}
+{"surgical_condition": 359, "disease_name": "Acute Paralytic Ileus requiring Surgical Exploration"}
+{"surgical_condition": 360, "disease_name": "Volvulus of a Jejunal Roux Limb"}
+{"surgical_condition": 361, "disease_name": "Strangulated Richter Hernia of the Inguinal Canal"}
+{"surgical_condition": 362, "disease_name": "Strangulated Richter Hernia of the Femoral Canal"}
+{"surgical_condition": 363, "disease_name": "Incarcerated Lumbar Hernia with Bowel Obstruction"}
+{"surgical_condition": 364, "disease_name": "Complicated Parastomal Hernia with Bowel Ischemia"}
+{"surgical_condition": 365, "disease_name": "Giant Inguinoscrotal Hernia with Loss of Domain"}
+{"surgical_condition": 366, "disease_name": "Giant Ventral Hernia with Loss of Domain"}
+{"surgical_condition": 367, "disease_name": "Enteroatmospheric Fistula in Open Abdomen"}
+{"surgical_condition": 368, "disease_name": "Chronic Enterocutaneous Fistula with High Output"}
+{"surgical_condition": 369, "disease_name": "Short Gut Syndrome after Mesenteric Infarction"}
+{"surgical_condition": 370, "disease_name": "Massive Lower Gastrointestinal Bleeding from Angiodysplasia"}
+{"surgical_condition": 371, "disease_name": "Massive Lower Gastrointestinal Bleeding from Diverticulosis"}
+{"surgical_condition": 372, "disease_name": "Massive Upper Gastrointestinal Bleeding from Varices"}
+{"surgical_condition": 373, "disease_name": "Massive Upper Gastrointestinal Bleeding from Peptic Ulcer"}
+{"surgical_condition": 374, "disease_name": "Jejunal Diverticulosis with Perforation"}
+{"surgical_condition": 375, "disease_name": "Jejunal Diverticulosis with Hemorrhage"}
+{"surgical_condition": 376, "disease_name": "Gastric Bezoar with Outlet Obstruction"}
+{"surgical_condition": 377, "disease_name": "Trichobezoar with Gastric Perforation"}
+{"surgical_condition": 378, "disease_name": "Superior Mesenteric Artery Syndrome"}
+{"surgical_condition": 379, "disease_name": "Chronic Intestinal Failure Requiring Intestinal Transplant Evaluation"}
+{"surgical_condition": 380, "disease_name": "Portal Hypertensive Colopathy with Bleeding"}
+{"surgical_condition": 381, "disease_name": "Portal Hypertensive Gastropathy with Bleeding"}
+{"surgical_condition": 382, "disease_name": "Symptomatic Large Splenic Artery Aneurysm"}
+{"surgical_condition": 383, "disease_name": "Symptomatic Hepatic Artery Aneurysm"}
+{"surgical_condition": 384, "disease_name": "Arteriovenous Malformation of the Small Bowel with Bleeding"}
+{"surgical_condition": 385, "disease_name": "Arteriovenous Malformation of the Colon with Bleeding"}
+{"surgical_condition": 386, "disease_name": "Primary Intestinal Lymphangiectasia with Protein-losing Enteropathy"}
+{"surgical_condition": 387, "disease_name": "Chylous Ascites after Abdominal Surgery"}
+{"surgical_condition": 388, "disease_name": "Chylous Ascites due to Lymphoma"}
+{"surgical_condition": 389, "disease_name": "Recurrent Incarcerated Umbilical Hernia in Obesity"}
+{"surgical_condition": 390, "disease_name": "Recurrent Strangulated Inguinal Hernia"}
+{"surgical_condition": 391, "disease_name": "Recurrent Strangulated Ventral Hernia"}
+{"surgical_condition": 392, "disease_name": "Primary Soft Tissue Sarcoma of the Abdominal Wall"}
+{"surgical_condition": 393, "disease_name": "Recurrent Soft Tissue Sarcoma of the Extremity"}
+{"surgical_condition": 394, "disease_name": "Chest Wall Soft Tissue Sarcoma"}
+{"surgical_condition": 395, "disease_name": "Locally Advanced Rectal Carcinoma with Sphincter Involvement"}
+{"surgical_condition": 396, "disease_name": "Locally Advanced Rectal Carcinoma with Pelvic Sidewall Invasion"}
+{"surgical_condition": 397, "disease_name": "Locally Advanced Colon Cancer Invading Abdominal Wall"}
+{"surgical_condition": 398, "disease_name": "Locally Advanced Gastric Cancer Invading Pancreas"}
+{"surgical_condition": 399, "disease_name": "Locally Advanced Pancreatic Cancer with Vascular Involvement"}
+{"surgical_condition": 400, "disease_name": "Locally Advanced Hepatocellular Carcinoma with Portal Vein Tumor Thrombus"}
+{"surgical_condition": 401, "disease_name": "Low-grade Neuroendocrine Tumor of the Ileum with Mesenteric Mass"}
+{"surgical_condition": 402, "disease_name": "High-grade Neuroendocrine Carcinoma of the Colon"}
+{"surgical_condition": 403, "disease_name": "Gastrointestinal Stromal Tumor of the Rectum"}
+{"surgical_condition": 404, "disease_name": "Gastrointestinal Stromal Tumor of the Esophagus"}
+{"surgical_condition": 405, "disease_name": "Gastrointestinal Stromal Tumor of the Mesentery"}
+{"surgical_condition": 406, "disease_name": "Solitary Fibrous Tumor of the Pleura Extending to Diaphragm"}
+{"surgical_condition": 407, "disease_name": "Solitary Fibrous Tumor of the Retroperitoneum"}
+{"surgical_condition": 408, "disease_name": "Primary Omental Liposarcoma"}
+{"surgical_condition": 409, "disease_name": "Primary Omental Leiomyosarcoma"}
+{"surgical_condition": 410, "disease_name": "Metastatic Omental Carcinomatosis from Gastric Cancer"}
+{"surgical_condition": 411, "disease_name": "Metastatic Omental Carcinomatosis from Ovarian Cancer"}
+{"surgical_condition": 412, "disease_name": "Peritoneal Metastases from Appendiceal Mucinous Tumor"}
+{"surgical_condition": 413, "disease_name": "Peritoneal Metastases from Colorectal Cancer"}
+{"surgical_condition": 414, "disease_name": "Recurrent Peritoneal Mesothelioma after Cytoreductive Surgery"}
+{"surgical_condition": 415, "disease_name": "Recurrent Pseudomyxoma Peritonei after Debulking"}
+{"surgical_condition": 416, "disease_name": "Invasive Ductal Carcinoma of the Breast with Chest Wall Invasion"}
+{"surgical_condition": 417, "disease_name": "Breast Carcinoma with Extensive Axillary Nodal Metastases"}
+{"surgical_condition": 418, "disease_name": "Breast Carcinoma with Internal Mammary Nodal Metastases"}
+{"surgical_condition": 419, "disease_name": "Locally Recurrent Thyroid Carcinoma Invading Trachea"}
+{"surgical_condition": 420, "disease_name": "Locally Recurrent Thyroid Carcinoma Invading Esophagus"}
+{"surgical_condition": 421, "disease_name": "Recurrent Medullary Thyroid Carcinoma in the Neck"}
+{"surgical_condition": 422, "disease_name": "Recurrent Papillary Thyroid Carcinoma with Nodal Metastases"}
+{"surgical_condition": 423, "disease_name": "Bilateral Adrenal Metastases from Lung Carcinoma"}
+{"surgical_condition": 424, "disease_name": "Bilateral Adrenal Metastases from Melanoma"}
+{"surgical_condition": 425, "disease_name": "Pancreatic Metastasis from Renal Cell Carcinoma"}
+{"surgical_condition": 426, "disease_name": "Solitary Liver Metastasis from Neuroendocrine Tumor"}
+{"surgical_condition": 427, "disease_name": "Multiple Liver Metastases from Colorectal Carcinoma"}
+{"surgical_condition": 428, "disease_name": "Multiple Liver Metastases from Breast Carcinoma"}
+{"surgical_condition": 429, "disease_name": "Primary Angiosarcoma of the Liver"}
+{"surgical_condition": 430, "disease_name": "Primary Epithelioid Hemangioendothelioma of the Liver"}
+{"surgical_condition": 431, "disease_name": "Primary Hepatic Neuroendocrine Tumor"}
+{"surgical_condition": 432, "disease_name": "Giant Hemangioma of the Liver with Kasabach–Merritt Syndrome"}
+{"surgical_condition": 433, "disease_name": "Symptomatic Polycystic Liver Disease Requiring Resection"}
+{"surgical_condition": 434, "disease_name": "Symptomatic Polycystic Kidney and Liver Disease with Hepatic Cysts"}
+{"surgical_condition": 435, "disease_name": "Massive Splenomegaly due to Myeloproliferative Neoplasm"}
+{"surgical_condition": 436, "disease_name": "Massive Splenomegaly due to Lymphoma"}
+{"surgical_condition": 437, "disease_name": "Chronic Portal Vein Thrombosis with Cavernoma and Variceal Bleeding"}
+{"surgical_condition": 438, "disease_name": "Portal Biliopathy with Biliary Obstruction"}
+{"surgical_condition": 439, "disease_name": "Biliary Stricture after Cholecystectomy"}
+{"surgical_condition": 440, "disease_name": "Biliary Stricture after Liver Transplantation"}
+{"surgical_condition": 441, "disease_name": "Postoperative Internal Hernia after Gastric Bypass"}
+{"surgical_condition": 442, "disease_name": "Postoperative Incisional Hernia after Midline Laparotomy"}
+{"surgical_condition": 443, "disease_name": "Postoperative Incisional Hernia following Stoma Closure"}
+{"surgical_condition": 444, "disease_name": "Stomal Prolapse of End Colostomy"}
+{"surgical_condition": 445, "disease_name": "Stomal Prolapse of Ileostomy"}
+{"surgical_condition": 446, "disease_name": "Necrosis of Stoma due to Ischemia"}
+{"surgical_condition": 447, "disease_name": "Parastomal Hernia with Bowel Obstruction"}
+{"surgical_condition": 448, "disease_name": "Parastomal Hernia with Bowel Strangulation"}
+{"surgical_condition": 449, "disease_name": "Peristomal Pyoderma Gangrenosum"}
+{"surgical_condition": 450, "disease_name": "Radiation-induced Small Bowel Stricture"}
+{"surgical_condition": 451, "disease_name": "Radiation-induced Rectovaginal Fistula"}
+{"surgical_condition": 452, "disease_name": "Radiation-induced Vesicovaginal Fistula"}
+{"surgical_condition": 453, "disease_name": "Radiation-induced Pelvic Osteoradionecrosis"}
+{"surgical_condition": 454, "disease_name": "Enterovaginal Fistula after Hysterectomy"}
+{"surgical_condition": 455, "disease_name": "Rectourethral Fistula after Prostatectomy"}
+{"surgical_condition": 456, "disease_name": "Rectovesical Fistula after Pelvic Surgery"}
+{"surgical_condition": 457, "disease_name": "Persistent Gastrocutaneous Fistula after Gastrostomy"}
+{"surgical_condition": 458, "disease_name": "Chronic Pancreaticocutaneous Fistula"}
+{"surgical_condition": 459, "disease_name": "Chronic Biliary Cutaneous Fistula"}
+{"surgical_condition": 460, "disease_name": "Enteroenteric Fistula after Radiation Enteritis"}
+{"surgical_condition": 461, "disease_name": "Ischemic Cholangiopathy after Liver Transplant"}
+{"surgical_condition": 462, "disease_name": "Hepatic Artery Thrombosis after Liver Transplant"}
+{"surgical_condition": 463, "disease_name": "Portal Vein Thrombosis after Liver Transplant"}
+{"surgical_condition": 464, "disease_name": "Acute Rejection of Liver Allograft Requiring Surgical Intervention"}
+{"surgical_condition": 465, "disease_name": "Acute Rejection of Kidney Allograft with Vascular Compromise"}
+{"surgical_condition": 466, "disease_name": "Chronic Allograft Dysfunction of Kidney with Obstructive Uropathy"}
+{"surgical_condition": 467, "disease_name": "Acute Limb Compartment Syndrome after Fracture"}
+{"surgical_condition": 468, "disease_name": "Acute Limb Compartment Syndrome after Reperfusion"}
+{"surgical_condition": 469, "disease_name": "Necrotizing Infection of the Hand Requiring Debridement"}
+{"surgical_condition": 470, "disease_name": "Necrotizing Infection of the Foot in Diabetes"}
+{"surgical_condition": 471, "disease_name": "Acute Critical Limb Ischemia due to Embolism"}
+{"surgical_condition": 472, "disease_name": "Acute Critical Limb Ischemia due to Thrombosis"}
+{"surgical_condition": 473, "disease_name": "Ruptured Abdominal Aortic Aneurysm"}
+{"surgical_condition": 474, "disease_name": "Symptomatic Abdominal Aortic Aneurysm with Rapid Expansion"}
+{"surgical_condition": 475, "disease_name": "Infected Abdominal Aortic Aneurysm (Mycotic Aneurysm)"}
+{"surgical_condition": 476, "disease_name": "Aortoenteric Fistula after Aortic Graft"}
+{"surgical_condition": 477, "disease_name": "Aortocaval Fistula from Ruptured Aneurysm"}
+{"surgical_condition": 478, "disease_name": "Symptomatic Common Iliac Artery Aneurysm"}
+{"surgical_condition": 479, "disease_name": "Acute Thrombosis of Aortobifemoral Graft"}
+{"surgical_condition": 480, "disease_name": "Infected Femoral Artery Pseudoaneurysm"}
+{"surgical_condition": 481, "disease_name": "Infected Groin Vascular Graft"}
+{"surgical_condition": 482, "disease_name": "Carotid Body Tumor with Carotid Involvement"}
+{"surgical_condition": 483, "disease_name": "Paraganglioma of the Carotid Space"}
+{"surgical_condition": 484, "disease_name": "Traumatic Carotid Artery Dissection with Cerebral Ischemia"}
+{"surgical_condition": 485, "disease_name": "Traumatic Vertebral Artery Injury"}
+{"surgical_condition": 486, "disease_name": "Penetrating Neck Injury with Aerodigestive Tract Violation"}
+{"surgical_condition": 487, "disease_name": "Penetrating Neck Injury with Major Vascular Damage"}
+{"surgical_condition": 488, "disease_name": "Laryngotracheal Separation after Neck Trauma"}
+{"surgical_condition": 489, "disease_name": "Tracheoesophageal Fistula after Prolonged Intubation"}
+{"surgical_condition": 490, "disease_name": "Postintubation Tracheal Stenosis"}
+{"surgical_condition": 491, "disease_name": "Massive Hemoptysis from Bronchiectasis Requiring Surgical Resection"}
+{"surgical_condition": 492, "disease_name": "Massive Hemoptysis from Lung Cancer"}
+{"surgical_condition": 493, "disease_name": "Bronchopleural Fistula after Lung Resection"}
+{"surgical_condition": 494, "disease_name": "Empyema Thoracis Requiring Decortication"}
+{"surgical_condition": 495, "disease_name": "Chylothorax after Esophagectomy"}
+{"surgical_condition": 496, "disease_name": "Chylothorax after Neck Dissection"}
+{"surgical_condition": 497, "disease_name": "Massive Traumatic Hemothorax"}
+{"surgical_condition": 498, "disease_name": "Tension Pneumothorax Refractory to Drainage"}
+{"surgical_condition": 499, "disease_name": "Flail Chest with Respiratory Failure"}
+{"surgical_condition": 500, "disease_name": "Traumatic Rupture of the Bronchus"}
+{"surgical_condition": 501, "disease_name": "Traumatic Rupture of the Esophagus"}
+{"surgical_condition": 502, "disease_name": "Traumatic Rupture of the Trachea"}
+{"surgical_condition": 503, "disease_name": "Penetrating Cardiac Injury with Tamponade"}
+{"surgical_condition": 504, "disease_name": "Blunt Cardiac Rupture"}
+{"surgical_condition": 505, "disease_name": "Acute Cardiac Tamponade from Perforated Ventricular Wall"}
+{"surgical_condition": 506, "disease_name": "Hemopericardium after Penetrating Chest Trauma"}
+{"surgical_condition": 507, "disease_name": "Traumatic Rupture of the Thoracic Aorta"}
+{"surgical_condition": 508, "disease_name": "Penetrating Injury to the Inferior Vena Cava"}
+{"surgical_condition": 509, "disease_name": "Penetrating Injury to the Portal Vein"}
+{"surgical_condition": 510, "disease_name": "Penetrating Injury to the Hepatic Veins"}
+{"surgical_condition": 511, "disease_name": "Traumatic Pancreatic Head Injury with Duct Disruption"}
+{"surgical_condition": 512, "disease_name": "Traumatic Bile Duct Transection"}
+{"surgical_condition": 513, "disease_name": "Traumatic Gallbladder Rupture"}
+{"surgical_condition": 514, "disease_name": "Traumatic Gastric Perforation"}
+{"surgical_condition": 515, "disease_name": "Traumatic Colon Serosal Tear with Contamination"}
+{"surgical_condition": 516, "disease_name": "Traumatic Avulsion of the Mesentery"}
+{"surgical_condition": 517, "disease_name": "Ischemic Necrosis of the Stoma due to Vascular Compromise"}
+{"surgical_condition": 518, "disease_name": "Acute Hemorrhagic Cholecystitis"}
+{"surgical_condition": 519, "disease_name": "Emphysematous Cholecystitis"}
+{"surgical_condition": 520, "disease_name": "Emphysematous Gastritis"}
+{"surgical_condition": 521, "disease_name": "Emphysematous Cystitis"}
+{"surgical_condition": 522, "disease_name": "Emphysematous Pyelonephritis"}
+{"surgical_condition": 523, "disease_name": "Acute Suppurative Appendicitis with Phlegmon"}
+{"surgical_condition": 524, "disease_name": "Post-appendectomy Stump Appendicitis"}
+{"surgical_condition": 525, "disease_name": "Chronic Recurrent Appendicitis"}
+{"surgical_condition": 526, "disease_name": "Perforated Meckel Diverticulum with Peritonitis"}
+{"surgical_condition": 527, "disease_name": "Primary Tumor of Meckel Diverticulum, Carcinoid"}
+{"surgical_condition": 528, "disease_name": "Primary Tumor of Meckel Diverticulum, Adenocarcinoma"}
+{"surgical_condition": 529, "disease_name": "Acute Ischemic Colitis of the Left Colon"}
+{"surgical_condition": 530, "disease_name": "Acute Ischemic Colitis of the Right Colon"}
+{"surgical_condition": 531, "disease_name": "Chronic Ischemic Colitis with Stricture Formation"}
+{"surgical_condition": 532, "disease_name": "Thrombosed External Hemorrhoid with Severe Pain"}
+{"surgical_condition": 533, "disease_name": "Anal Canal Adenocarcinoma"}
+{"surgical_condition": 534, "disease_name": "Perianal Hidradenitis Suppurativa Requiring Wide Excision"}
+{"surgical_condition": 535, "disease_name": "Perianal Crohn Disease with Complex Fistulas"}
+{"surgical_condition": 536, "disease_name": "Rectovaginal Fistula in Crohn Disease"}
+{"surgical_condition": 537, "disease_name": "Rectourethral Fistula after Radiation"}
+{"surgical_condition": 538, "disease_name": "Enterovesical Fistula due to Sigmoid Cancer"}
+{"surgical_condition": 539, "disease_name": "Enterouterine Fistula due to Colonic Cancer"}
+{"surgical_condition": 540, "disease_name": "Enterocutaneous Fistula due to Malignancy"}
+{"surgical_condition": 541, "disease_name": "Acute Calculous Cholangitis with Septic Shock"}
+{"surgical_condition": 542, "disease_name": "Acute Acalculous Cholangitis"}
+{"surgical_condition": 543, "disease_name": "Biliary Pancreatitis with Common Bile Duct Stones"}
+{"surgical_condition": 544, "disease_name": "Chronic Pancreatitis with Inflammatory Head Mass"}
+{"surgical_condition": 545, "disease_name": "Chronic Pancreatitis with Pancreatic Duct Stricture"}
+{"surgical_condition": 546, "disease_name": "Splenic Vein Thrombosis with Gastric Varices"}
+{"surgical_condition": 547, "disease_name": "Left-sided Portal Hypertension with Gastric Varices"}
+{"surgical_condition": 548, "disease_name": "Gastric Antral Vascular Ectasia with Bleeding"}
+{"surgical_condition": 549, "disease_name": "Dieulafoy Lesion of the Duodenum"}
+{"surgical_condition": 550, "disease_name": "Arteriovenous Malformation of the Stomach"}
+{"surgical_condition": 551, "disease_name": "Small Bowel Angiosarcoma"}
+{"surgical_condition": 552, "disease_name": "Small Bowel Hemangioma with Bleeding"}
+{"surgical_condition": 553, "disease_name": "Colonic Hemangioma with Bleeding"}
+{"surgical_condition": 554, "disease_name": "Primary Colonic Melanoma"}
+{"surgical_condition": 555, "disease_name": "Primary Esophageal Melanoma"}
+{"surgical_condition": 556, "disease_name": "Primary Gastric Melanoma"}
+{"surgical_condition": 557, "disease_name": "Primary Intestinal Ganglioneuromatosis Requiring Resection"}
+{"surgical_condition": 558, "disease_name": "Diffuse Intestinal Polyposis in Cronkhite–Canada Syndrome"}
+{"surgical_condition": 559, "disease_name": "Hereditary Diffuse Gastric Cancer due to CDH1 Mutation"}
+{"surgical_condition": 560, "disease_name": "Hereditary Pancreatitis due to PRSS1 Mutation"}
+{"surgical_condition": 561, "disease_name": "Hereditary Medullary Thyroid Carcinoma in MEN 2A"}
+{"surgical_condition": 562, "disease_name": "Familial Nonmedullary Thyroid Carcinoma"}
+{"surgical_condition": 563, "disease_name": "Familial Isolated Hyperparathyroidism"}
+{"surgical_condition": 564, "disease_name": "Parathyroid Hyperplasia in MEN 1"}
+{"surgical_condition": 565, "disease_name": "Bilateral Adrenal Hyperplasia in Congenital Adrenal Hyperplasia"}
+{"surgical_condition": 566, "disease_name": "Adrenal Myelolipoma with Mass Effect"}
+{"surgical_condition": 567, "disease_name": "Adrenal Cyst with Symptomatic Enlargement"}
+{"surgical_condition": 568, "disease_name": "Retroperitoneal Paraganglioma Adjacent to Aorta"}
+{"surgical_condition": 569, "disease_name": "Zuckerkandl Organ Paraganglioma"}
+{"surgical_condition": 570, "disease_name": "Isolated Sternal Metastasis from Thyroid Carcinoma"}
+{"surgical_condition": 571, "disease_name": "Isolated Rib Metastasis from Breast Carcinoma"}
+{"surgical_condition": 572, "disease_name": "Isolated Vertebral Metastasis Causing Spinal Cord Compression"}
+{"surgical_condition": 573, "disease_name": "Pathologic Femoral Fracture from Metastatic Carcinoma"}
+{"surgical_condition": 574, "disease_name": "Pathologic Humeral Fracture from Metastatic Carcinoma"}
+{"surgical_condition": 575, "disease_name": "Chronic Osteomyelitis of the Tibia Requiring Debridement"}
+{"surgical_condition": 576, "disease_name": "Chronic Osteomyelitis of the Femur Requiring Debridement"}
+{"surgical_condition": 577, "disease_name": "Diabetic Foot Ulcer with Osteomyelitis"}
+{"surgical_condition": 578, "disease_name": "Critical Limb Ischemia with Tissue Loss in Diabetes"}
+{"surgical_condition": 579, "disease_name": "Necrotizing Fasciitis of the Lower Limb in Diabetes"}
+{"surgical_condition": 580, "disease_name": "Necrotizing Fasciitis of the Upper Limb"}
+{"surgical_condition": 581, "disease_name": "Perforated Stercoral Ulcer of the Colon"}
+{"surgical_condition": 582, "disease_name": "Perforated Carcinoma of the Rectum with Pelvic Abscess"}
+{"surgical_condition": 583, "disease_name": "Pelvic Abscess after Colorectal Surgery"}
+{"surgical_condition": 584, "disease_name": "Pelvic Abscess after Hysterectomy"}
+{"surgical_condition": 585, "disease_name": "Chronic Pelvic Sepsis after Rectal Cancer Resection"}
+{"surgical_condition": 586, "disease_name": "Presacral Abscess after Rectal Surgery"}
+{"surgical_condition": 587, "disease_name": "Infected Pancreatic Pseudocyst"}
+{"surgical_condition": 588, "disease_name": "Infected Walled-off Pancreatic Necrosis"}
+{"surgical_condition": 589, "disease_name": "Infected Hepatic Cyst"}
+{"surgical_condition": 590, "disease_name": "Infected Renal Cyst Requiring Surgical Drainage"}
+{"surgical_condition": 591, "disease_name": "Infected Postoperative Fluid Collection in the Abdomen"}
+{"surgical_condition": 592, "disease_name": "Postoperative Intra-abdominal Hematoma Requiring Evacuation"}
+{"surgical_condition": 593, "disease_name": "Primary Epiploic Appendagitis Requiring Surgical Resection"}
+{"surgical_condition": 594, "disease_name": "Secondary Epiploic Appendagitis due to Torsion"}
+{"surgical_condition": 595, "disease_name": "Primary Segmental Volvulus of the Small Intestine"}
+{"surgical_condition": 596, "disease_name": "Closed-loop Obstruction due to Adhesive Bands"}
+{"surgical_condition": 597, "disease_name": "Adhesive Band Causing Internal Hernia"}
+{"surgical_condition": 598, "disease_name": "Transmesenteric Internal Hernia with Bowel Necrosis"}
+{"surgical_condition": 599, "disease_name": "Incarcerated Richter Hernia with Bowel Necrosis"}
+{"surgical_condition": 600, "disease_name": "Strangulated Obturator Hernia with Bowel Necrosis"}

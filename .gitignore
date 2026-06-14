@@ -1,0 +1,32 @@
+# API keys / secrets
+fine-tuning/.env
+
+# Model checkpoints and weights
+pre-training/mt5-pretrain/
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+
+# Large dataset files
+huggingface_translation/
+pre-training/pre-trainingdataset/
+fine-tuning/pmc_data/
+fine-tuning/fine-tuning-data/
+
+# Generated coverage/results data
+fine-tuning/pmc_coverage.jsonl
+fine-tuning/pmc_coverage_generalized.jsonl
+fine-tuning/run_all_pmc.log
+fine-tuning/generalize_notfound.log
+
+# Python environment
+.conda/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Benchmark data (large)
+benchmark.jsonl
+benchmark\ copy.jsonl

@@ -1,0 +1,704 @@
+{"infectious_disease": 1, "disease_name": "COVID-19"}
+{"infectious_disease": 2, "disease_name": "Influenza (Seasonal)"}
+{"infectious_disease": 3, "disease_name": "Avian Influenza (Bird Flu)"}
+{"infectious_disease": 4, "disease_name": "Swine Influenza"}
+{"infectious_disease": 5, "disease_name": "SARS (Severe Acute Respiratory Syndrome)"}
+{"infectious_disease": 6, "disease_name": "MERS (Middle East Respiratory Syndrome)"}
+{"infectious_disease": 7, "disease_name": "HIV/AIDS"}
+{"infectious_disease": 8, "disease_name": "Hepatitis A"}
+{"infectious_disease": 9, "disease_name": "Hepatitis B"}
+{"infectious_disease": 10, "disease_name": "Hepatitis C"}
+{"infectious_disease": 11, "disease_name": "Hepatitis D"}
+{"infectious_disease": 12, "disease_name": "Hepatitis E"}
+{"infectious_disease": 13, "disease_name": "Varicella"}
+{"infectious_disease": 14, "disease_name": "Shingles (Herpes Zoster)"}
+{"infectious_disease": 15, "disease_name": "Measles"}
+{"infectious_disease": 16, "disease_name": "Rubella"}
+{"infectious_disease": 17, "disease_name": "Mumps"}
+{"infectious_disease": 18, "disease_name": "Polio"}
+{"infectious_disease": 19, "disease_name": "Rabies"}
+{"infectious_disease": 20, "disease_name": "Ebola"}
+{"infectious_disease": 21, "disease_name": "Marburg Virus"}
+{"infectious_disease": 22, "disease_name": "Dengue"}
+{"infectious_disease": 23, "disease_name": "Zika Virus"}
+{"infectious_disease": 24, "disease_name": "Chikungunya"}
+{"infectious_disease": 25, "disease_name": "West Nile Virus"}
+{"infectious_disease": 26, "disease_name": "Japanese Encephalitis"}
+{"infectious_disease": 27, "disease_name": "Yellow Fever"}
+{"infectious_disease": 28, "disease_name": "Rift Valley Fever"}
+{"infectious_disease": 29, "disease_name": "Lassa Fever"}
+{"infectious_disease": 30, "disease_name": "Nipah Virus"}
+{"infectious_disease": 31, "disease_name": "Hantavirus"}
+{"infectious_disease": 32, "disease_name": "Ebola Disease"}
+{"infectious_disease": 33, "disease_name": "Mpox"}
+{"infectious_disease": 34, "disease_name": "Smallpox"}
+{"infectious_disease": 35, "disease_name": "Rotavirus"}
+{"infectious_disease": 36, "disease_name": "Norovirus"}
+{"infectious_disease": 37, "disease_name": "Cytomegalovirus (CMV)"}
+{"infectious_disease": 38, "disease_name": "Epstein-Barr Virus"}
+{"infectious_disease": 39, "disease_name": "Herpes Simplex"}
+{"infectious_disease": 40, "disease_name": "Varicella-Zoster"}
+{"infectious_disease": 41, "disease_name": "Human Papillomavirus (HPV)"}
+{"infectious_disease": 42, "disease_name": "Respiratory Syncytial Virus (RSV)"}
+{"infectious_disease": 43, "disease_name": "Adenovirus"}
+{"infectious_disease": 44, "disease_name": "Enterovirus 71"}
+{"infectious_disease": 45, "disease_name": "Enterovirus D68"}
+{"infectious_disease": 46, "disease_name": "Parvovirus B19 (Fifth Disease)"}
+{"infectious_disease": 47, "disease_name": "Roseola Infantum"}
+{"infectious_disease": 48, "disease_name": "Hand, Foot and Mouth Disease"}
+{"infectious_disease": 49, "disease_name": "Powassan Virus"}
+{"infectious_disease": 50, "disease_name": "Eastern Equine Encephalitis (EEE)"}
+{"infectious_disease": 51, "disease_name": "Colorado Tick Fever"}
+{"infectious_disease": 52, "disease_name": "Pappataci Fever"}
+{"infectious_disease": 53, "disease_name": "Oropouche Fever"}
+{"infectious_disease": 54, "disease_name": "Severe Fever with Thrombocytopenia Syndrome"}
+{"infectious_disease": 55, "disease_name": "Creutzfeldt-Jakob Disease"}
+{"infectious_disease": 56, "disease_name": "Human Metapneumovirus"}
+{"infectious_disease": 57, "disease_name": "Sapovirus Infection"}
+{"infectious_disease": 58, "disease_name": "Coronavirus Disease"}
+{"infectious_disease": 59, "disease_name": "Novel Influenza A"}
+{"infectious_disease": 60, "disease_name": "Tuberculosis (TB)"}
+{"infectious_disease": 61, "disease_name": "Diphtheria"}
+{"infectious_disease": 62, "disease_name": "Tetanus (Lockjaw)"}
+{"infectious_disease": 63, "disease_name": "Pertussis"}
+{"infectious_disease": 64, "disease_name": "Cholera"}
+{"infectious_disease": 65, "disease_name": "Plague (Bubonic)"}
+{"infectious_disease": 66, "disease_name": "Anthrax"}
+{"infectious_disease": 67, "disease_name": "Leprosy (Hansen's Disease)"}
+{"infectious_disease": 68, "disease_name": "Syphilis"}
+{"infectious_disease": 69, "disease_name": "Gonorrhea"}
+{"infectious_disease": 70, "disease_name": "Chlamydia"}
+{"infectious_disease": 71, "disease_name": "Legionnaires' Disease"}
+{"infectious_disease": 72, "disease_name": "Lyme Disease"}
+{"infectious_disease": 73, "disease_name": "Rocky Mountain Spotted Fever"}
+{"infectious_disease": 74, "disease_name": "Typhoid Fever"}
+{"infectious_disease": 75, "disease_name": "Paratyphoid Fever"}
+{"infectious_disease": 76, "disease_name": "Salmonellosis"}
+{"infectious_disease": 77, "disease_name": "Shigellosis"}
+{"infectious_disease": 78, "disease_name": "Campylobacteriosis"}
+{"infectious_disease": 79, "disease_name": "E. coli Infection"}
+{"infectious_disease": 80, "disease_name": "Shiga Toxin Producing E. coli"}
+{"infectious_disease": 81, "disease_name": "Listeria (Listeriosis)"}
+{"infectious_disease": 82, "disease_name": "Brucellosis"}
+{"infectious_disease": 83, "disease_name": "Q Fever"}
+{"infectious_disease": 84, "disease_name": "Tularemia"}
+{"infectious_disease": 85, "disease_name": "Leptospirosis"}
+{"infectious_disease": 86, "disease_name": "Psittacosis"}
+{"infectious_disease": 87, "disease_name": "Botulism"}
+{"infectious_disease": 88, "disease_name": "Meningococcal Disease"}
+{"infectious_disease": 89, "disease_name": "Pneumococcal Disease"}
+{"infectious_disease": 90, "disease_name": "Group A Streptococcal Disease"}
+{"infectious_disease": 91, "disease_name": "Group B Streptococcus"}
+{"infectious_disease": 92, "disease_name": "Scarlet Fever"}
+{"infectious_disease": 93, "disease_name": "Rheumatic Fever"}
+{"infectious_disease": 94, "disease_name": "MRSA (Methicillin-resistant Staphylococcus aureus)"}
+{"infectious_disease": 95, "disease_name": "CA-MRSA Infection"}
+{"infectious_disease": 96, "disease_name": "Septicemia"}
+{"infectious_disease": 97, "disease_name": "Toxic Shock Syndrome"}
+{"infectious_disease": 98, "disease_name": "Necrotising Fasciitis"}
+{"infectious_disease": 99, "disease_name": "Mycoplasma pneumoniae Infection"}
+{"infectious_disease": 100, "disease_name": "Streptococcus suis Infection"}
+{"infectious_disease": 101, "disease_name": "Haemophilus influenzae type b Infection"}
+{"infectious_disease": 102, "disease_name": "Invasive Group B Streptococcus Infection"}
+{"infectious_disease": 103, "disease_name": "Vibrio vulnificus Infection"}
+{"infectious_disease": 104, "disease_name": "Vibrio parahaemolyticus Infection"}
+{"infectious_disease": 105, "disease_name": "Bacillary Dysentery"}
+{"infectious_disease": 106, "disease_name": "Amoebic Dysentery"}
+{"infectious_disease": 107, "disease_name": "Candidiasis (Thrush)"}
+{"infectious_disease": 108, "disease_name": "Candida auris Infection"}
+{"infectious_disease": 109, "disease_name": "Aspergillosis"}
+{"infectious_disease": 110, "disease_name": "Histoplasmosis"}
+{"infectious_disease": 111, "disease_name": "Cryptococcosis"}
+{"infectious_disease": 112, "disease_name": "Coccidioidomycosis"}
+{"infectious_disease": 113, "disease_name": "Blastomycosis"}
+{"infectious_disease": 114, "disease_name": "Sporotrichosis"}
+{"infectious_disease": 115, "disease_name": "Chromoblastomycosis"}
+{"infectious_disease": 116, "disease_name": "Actinomycosis"}
+{"infectious_disease": 117, "disease_name": "Microsporidial Keratoconjunctivitis Infection"}
+{"infectious_disease": 118, "disease_name": "Keratitis (Fungal)"}
+{"infectious_disease": 119, "disease_name": "Malaria"}
+{"infectious_disease": 120, "disease_name": "Blackwater Fever"}
+{"infectious_disease": 121, "disease_name": "Chagas Disease"}
+{"infectious_disease": 122, "disease_name": "Leishmaniasis (Oriental Sore)"}
+{"infectious_disease": 123, "disease_name": "Sleeping Sickness"}
+{"infectious_disease": 124, "disease_name": "Toxoplasmosis"}
+{"infectious_disease": 125, "disease_name": "Trichomoniasis"}
+{"infectious_disease": 126, "disease_name": "Trypanosomiasis"}
+{"infectious_disease": 127, "disease_name": "Amebiasis"}
+{"infectious_disease": 128, "disease_name": "Babesiosis"}
+{"infectious_disease": 129, "disease_name": "Cercarial Dermatitis (Swimmer's Itch)"}
+{"infectious_disease": 130, "disease_name": "Cryptosporidiosis"}
+{"infectious_disease": 131, "disease_name": "Cyclosporiasis"}
+{"infectious_disease": 132, "disease_name": "Cysticercosis"}
+{"infectious_disease": 133, "disease_name": "Giardiasis (Giardia)"}
+{"infectious_disease": 134, "disease_name": "Scabies"}
+{"infectious_disease": 135, "disease_name": "Schistosomiasis"}
+{"infectious_disease": 136, "disease_name": "Trichinosis (Trichinellosis)"}
+{"infectious_disease": 137, "disease_name": "Toxocariasis"}
+{"infectious_disease": 138, "disease_name": "Head Lice (Pediculosis)"}
+{"infectious_disease": 139, "disease_name": "Myiasis"}
+{"infectious_disease": 140, "disease_name": "Chancroid"}
+{"infectious_disease": 141, "disease_name": "Lymphogranuloma Venereum Infection"}
+{"infectious_disease": 142, "disease_name": "Herpes Simplex (Genital)"}
+{"infectious_disease": 143, "disease_name": "Bartonella (Cat Scratch Disease)"}
+{"infectious_disease": 144, "disease_name": "Melioidosis"}
+{"infectious_disease": 145, "disease_name": "Rat-bite Fever"}
+{"infectious_disease": 146, "disease_name": "Relapsing Fever"}
+{"infectious_disease": 147, "disease_name": "Yersiniosis"}
+{"infectious_disease": 148, "disease_name": "Bovine Tuberculosis"}
+{"infectious_disease": 149, "disease_name": "Burkholderia cepacia Infection"}
+{"infectious_disease": 150, "disease_name": "Buruli Ulcer"}
+{"infectious_disease": 151, "disease_name": "Capillariasis"}
+{"infectious_disease": 152, "disease_name": "Cat Scratch Disease"}
+{"infectious_disease": 153, "disease_name": "Clonorchiasis"}
+{"infectious_disease": 154, "disease_name": "Coenurosis"}
+{"infectious_disease": 155, "disease_name": "Cutaneous Larva Migrans"}
+{"infectious_disease": 156, "disease_name": "Cutaneous Leishmaniasis"}
+{"infectious_disease": 157, "disease_name": "Cystoisosporiasis"}
+{"infectious_disease": 158, "disease_name": "Diphyllobothriasis"}
+{"infectious_disease": 159, "disease_name": "Dracunculiasis"}
+{"infectious_disease": 160, "disease_name": "Echinococcosis"}
+{"infectious_disease": 161, "disease_name": "Ehrlichiosis"}
+{"infectious_disease": 162, "disease_name": "Enterobiasis"}
+{"infectious_disease": 163, "disease_name": "Fascioliasis"}
+{"infectious_disease": 164, "disease_name": "Fasciolopsiasis"}
+{"infectious_disease": 165, "disease_name": "Filariasis"}
+{"infectious_disease": 166, "disease_name": "Gnathostomiasis"}
+{"infectious_disease": 167, "disease_name": "Hookworm Infection"}
+{"infectious_disease": 168, "disease_name": "Hydatid Disease"}
+{"infectious_disease": 169, "disease_name": "Loiasis"}
+{"infectious_disease": 170, "disease_name": "Onchocerciasis"}
+{"infectious_disease": 171, "disease_name": "Opisthorchiasis"}
+{"infectious_disease": 172, "disease_name": "Paragonimiasis"}
+{"infectious_disease": 173, "disease_name": "Pinworm Infection"}
+{"infectious_disease": 174, "disease_name": "Strongyloidiasis"}
+{"infectious_disease": 175, "disease_name": "Taeniasis"}
+{"infectious_disease": 176, "disease_name": "Visceral Larva Migrans"}
+{"infectious_disease": 177, "disease_name": "Whipworm Infection"}
+{"infectious_disease": 178, "disease_name": "Wuchereriasis"}
+{"infectious_disease": 179, "disease_name": "Yaws"}
+{"infectious_disease": 180, "disease_name": "Neurosyphilis"}
+{"infectious_disease": 181, "disease_name": "Congenital Syphilis"}
+{"infectious_disease": 182, "disease_name": "Congenital Rubella Syndrome"}
+{"infectious_disease": 183, "disease_name": "Congenital Cytomegalovirus Infection"}
+{"infectious_disease": 184, "disease_name": "Congenital Toxoplasmosis"}
+{"infectious_disease": 185, "disease_name": "Neonatal Herpes"}
+{"infectious_disease": 186, "disease_name": "Ophthalmia Neonatorum"}
+{"infectious_disease": 187, "disease_name": "Congenital Varicella Syndrome"}
+{"infectious_disease": 188, "disease_name": "Neonatal Candidiasis"}
+{"infectious_disease": 189, "disease_name": "Disseminated Candidiasis"}
+{"infectious_disease": 190, "disease_name": "Mucormycosis"}
+{"infectious_disease": 191, "disease_name": "Pneumocystis Pneumonia"}
+{"infectious_disease": 192, "disease_name": "Tinea Capitis"}
+{"infectious_disease": 193, "disease_name": "Tinea Corporis"}
+{"infectious_disease": 194, "disease_name": "Tinea Cruris"}
+{"infectious_disease": 195, "disease_name": "Tinea Pedis"}
+{"infectious_disease": 196, "disease_name": "Tinea Versicolor"}
+{"infectious_disease": 197, "disease_name": "Onychomycosis"}
+{"infectious_disease": 198, "disease_name": "Madura Foot"}
+{"infectious_disease": 199, "disease_name": "Rhinosporidiosis"}
+{"infectious_disease": 200, "disease_name": "Phaeohyphomycosis"}
+{"infectious_disease": 201, "disease_name": "Pityriasis Versicolor"}
+{"infectious_disease": 202, "disease_name": "Mycetoma"}
+{"infectious_disease": 203, "disease_name": "Geotrichosis"}
+{"infectious_disease": 204, "disease_name": "Penicilliosis"}
+{"infectious_disease": 205, "disease_name": "Paracoccidioidomycosis"}
+{"infectious_disease": 206, "disease_name": "Meningococcemia"}
+{"infectious_disease": 207, "disease_name": "Lujo Hemorrhagic Fever"}
+{"infectious_disease": 208, "disease_name": "Machupo Virus Infection"}
+{"infectious_disease": 209, "disease_name": "Junin Virus Infection"}
+{"infectious_disease": 210, "disease_name": "Guanarito Virus Infection"}
+{"infectious_disease": 211, "disease_name": "Sabia Virus Infection"}
+{"infectious_disease": 212, "disease_name": "Chapare Hemorrhagic Fever"}
+{"infectious_disease": 213, "disease_name": "Omsk Hemorrhagic Fever"}
+{"infectious_disease": 214, "disease_name": "Kyasanur Forest Disease"}
+{"infectious_disease": 215, "disease_name": "Ross River Virus Infection"}
+{"infectious_disease": 216, "disease_name": "Sindbis Fever"}
+{"infectious_disease": 217, "disease_name": "Mayaro Virus Disease"}
+{"infectious_disease": 218, "disease_name": "Barmah Forest Virus Infection"}
+{"infectious_disease": 219, "disease_name": "Hendra Virus Infection"}
+{"infectious_disease": 220, "disease_name": "Menangle Virus Infection"}
+{"infectious_disease": 221, "disease_name": "Tioman Virus Infection"}
+{"infectious_disease": 222, "disease_name": "Bwamba Fever"}
+{"infectious_disease": 223, "disease_name": "Bunyamwera Fever"}
+{"infectious_disease": 224, "disease_name": "California Encephalitis"}
+{"infectious_disease": 225, "disease_name": "La Crosse Encephalitis"}
+{"infectious_disease": 226, "disease_name": "Jamestown Canyon Virus Infection"}
+{"infectious_disease": 227, "disease_name": "Snowshoe Hare Virus Infection"}
+{"infectious_disease": 228, "disease_name": "Tahyna Virus Infection"}
+{"infectious_disease": 229, "disease_name": "Banna Virus Infection"}
+{"infectious_disease": 230, "disease_name": "Kadipiro Virus Infection"}
+{"infectious_disease": 231, "disease_name": "Liao Ning Virus Infection"}
+{"infectious_disease": 232, "disease_name": "O'nyong'nyong Fever"}
+{"infectious_disease": 233, "disease_name": "Semliki Forest Virus Infection"}
+{"infectious_disease": 234, "disease_name": "Usutu Virus Infection"}
+{"infectious_disease": 235, "disease_name": "Wesselsbron Disease"}
+{"infectious_disease": 236, "disease_name": "Spondweni Virus Infection"}
+{"infectious_disease": 237, "disease_name": "Rocio Encephalitis"}
+{"infectious_disease": 238, "disease_name": "St. Louis Encephalitis"}
+{"infectious_disease": 239, "disease_name": "Murray Valley Encephalitis"}
+{"infectious_disease": 240, "disease_name": "Ilheus Virus Infection"}
+{"infectious_disease": 241, "disease_name": "Louping Ill"}
+{"infectious_disease": 242, "disease_name": "Tick-Borne Encephalitis"}
+{"infectious_disease": 243, "disease_name": "Alkhurma Hemorrhagic Fever"}
+{"infectious_disease": 244, "disease_name": "Heartland Virus Infection"}
+{"infectious_disease": 245, "disease_name": "Bourbon Virus Infection"}
+{"infectious_disease": 246, "disease_name": "Thogoto Virus Infection"}
+{"infectious_disease": 247, "disease_name": "Dhori Virus Infection"}
+{"infectious_disease": 248, "disease_name": "Crimean-Congo Hemorrhagic Fever"}
+{"infectious_disease": 249, "disease_name": "Alastrim"}
+{"infectious_disease": 250, "disease_name": "Cowpox"}
+{"infectious_disease": 251, "disease_name": "Buffalopox"}
+{"infectious_disease": 252, "disease_name": "Camelpox"}
+{"infectious_disease": 253, "disease_name": "Orf Virus Disease"}
+{"infectious_disease": 254, "disease_name": "Milker's Nodule"}
+{"infectious_disease": 255, "disease_name": "Tanapox"}
+{"infectious_disease": 256, "disease_name": "Yaba Monkey Tumor Virus Infection"}
+{"infectious_disease": 257, "disease_name": "B Virus Infection"}
+{"infectious_disease": 258, "disease_name": "Human T-Lymphotropic Virus 1 Infection"}
+{"infectious_disease": 259, "disease_name": "Human T-Lymphotropic Virus 2 Infection"}
+{"infectious_disease": 260, "disease_name": "Enterovirus 70 Infection"}
+{"infectious_disease": 261, "disease_name": "Echovirus Infection"}
+{"infectious_disease": 262, "disease_name": "Coxsackievirus Infection"}
+{"infectious_disease": 263, "disease_name": "Parechovirus Infection"}
+{"infectious_disease": 264, "disease_name": "Lymphocytic Choriomeningitis"}
+{"infectious_disease": 265, "disease_name": "Glanders"}
+{"infectious_disease": 266, "disease_name": "Granuloma Inguinale"}
+{"infectious_disease": 267, "disease_name": "Erythrasma"}
+{"infectious_disease": 268, "disease_name": "Pinta"}
+{"infectious_disease": 269, "disease_name": "Tick-Borne Relapsing Fever"}
+{"infectious_disease": 270, "disease_name": "Louse-Borne Relapsing Fever"}
+{"infectious_disease": 271, "disease_name": "Trench Fever"}
+{"infectious_disease": 272, "disease_name": "Oroya Fever"}
+{"infectious_disease": 273, "disease_name": "Verruga Peruana"}
+{"infectious_disease": 274, "disease_name": "Scrub Typhus"}
+{"infectious_disease": 275, "disease_name": "Murine Typhus"}
+{"infectious_disease": 276, "disease_name": "Epidemic Typhus"}
+{"infectious_disease": 277, "disease_name": "Brill-Zinsser Disease"}
+{"infectious_disease": 278, "disease_name": "Rickettsialpox"}
+{"infectious_disease": 279, "disease_name": "Queensland Tick Typhus"}
+{"infectious_disease": 280, "disease_name": "Mediterranean Spotted Fever"}
+{"infectious_disease": 281, "disease_name": "Boutonneuse Fever"}
+{"infectious_disease": 282, "disease_name": "Astrakhan Spotted Fever"}
+{"infectious_disease": 283, "disease_name": "Israeli Spotted Fever"}
+{"infectious_disease": 284, "disease_name": "Japanese Spotted Fever"}
+{"infectious_disease": 285, "disease_name": "Flinders Island Spotted Fever"}
+{"infectious_disease": 286, "disease_name": "Flea-Borne Spotted Fever"}
+{"infectious_disease": 287, "disease_name": "Sennetsu Fever"}
+{"infectious_disease": 288, "disease_name": "Human Monocytic Ehrlichiosis"}
+{"infectious_disease": 289, "disease_name": "Human Granulocytic Anaplasmosis"}
+{"infectious_disease": 290, "disease_name": "Erysipeloid"}
+{"infectious_disease": 291, "disease_name": "Clostridioides Difficile Infection"}
+{"infectious_disease": 292, "disease_name": "Gas Gangrene"}
+{"infectious_disease": 293, "disease_name": "Nocardiosis"}
+{"infectious_disease": 294, "disease_name": "Rhodococcus Equi Infection"}
+{"infectious_disease": 295, "disease_name": "Whipple's Disease"}
+{"infectious_disease": 296, "disease_name": "Mycobacterium Marinum Infection"}
+{"infectious_disease": 297, "disease_name": "Mycobacterium Kansasii Infection"}
+{"infectious_disease": 298, "disease_name": "Mycobacterium Avium Complex Infection"}
+{"infectious_disease": 299, "disease_name": "Mycoplasma Genitalium Infection"}
+{"infectious_disease": 300, "disease_name": "Ureaplasma Urealyticum Infection"}
+{"infectious_disease": 301, "disease_name": "Bartonellosis"}
+{"infectious_disease": 302, "disease_name": "Pasteurellosis"}
+{"infectious_disease": 303, "disease_name": "Capnocytophaga Infection"}
+{"infectious_disease": 304, "disease_name": "Eikenella Corrodens Infection"}
+{"infectious_disease": 305, "disease_name": "Kingella Kingae Infection"}
+{"infectious_disease": 306, "disease_name": "Helicobacter Pylori Infection"}
+{"infectious_disease": 307, "disease_name": "Aeromonas Infection"}
+{"infectious_disease": 308, "disease_name": "Plesiomonas Shigelloides Infection"}
+{"infectious_disease": 309, "disease_name": "Yersinia Enterocolitica Infection"}
+{"infectious_disease": 310, "disease_name": "Yersinia Pseudotuberculosis Infection"}
+{"infectious_disease": 311, "disease_name": "Rhinoscleroma"}
+{"infectious_disease": 312, "disease_name": "Ozaena"}
+{"infectious_disease": 313, "disease_name": "Lobomycosis"}
+{"infectious_disease": 314, "disease_name": "Entomophthoromycosis"}
+{"infectious_disease": 315, "disease_name": "Basidiobolomycosis"}
+{"infectious_disease": 316, "disease_name": "Conidiobolomycosis"}
+{"infectious_disease": 317, "disease_name": "Trichosporonosis"}
+{"infectious_disease": 318, "disease_name": "Black Piedra"}
+{"infectious_disease": 319, "disease_name": "White Piedra"}
+{"infectious_disease": 320, "disease_name": "Tinea Nigra"}
+{"infectious_disease": 321, "disease_name": "Talaromycosis"}
+{"infectious_disease": 322, "disease_name": "Fusariosis"}
+{"infectious_disease": 323, "disease_name": "Scedosporiosis"}
+{"infectious_disease": 324, "disease_name": "Lomentosporiosis"}
+{"infectious_disease": 325, "disease_name": "Microsporidiosis"}
+{"infectious_disease": 326, "disease_name": "Primary Amoebic Meningoencephalitis"}
+{"infectious_disease": 327, "disease_name": "Granulomatous Amoebic Encephalitis"}
+{"infectious_disease": 328, "disease_name": "Dientamoebiasis"}
+{"infectious_disease": 329, "disease_name": "Sarcocystosis"}
+{"infectious_disease": 330, "disease_name": "Baylisascariasis"}
+{"infectious_disease": 331, "disease_name": "Anisakiasis"}
+{"infectious_disease": 332, "disease_name": "Micronemiasis"}
+{"infectious_disease": 333, "disease_name": "Thelaziasis"}
+{"infectious_disease": 334, "disease_name": "Mansonelliasis"}
+{"infectious_disease": 335, "disease_name": "Dirofilariasis"}
+{"infectious_disease": 336, "disease_name": "Dicrocoeliasis"}
+{"infectious_disease": 337, "disease_name": "Heterophyiasis"}
+{"infectious_disease": 338, "disease_name": "Metagonimiasis"}
+{"infectious_disease": 339, "disease_name": "Nanophyetiasis"}
+{"infectious_disease": 340, "disease_name": "Gastrodiscoides Infection"}
+{"infectious_disease": 341, "disease_name": "Echinostomiasis"}
+{"infectious_disease": 342, "disease_name": "Hymenolepiasis"}
+{"infectious_disease": 343, "disease_name": "Dipylidiasis"}
+{"infectious_disease": 344, "disease_name": "Sparganosis"}
+{"infectious_disease": 345, "disease_name": "Kuru"}
+{"infectious_disease": 346, "disease_name": "Variant Creutzfeldt-Jakob Disease"}
+{"infectious_disease": 347, "disease_name": "Tungiasis"}
+{"infectious_disease": 348, "disease_name": "Demodicosis"}
+{"infectious_disease": 349, "disease_name": "Acanthamoeba Keratitis"}
+{"infectious_disease": 350, "disease_name": "Balamuthia Mandrillaris Infection"}
+{"infectious_disease": 351, "disease_name": "Alternariosis"}
+{"infectious_disease": 352, "disease_name": "Bipolaris Infection"}
+{"infectious_disease": 353, "disease_name": "Curvularia Infection"}
+{"infectious_disease": 354, "disease_name": "Exserohilum Infection"}
+{"infectious_disease": 355, "disease_name": "Mucocutaneous Leishmaniasis"}
+{"infectious_disease": 356, "disease_name": "Visceral Leishmaniasis"}
+{"infectious_disease": 357, "disease_name": "Plasmodium Falciparum Malaria"}
+{"infectious_disease": 358, "disease_name": "Plasmodium Vivax Malaria"}
+{"infectious_disease": 359, "disease_name": "Plasmodium Ovale Malaria"}
+{"infectious_disease": 360, "disease_name": "Plasmodium Malariae Malaria"}
+{"infectious_disease": 361, "disease_name": "Plasmodium Knowlesi Malaria"}
+{"infectious_disease": 362, "disease_name": "Corynebacterium Striatum Infection"}
+{"infectious_disease": 363, "disease_name": "Corynebacterium Jeikeium Infection"}
+{"infectious_disease": 364, "disease_name": "Arcanobacterium Haemolyticum Infection"}
+{"infectious_disease": 365, "disease_name": "Erysipelothrix Rhusiopathiae Infection"}
+{"infectious_disease": 366, "disease_name": "Cronobacter Sakazakii Infection"}
+{"infectious_disease": 367, "disease_name": "Edwardsiella Tarda Infection"}
+{"infectious_disease": 368, "disease_name": "Hafnia Alvei Infection"}
+{"infectious_disease": 369, "disease_name": "Morganella Morganii Infection"}
+{"infectious_disease": 370, "disease_name": "Providencia Stuartii Infection"}
+{"infectious_disease": 371, "disease_name": "Serratia Marcescens Infection"}
+{"infectious_disease": 372, "disease_name": "Acinetobacter Baumannii Infection"}
+{"infectious_disease": 373, "disease_name": "Stenotrophomonas Maltophilia Infection"}
+{"infectious_disease": 374, "disease_name": "Elizabethkingia Meningoseptica Infection"}
+{"infectious_disease": 375, "disease_name": "Moraxella Catarrhalis Infection"}
+{"infectious_disease": 376, "disease_name": "Haemophilus Parainfluenzae Infection"}
+{"infectious_disease": 377, "disease_name": "Bordetella Parapertussis Infection"}
+{"infectious_disease": 378, "disease_name": "Bordetella Bronchiseptica Infection"}
+{"infectious_disease": 379, "disease_name": "Seoul Virus Infection"}
+{"infectious_disease": 380, "disease_name": "Sin Nombre Virus Infection"}
+{"infectious_disease": 381, "disease_name": "Andes Virus Infection"}
+{"infectious_disease": 382, "disease_name": "Streptobacillus Moniliformis Infection"}
+{"infectious_disease": 383, "disease_name": "Spirillum Minus Infection"}
+{"infectious_disease": 384, "disease_name": "Borrelia Miyamotoi Disease"}
+{"infectious_disease": 385, "disease_name": "Borrelia Hermsii Infection"}
+{"infectious_disease": 386, "disease_name": "Borrelia Parkeri Infection"}
+{"infectious_disease": 387, "disease_name": "Borrelia Turicatae Infection"}
+{"infectious_disease": 388, "disease_name": "Leptospira Interrogans Infection"}
+{"infectious_disease": 389, "disease_name": "Chlamydophila Pneumoniae Infection"}
+{"infectious_disease": 390, "disease_name": "Chlamydophila Psittaci Infection"}
+{"infectious_disease": 391, "disease_name": "Rickettsia Conorii Infection"}
+{"infectious_disease": 392, "disease_name": "Rickettsia Africae Infection"}
+{"infectious_disease": 393, "disease_name": "Rickettsia Akari Infection"}
+{"infectious_disease": 394, "disease_name": "Rickettsia Prowazekii Infection"}
+{"infectious_disease": 395, "disease_name": "Rickettsia Typhi Infection"}
+{"infectious_disease": 396, "disease_name": "Orientia Tsutsugamushi Infection"}
+{"infectious_disease": 397, "disease_name": "Coxiella Burnetii Infection"}
+{"infectious_disease": 398, "disease_name": "Neorickettsia Sennetsu Infection"}
+{"infectious_disease": 399, "disease_name": "Anaplasma Phagocytophilum Infection"}
+{"infectious_disease": 400, "disease_name": "Ehrlichia Chaffeensis Infection"}
+{"infectious_disease": 401, "disease_name": "Ehrlichia Ewingii Infection"}
+{"infectious_disease": 402, "disease_name": "Nocardia Asteroides Infection"}
+{"infectious_disease": 403, "disease_name": "Nocardia Brasiliensis Infection"}
+{"infectious_disease": 404, "disease_name": "Puumala Virus Infection"}
+{"infectious_disease": 405, "disease_name": "Streptococcus pneumoniae Infection"}
+{"infectious_disease": 406, "disease_name": "Streptococcus pyogenes Infection"}
+{"infectious_disease": 407, "disease_name": "Streptococcus agalactiae Infection"}
+{"infectious_disease": 408, "disease_name": "Streptococcus mutans Infection"}
+{"infectious_disease": 409, "disease_name": "Streptococcus sanguinis Infection"}
+{"infectious_disease": 410, "disease_name": "Streptococcus gallolyticus Infection"}
+{"infectious_disease": 411, "disease_name": "Streptococcus mitis Infection"}
+{"infectious_disease": 412, "disease_name": "Streptococcus oralis Infection"}
+{"infectious_disease": 413, "disease_name": "Staphylococcus epidermidis Infection"}
+{"infectious_disease": 414, "disease_name": "Staphylococcus saprophyticus Infection"}
+{"infectious_disease": 415, "disease_name": "Staphylococcus lugdunensis Infection"}
+{"infectious_disease": 416, "disease_name": "Staphylococcus haemolyticus Infection"}
+{"infectious_disease": 417, "disease_name": "Staphylococcus hominis Infection"}
+{"infectious_disease": 418, "disease_name": "Staphylococcus capitis Infection"}
+{"infectious_disease": 419, "disease_name": "Pseudomonas aeruginosa Infection"}
+{"infectious_disease": 420, "disease_name": "Pseudomonas putida Infection"}
+{"infectious_disease": 421, "disease_name": "Pseudomonas fluorescens Infection"}
+{"infectious_disease": 422, "disease_name": "Pseudomonas stutzeri Infection"}
+{"infectious_disease": 423, "disease_name": "Enterobacter cloacae Infection"}
+{"infectious_disease": 424, "disease_name": "Enterobacter aerogenes Infection"}
+{"infectious_disease": 425, "disease_name": "Klebsiella pneumoniae Infection"}
+{"infectious_disease": 426, "disease_name": "Klebsiella oxytoca Infection"}
+{"infectious_disease": 427, "disease_name": "Klebsiella aerogenes Infection"}
+{"infectious_disease": 428, "disease_name": "Klebsiella variicola Infection"}
+{"infectious_disease": 429, "disease_name": "Proteus mirabilis Infection"}
+{"infectious_disease": 430, "disease_name": "Proteus vulgaris Infection"}
+{"infectious_disease": 431, "disease_name": "Proteus penneri Infection"}
+{"infectious_disease": 432, "disease_name": "Providencia rettgeri Infection"}
+{"infectious_disease": 433, "disease_name": "Providencia alcalifaciens Infection"}
+{"infectious_disease": 434, "disease_name": "Citrobacter freundii Infection"}
+{"infectious_disease": 435, "disease_name": "Citrobacter koseri Infection"}
+{"infectious_disease": 436, "disease_name": "Citrobacter braakii Infection"}
+{"infectious_disease": 437, "disease_name": "Citrobacter amalonaticus Infection"}
+{"infectious_disease": 438, "disease_name": "Bacteroides fragilis Infection"}
+{"infectious_disease": 439, "disease_name": "Bacteroides thetaiotaomicron Infection"}
+{"infectious_disease": 440, "disease_name": "Bacteroides ovatus Infection"}
+{"infectious_disease": 441, "disease_name": "Bacteroides vulgatus Infection"}
+{"infectious_disease": 442, "disease_name": "Fusobacterium nucleatum Infection"}
+{"infectious_disease": 443, "disease_name": "Fusobacterium necrophorum Infection"}
+{"infectious_disease": 444, "disease_name": "Fusobacterium varium Infection"}
+{"infectious_disease": 445, "disease_name": "Fusobacterium ulcerans Infection"}
+{"infectious_disease": 446, "disease_name": "Peptostreptococcus anaerobius Infection"}
+{"infectious_disease": 447, "disease_name": "Peptostreptococcus asaccharolyticus Infection"}
+{"infectious_disease": 448, "disease_name": "Peptostreptococcus magnus Infection"}
+{"infectious_disease": 449, "disease_name": "Clostridium perfringens Infection"}
+{"infectious_disease": 450, "disease_name": "Clostridium septicum Infection"}
+{"infectious_disease": 451, "disease_name": "Clostridium novyi Infection"}
+{"infectious_disease": 452, "disease_name": "Clostridium sordellii Infection"}
+{"infectious_disease": 453, "disease_name": "Clostridium bifermentans Infection"}
+{"infectious_disease": 454, "disease_name": "Clostridium histolyticum Infection"}
+{"infectious_disease": 455, "disease_name": "Bacillus cereus Infection"}
+{"infectious_disease": 456, "disease_name": "Bacillus subtilis Infection"}
+{"infectious_disease": 457, "disease_name": "Bacillus thuringiensis Infection"}
+{"infectious_disease": 458, "disease_name": "Bacillus licheniformis Infection"}
+{"infectious_disease": 459, "disease_name": "Corynebacterium ulcerans Infection"}
+{"infectious_disease": 460, "disease_name": "Corynebacterium pseudotuberculosis Infection"}
+{"infectious_disease": 461, "disease_name": "Corynebacterium amycolatum Infection"}
+{"infectious_disease": 462, "disease_name": "Corynebacterium urealyticum Infection"}
+{"infectious_disease": 463, "disease_name": "Corynebacterium minutissimum Infection"}
+{"infectious_disease": 464, "disease_name": "Mycobacterium abscessus Infection"}
+{"infectious_disease": 465, "disease_name": "Mycobacterium chelonae Infection"}
+{"infectious_disease": 466, "disease_name": "Mycobacterium fortuitum Infection"}
+{"infectious_disease": 467, "disease_name": "Mycobacterium smegmatis Infection"}
+{"infectious_disease": 468, "disease_name": "Mycobacterium xenopi Infection"}
+{"infectious_disease": 469, "disease_name": "Mycobacterium simiae Infection"}
+{"infectious_disease": 470, "disease_name": "Mycobacterium szulgai Infection"}
+{"infectious_disease": 471, "disease_name": "Mycobacterium haemophilum Infection"}
+{"infectious_disease": 472, "disease_name": "Mycobacterium genavense Infection"}
+{"infectious_disease": 473, "disease_name": "Mycobacterium gordonae Infection"}
+{"infectious_disease": 474, "disease_name": "Mycobacterium scrofulaceum Infection"}
+{"infectious_disease": 475, "disease_name": "Mycobacterium malmoense Infection"}
+{"infectious_disease": 476, "disease_name": "Mycobacterium avium Infection"}
+{"infectious_disease": 477, "disease_name": "Mycobacterium intracellulare Infection"}
+{"infectious_disease": 478, "disease_name": "Mycobacterium chimaera Infection"}
+{"infectious_disease": 479, "disease_name": "Nocardia farcinica Infection"}
+{"infectious_disease": 480, "disease_name": "Nocardia nova Infection"}
+{"infectious_disease": 481, "disease_name": "Nocardia cyriacigeorgica Infection"}
+{"infectious_disease": 482, "disease_name": "Nocardia wallacei Infection"}
+{"infectious_disease": 483, "disease_name": "Nocardia transvalensis Infection"}
+{"infectious_disease": 484, "disease_name": "Actinomyces israelii Infection"}
+{"infectious_disease": 485, "disease_name": "Actinomyces naeslundii Infection"}
+{"infectious_disease": 486, "disease_name": "Actinomyces odontolyticus Infection"}
+{"infectious_disease": 487, "disease_name": "Actinomyces viscosus Infection"}
+{"infectious_disease": 488, "disease_name": "Actinomyces meyeri Infection"}
+{"infectious_disease": 489, "disease_name": "Cutibacterium acnes Infection"}
+{"infectious_disease": 490, "disease_name": "Cutibacterium avidum Infection"}
+{"infectious_disease": 491, "disease_name": "Cutibacterium granulosum Infection"}
+{"infectious_disease": 492, "disease_name": "Bifidobacterium dentium Infection"}
+{"infectious_disease": 493, "disease_name": "Lactobacillus rhamnosus Infection"}
+{"infectious_disease": 494, "disease_name": "Lactobacillus casei Infection"}
+{"infectious_disease": 495, "disease_name": "Lactobacillus acidophilus Infection"}
+{"infectious_disease": 496, "disease_name": "Leuconostoc mesenteroides Infection"}
+{"infectious_disease": 497, "disease_name": "Aerococcus viridans Infection"}
+{"infectious_disease": 498, "disease_name": "Aerococcus urinae Infection"}
+{"infectious_disease": 499, "disease_name": "Aerococcus sanguinicola Infection"}
+{"infectious_disease": 500, "disease_name": "Abiotrophia defectiva Infection"}
+{"infectious_disease": 501, "disease_name": "Granulicatella adiacens Infection"}
+{"infectious_disease": 502, "disease_name": "Rothia mucilaginosa Infection"}
+{"infectious_disease": 503, "disease_name": "Rothia dentocariosa Infection"}
+{"infectious_disease": 504, "disease_name": "Micrococcus luteus Infection"}
+{"infectious_disease": 505, "disease_name": "Kocuria rosea Infection"}
+{"infectious_disease": 506, "disease_name": "Kocuria kristinae Infection"}
+{"infectious_disease": 507, "disease_name": "Listeria ivanovii Infection"}
+{"infectious_disease": 508, "disease_name": "Listeria seeligeri Infection"}
+{"infectious_disease": 509, "disease_name": "Vibrio alginolyticus Infection"}
+{"infectious_disease": 510, "disease_name": "Vibrio mimicus Infection"}
+{"infectious_disease": 511, "disease_name": "Vibrio fluvialis Infection"}
+{"infectious_disease": 512, "disease_name": "Vibrio furnissii Infection"}
+{"infectious_disease": 513, "disease_name": "Aeromonas hydrophila Infection"}
+{"infectious_disease": 514, "disease_name": "Aeromonas caviae Infection"}
+{"infectious_disease": 515, "disease_name": "Aeromonas veronii Infection"}
+{"infectious_disease": 516, "disease_name": "Aeromonas sobria Infection"}
+{"infectious_disease": 517, "disease_name": "Chromobacterium violaceum Infection"}
+{"infectious_disease": 518, "disease_name": "Achromobacter xylosoxidans Infection"}
+{"infectious_disease": 519, "disease_name": "Achromobacter piechaudii Infection"}
+{"infectious_disease": 520, "disease_name": "Alcaligenes faecalis Infection"}
+{"infectious_disease": 521, "disease_name": "Bordetella holmesii Infection"}
+{"infectious_disease": 522, "disease_name": "Bordetella avium Infection"}
+{"infectious_disease": 523, "disease_name": "Bordetella hinzii Infection"}
+{"infectious_disease": 524, "disease_name": "Burkholderia gladioli Infection"}
+{"infectious_disease": 525, "disease_name": "Burkholderia cenocepacia Infection"}
+{"infectious_disease": 526, "disease_name": "Burkholderia multivorans Infection"}
+{"infectious_disease": 527, "disease_name": "Ralstonia pickettii Infection"}
+{"infectious_disease": 528, "disease_name": "Ralstonia mannitolilytica Infection"}
+{"infectious_disease": 529, "disease_name": "Cupriavidus pauculus Infection"}
+{"infectious_disease": 530, "disease_name": "Candida glabrata Infection"}
+{"infectious_disease": 531, "disease_name": "Candida krusei Infection"}
+{"infectious_disease": 532, "disease_name": "Candida tropicalis Infection"}
+{"infectious_disease": 533, "disease_name": "Candida parapsilosis Infection"}
+{"infectious_disease": 534, "disease_name": "Candida lusitaniae Infection"}
+{"infectious_disease": 535, "disease_name": "Candida guilliermondii Infection"}
+{"infectious_disease": 536, "disease_name": "Candida rugosa Infection"}
+{"infectious_disease": 537, "disease_name": "Candida dubliniensis Infection"}
+{"infectious_disease": 538, "disease_name": "Candida kefyr Infection"}
+{"infectious_disease": 539, "disease_name": "Candida pelliculosa Infection"}
+{"infectious_disease": 540, "disease_name": "Candida utilis Infection"}
+{"infectious_disease": 541, "disease_name": "Cryptococcus gattii Infection"}
+{"infectious_disease": 542, "disease_name": "Cryptococcus laurentii Infection"}
+{"infectious_disease": 543, "disease_name": "Cryptococcus albidus Infection"}
+{"infectious_disease": 544, "disease_name": "Aspergillus flavus Infection"}
+{"infectious_disease": 545, "disease_name": "Aspergillus niger Infection"}
+{"infectious_disease": 546, "disease_name": "Aspergillus terreus Infection"}
+{"infectious_disease": 547, "disease_name": "Aspergillus nidulans Infection"}
+{"infectious_disease": 548, "disease_name": "Aspergillus clavatus Infection"}
+{"infectious_disease": 549, "disease_name": "Aspergillus versicolor Infection"}
+{"infectious_disease": 550, "disease_name": "Aspergillus ustus Infection"}
+{"infectious_disease": 551, "disease_name": "Mucor circinelloides Infection"}
+{"infectious_disease": 552, "disease_name": "Mucor racemosus Infection"}
+{"infectious_disease": 553, "disease_name": "Mucor plumbeus Infection"}
+{"infectious_disease": 554, "disease_name": "Rhizopus oryzae Infection"}
+{"infectious_disease": 555, "disease_name": "Rhizopus microsporus Infection"}
+{"infectious_disease": 556, "disease_name": "Rhizomucor pusillus Infection"}
+{"infectious_disease": 557, "disease_name": "Rhizomucor miehei Infection"}
+{"infectious_disease": 558, "disease_name": "Lichtheimia corymbifera Infection"}
+{"infectious_disease": 559, "disease_name": "Lichtheimia ramosa Infection"}
+{"infectious_disease": 560, "disease_name": "Cunninghamella bertholletiae Infection"}
+{"infectious_disease": 561, "disease_name": "Apophysomyces elegans Infection"}
+{"infectious_disease": 562, "disease_name": "Saksenaea vasiformis Infection"}
+{"infectious_disease": 563, "disease_name": "Syncephalastrum racemosum Infection"}
+{"infectious_disease": 564, "disease_name": "Basidiobolus ranarum Infection"}
+{"infectious_disease": 565, "disease_name": "Conidiobolus coronatus Infection"}
+{"infectious_disease": 566, "disease_name": "Conidiobolus incongruus Infection"}
+{"infectious_disease": 567, "disease_name": "Trichophyton rubrum Infection"}
+{"infectious_disease": 568, "disease_name": "Trichophyton mentagrophytes Infection"}
+{"infectious_disease": 569, "disease_name": "Trichophyton tonsurans Infection"}
+{"infectious_disease": 570, "disease_name": "Trichophyton verrucosum Infection"}
+{"infectious_disease": 571, "disease_name": "Trichophyton violaceum Infection"}
+{"infectious_disease": 572, "disease_name": "Trichophyton schoenleinii Infection"}
+{"infectious_disease": 573, "disease_name": "Trichophyton concentricum Infection"}
+{"infectious_disease": 574, "disease_name": "Microsporum canis Infection"}
+{"infectious_disease": 575, "disease_name": "Microsporum gypseum Infection"}
+{"infectious_disease": 576, "disease_name": "Microsporum audouinii Infection"}
+{"infectious_disease": 577, "disease_name": "Microsporum ferrugineum Infection"}
+{"infectious_disease": 578, "disease_name": "Epidermophyton floccosum Infection"}
+{"infectious_disease": 579, "disease_name": "Malassezia furfur Infection"}
+{"infectious_disease": 580, "disease_name": "Malassezia pachydermatis Infection"}
+{"infectious_disease": 581, "disease_name": "Malassezia globosa Infection"}
+{"infectious_disease": 582, "disease_name": "Malassezia restricta Infection"}
+{"infectious_disease": 583, "disease_name": "Malassezia sympodialis Infection"}
+{"infectious_disease": 584, "disease_name": "Pneumocystis carinii Infection"}
+{"infectious_disease": 585, "disease_name": "Pneumocystis wakefieldiae Infection"}
+{"infectious_disease": 586, "disease_name": "Histoplasma duboisii Infection"}
+{"infectious_disease": 587, "disease_name": "Blastomyces gilchristii Infection"}
+{"infectious_disease": 588, "disease_name": "Blastomyces percursus Infection"}
+{"infectious_disease": 589, "disease_name": "Coccidioides posadasii Infection"}
+{"infectious_disease": 590, "disease_name": "Sporothrix brasiliensis Infection"}
+{"infectious_disease": 591, "disease_name": "Sporothrix globosa Infection"}
+{"infectious_disease": 592, "disease_name": "Sporothrix luriei Infection"}
+{"infectious_disease": 593, "disease_name": "Fonsecaea pedrosoi Infection"}
+{"infectious_disease": 594, "disease_name": "Fonsecaea monophora Infection"}
+{"infectious_disease": 595, "disease_name": "Fonsecaea nubica Infection"}
+{"infectious_disease": 596, "disease_name": "Cladophialophora bantiana Infection"}
+{"infectious_disease": 597, "disease_name": "Cladophialophora boppii Infection"}
+{"infectious_disease": 598, "disease_name": "Cladophialophora arxii Infection"}
+{"infectious_disease": 599, "disease_name": "Phialophora verrucosa Infection"}
+{"infectious_disease": 600, "disease_name": "Human Polyomavirus 1 Infection"}
+{"infectious_disease": 601, "disease_name": "Human Polyomavirus 2 Infection"}
+{"infectious_disease": 602, "disease_name": "Human Polyomavirus 5 Infection"}
+{"infectious_disease": 603, "disease_name": "Human Polyomavirus 6 Infection"}
+{"infectious_disease": 604, "disease_name": "Human Polyomavirus 7 Infection"}
+{"infectious_disease": 605, "disease_name": "Human Polyomavirus 9 Infection"}
+{"infectious_disease": 606, "disease_name": "Human Polyomavirus 10 Infection"}
+{"infectious_disease": 607, "disease_name": "Human Polyomavirus 11 Infection"}
+{"infectious_disease": 608, "disease_name": "Human Adenovirus A Infection"}
+{"infectious_disease": 609, "disease_name": "Human Adenovirus B Infection"}
+{"infectious_disease": 610, "disease_name": "Human Adenovirus C Infection"}
+{"infectious_disease": 611, "disease_name": "Human Adenovirus D Infection"}
+{"infectious_disease": 612, "disease_name": "Human Adenovirus E Infection"}
+{"infectious_disease": 613, "disease_name": "Human Adenovirus F Infection"}
+{"infectious_disease": 614, "disease_name": "Human Adenovirus G Infection"}
+{"infectious_disease": 615, "disease_name": "Rhinovirus A Infection"}
+{"infectious_disease": 616, "disease_name": "Rhinovirus B Infection"}
+{"infectious_disease": 617, "disease_name": "Rhinovirus C Infection"}
+{"infectious_disease": 618, "disease_name": "Human Bocavirus 1 Infection"}
+{"infectious_disease": 619, "disease_name": "Human Bocavirus 2 Infection"}
+{"infectious_disease": 620, "disease_name": "Human Bocavirus 3 Infection"}
+{"infectious_disease": 621, "disease_name": "Human Bocavirus 4 Infection"}
+{"infectious_disease": 622, "disease_name": "Parvovirus 4 Infection"}
+{"infectious_disease": 623, "disease_name": "Torque Teno Virus Infection"}
+{"infectious_disease": 624, "disease_name": "Human Astrovirus 1 Infection"}
+{"infectious_disease": 625, "disease_name": "Human Astrovirus 2 Infection"}
+{"infectious_disease": 626, "disease_name": "Human Astrovirus 3 Infection"}
+{"infectious_disease": 627, "disease_name": "Human Astrovirus 4 Infection"}
+{"infectious_disease": 628, "disease_name": "Human Astrovirus 5 Infection"}
+{"infectious_disease": 629, "disease_name": "Human Astrovirus 6 Infection"}
+{"infectious_disease": 630, "disease_name": "Human Astrovirus 7 Infection"}
+{"infectious_disease": 631, "disease_name": "Human Astrovirus 8 Infection"}
+{"infectious_disease": 632, "disease_name": "Mammalian Orthoreovirus Infection"}
+{"infectious_disease": 633, "disease_name": "Rotavirus B Infection"}
+{"infectious_disease": 634, "disease_name": "Rotavirus C Infection"}
+{"infectious_disease": 635, "disease_name": "Eyach Virus Infection"}
+{"infectious_disease": 636, "disease_name": "Human Pegivirus Infection"}
+{"infectious_disease": 637, "disease_name": "Saffold Virus Infection"}
+{"infectious_disease": 638, "disease_name": "Pichinde Virus Infection"}
+{"infectious_disease": 639, "disease_name": "Tacaribe Virus Infection"}
+{"infectious_disease": 640, "disease_name": "Latino Virus Infection"}
+{"infectious_disease": 641, "disease_name": "Oliveros Virus Infection"}
+{"infectious_disease": 642, "disease_name": "Whitewater Arroyo Virus Infection"}
+{"infectious_disease": 643, "disease_name": "Bear Canyon Virus Infection"}
+{"infectious_disease": 644, "disease_name": "Tamiami Virus Infection"}
+{"infectious_disease": 645, "disease_name": "Mopeia Virus Infection"}
+{"infectious_disease": 646, "disease_name": "Mobala Virus Infection"}
+{"infectious_disease": 647, "disease_name": "Ippy Virus Infection"}
+{"infectious_disease": 648, "disease_name": "Luna Virus Infection"}
+{"infectious_disease": 649, "disease_name": "Dobrava-Belgrade Virus Infection"}
+{"infectious_disease": 650, "disease_name": "Saaremaa Virus Infection"}
+{"infectious_disease": 651, "disease_name": "Laguna Negra Virus Infection"}
+{"infectious_disease": 652, "disease_name": "Choclo Virus Infection"}
+{"infectious_disease": 653, "disease_name": "Bermejo Virus Infection"}
+{"infectious_disease": 654, "disease_name": "Maciel Virus Infection"}
+{"infectious_disease": 655, "disease_name": "Oran Virus Infection"}
+{"infectious_disease": 656, "disease_name": "Lechiguanas Virus Infection"}
+{"infectious_disease": 657, "disease_name": "Juquitiba Virus Infection"}
+{"infectious_disease": 658, "disease_name": "Castelo dos Sonhos Virus Infection"}
+{"infectious_disease": 659, "disease_name": "Araraquara Virus Infection"}
+{"infectious_disease": 660, "disease_name": "Plasmodium cynomolgi Infection"}
+{"infectious_disease": 661, "disease_name": "Plasmodium simium Infection"}
+{"infectious_disease": 662, "disease_name": "Plasmodium coatneyi Infection"}
+{"infectious_disease": 663, "disease_name": "Plasmodium inui Infection"}
+{"infectious_disease": 664, "disease_name": "Babesia duncani Infection"}
+{"infectious_disease": 665, "disease_name": "Babesia venatorum Infection"}
+{"infectious_disease": 666, "disease_name": "Babesia motasi Infection"}
+{"infectious_disease": 667, "disease_name": "Babesia crassa Infection"}
+{"infectious_disease": 668, "disease_name": "Cryptosporidium hominis Infection"}
+{"infectious_disease": 669, "disease_name": "Cryptosporidium meleagridis Infection"}
+{"infectious_disease": 670, "disease_name": "Cryptosporidium felis Infection"}
+{"infectious_disease": 671, "disease_name": "Cryptosporidium canis Infection"}
+{"infectious_disease": 672, "disease_name": "Cryptosporidium muris Infection"}
+{"infectious_disease": 673, "disease_name": "Sarcocystis suihominis Infection"}
+{"infectious_disease": 674, "disease_name": "Sarcocystis bovihominis Infection"}
+{"infectious_disease": 675, "disease_name": "Sarcocystis nesbitti Infection"}
+{"infectious_disease": 676, "disease_name": "Enterocytozoon bieneusi Infection"}
+{"infectious_disease": 677, "disease_name": "Encephalitozoon cuniculi Infection"}
+{"infectious_disease": 678, "disease_name": "Encephalitozoon hellem Infection"}
+{"infectious_disease": 679, "disease_name": "Encephalitozoon intestinalis Infection"}
+{"infectious_disease": 680, "disease_name": "Trachipleistophora hominis Infection"}
+{"infectious_disease": 681, "disease_name": "Trachipleistophora anthropophthera Infection"}
+{"infectious_disease": 682, "disease_name": "Anncaliia algerae Infection"}
+{"infectious_disease": 683, "disease_name": "Anncaliia connori Infection"}
+{"infectious_disease": 684, "disease_name": "Anncaliia vesicularum Infection"}
+{"infectious_disease": 685, "disease_name": "Vittaforma corneae Infection"}
+{"infectious_disease": 686, "disease_name": "Microsporidium ceylonensis Infection"}
+{"infectious_disease": 687, "disease_name": "Microsporidium africanum Infection"}
+{"infectious_disease": 688, "disease_name": "Entamoeba bangladeshi Infection"}
+{"infectious_disease": 689, "disease_name": "Entamoeba moshkovskii Infection"}
+{"infectious_disease": 690, "disease_name": "Entamoeba polecki Infection"}
+{"infectious_disease": 691, "disease_name": "Entamoeba coli Infection"}
+{"infectious_disease": 692, "disease_name": "Entamoeba hartmanni Infection"}
+{"infectious_disease": 693, "disease_name": "Endolimax nana Infection"}
+{"infectious_disease": 694, "disease_name": "Iodamoeba bütschlii Infection"}
+{"infectious_disease": 695, "disease_name": "Trichomonas tenax Infection"}
+{"infectious_disease": 696, "disease_name": "Pentatrichomonas hominis Infection"}
+{"infectious_disease": 697, "disease_name": "Chilomastix mesnili Infection"}
+{"infectious_disease": 698, "disease_name": "Retortamonas intestinalis Infection"}
+{"infectious_disease": 699, "disease_name": "Enteromonas hominis Infection"}
+{"infectious_disease": 700, "disease_name": "Leishmania infantum Infection"}
+{"infectious_disease": 701, "disease_name": "Leishmania aethiopica Infection"}
+{"infectious_disease": 702, "disease_name": "Leishmania guyanensis Infection"}
+{"infectious_disease": 703, "disease_name": "Leishmania panamensis Infection"}
+{"infectious_disease": 704, "disease_name": "Leishmania amazonensis Infection"}

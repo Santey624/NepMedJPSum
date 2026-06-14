@@ -1,0 +1,542 @@
+{"ent_disease": 1, "disease_name": "Benign paroxysmal positional vertigo"}
+{"ent_disease": 2, "disease_name": "Vestibular neuritis"}
+{"ent_disease": 3, "disease_name": "Viral labyrinthitis"}
+{"ent_disease": 4, "disease_name": "Acute bacterial labyrinthitis"}
+{"ent_disease": 5, "disease_name": "Autoimmune inner ear disease"}
+{"ent_disease": 6, "disease_name": "Superior semicircular canal dehiscence syndrome"}
+{"ent_disease": 7, "disease_name": "Perilymphatic fistula"}
+{"ent_disease": 8, "disease_name": "Cochlear otosclerosis"}
+{"ent_disease": 9, "disease_name": "Presbycusis"}
+{"ent_disease": 10, "disease_name": "Sudden sensorineural hearing loss"}
+{"ent_disease": 11, "disease_name": "Noise-induced hearing loss"}
+{"ent_disease": 12, "disease_name": "Aminoglycoside ototoxicity"}
+{"ent_disease": 13, "disease_name": "Cisplatin ototoxicity"}
+{"ent_disease": 14, "disease_name": "Loop-diuretic ototoxicity"}
+{"ent_disease": 15, "disease_name": "Congenital CMV-related hearing loss"}
+{"ent_disease": 16, "disease_name": "Auditory neuropathy spectrum disorder"}
+{"ent_disease": 17, "disease_name": "Enlarged vestibular aqueduct"}
+{"ent_disease": 18, "disease_name": "Vestibular schwannoma"}
+{"ent_disease": 19, "disease_name": "Facial nerve schwannoma"}
+{"ent_disease": 20, "disease_name": "Tympanic paraganglioma"}
+{"ent_disease": 21, "disease_name": "Jugular paraganglioma"}
+{"ent_disease": 22, "disease_name": "Endolymphatic sac tumor"}
+{"ent_disease": 23, "disease_name": "Congenital cholesteatoma"}
+{"ent_disease": 24, "disease_name": "Acquired attic cholesteatoma"}
+{"ent_disease": 25, "disease_name": "Middle ear cholesteatoma"}
+{"ent_disease": 26, "disease_name": "Chronic suppurative otitis media"}
+{"ent_disease": 27, "disease_name": "Acute otitis media with tympanic membrane perforation"}
+{"ent_disease": 28, "disease_name": "Recurrent acute otitis media"}
+{"ent_disease": 29, "disease_name": "Otitis media with effusion"}
+{"ent_disease": 30, "disease_name": "Adhesive otitis media"}
+{"ent_disease": 31, "disease_name": "Tympanic membrane atelectasis"}
+{"ent_disease": 32, "disease_name": "Tympanosclerosis"}
+{"ent_disease": 33, "disease_name": "Ossicular chain discontinuity"}
+{"ent_disease": 34, "disease_name": "Mastoiditis"}
+{"ent_disease": 35, "disease_name": "Petrositis"}
+{"ent_disease": 36, "disease_name": "Acute otitis externa"}
+{"ent_disease": 37, "disease_name": "Eczematous otitis externa"}
+{"ent_disease": 38, "disease_name": "Necrotizing otitis externa"}
+{"ent_disease": 39, "disease_name": "Furuncle of external auditory canal"}
+{"ent_disease": 40, "disease_name": "Auricular perichondritis"}
+{"ent_disease": 41, "disease_name": "Relapsing polychondritis"}
+{"ent_disease": 42, "disease_name": "External auditory canal exostoses"}
+{"ent_disease": 43, "disease_name": "External auditory canal osteoma"}
+{"ent_disease": 44, "disease_name": "External auditory canal atresia"}
+{"ent_disease": 45, "disease_name": "Microtia"}
+{"ent_disease": 46, "disease_name": "Congenital ossicular malformation"}
+{"ent_disease": 47, "disease_name": "Congenital ossicular discontinuity"}
+{"ent_disease": 48, "disease_name": "Temporal bone fracture"}
+{"ent_disease": 49, "disease_name": "Middle ear barotrauma"}
+{"ent_disease": 50, "disease_name": "Round window rupture"}
+{"ent_disease": 51, "disease_name": "Noise-induced tinnitus"}
+{"ent_disease": 52, "disease_name": "Ménière-related tinnitus"}
+{"ent_disease": 53, "disease_name": "Vestibular migraine"}
+{"ent_disease": 54, "disease_name": "Bilateral vestibulopathy"}
+{"ent_disease": 55, "disease_name": "Recurrent vertigo of childhood"}
+{"ent_disease": 56, "disease_name": "Perilymphatic hydrops"}
+{"ent_disease": 57, "disease_name": "Cervicogenic dizziness"}
+{"ent_disease": 58, "disease_name": "Bilateral Ménière disease"}
+{"ent_disease": 59, "disease_name": "Congenital stapes fixation"}
+{"ent_disease": 60, "disease_name": "Otosclerosis"}
+{"ent_disease": 61, "disease_name": "Hyperacusis due to facial nerve palsy"}
+{"ent_disease": 62, "disease_name": "Facial nerve palsy"}
+{"ent_disease": 63, "disease_name": "Ramsay Hunt syndrome"}
+{"ent_disease": 64, "disease_name": "Preauricular pit/fistula"}
+{"ent_disease": 65, "disease_name": "Keloid of auricle"}
+{"ent_disease": 66, "disease_name": "Chondrodermatitis nodularis helicis"}
+{"ent_disease": 67, "disease_name": "Basal cell carcinoma"}
+{"ent_disease": 68, "disease_name": "Squamous cell carcinoma of EAC"}
+{"ent_disease": 69, "disease_name": "Allergic contact dermatitis of ear canal"}
+{"ent_disease": 70, "disease_name": "Cerumen impaction"}
+{"ent_disease": 71, "disease_name": "Otomycosis"}
+{"ent_disease": 72, "disease_name": "Herpes zoster oticus"}
+{"ent_disease": 73, "disease_name": "Congenital bilateral sensorineural hearing loss"}
+{"ent_disease": 74, "disease_name": "Nonsyndromic autosomal dominant hearing loss"}
+{"ent_disease": 75, "disease_name": "Nonsyndromic autosomal recessive hearing loss"}
+{"ent_disease": 76, "disease_name": "X-linked hearing loss"}
+{"ent_disease": 77, "disease_name": "Pendred syndrome"}
+{"ent_disease": 78, "disease_name": "Usher syndrome type 1"}
+{"ent_disease": 79, "disease_name": "Usher syndrome type 2"}
+{"ent_disease": 80, "disease_name": "Waardenburg syndrome type 1"}
+{"ent_disease": 81, "disease_name": "Branchiootorenal syndrome"}
+{"ent_disease": 82, "disease_name": "Jervell and Lange-Nielsen syndrome"}
+{"ent_disease": 83, "disease_name": "Stickler syndrome"}
+{"ent_disease": 84, "disease_name": "CHARGE syndrome"}
+{"ent_disease": 85, "disease_name": "Treacher Collins syndrome"}
+{"ent_disease": 86, "disease_name": "Goldenhar syndrome / oculoauriculovertebral spectrum"}
+{"ent_disease": 87, "disease_name": "Alport syndrome"}
+{"ent_disease": 88, "disease_name": "Congenital rubella syndrome"}
+{"ent_disease": 89, "disease_name": "Otopalatodigital syndrome"}
+{"ent_disease": 90, "disease_name": "Pendred syndrome with enlarged vestibular aqueduct"}
+{"ent_disease": 91, "disease_name": "Osteogenesis imperfecta"}
+{"ent_disease": 92, "disease_name": "Auditory neuropathy due to neonatal hyperbilirubinemia"}
+{"ent_disease": 93, "disease_name": "Seasonal allergic rhinitis"}
+{"ent_disease": 94, "disease_name": "Perennial allergic rhinitis"}
+{"ent_disease": 95, "disease_name": "Nonallergic rhinitis"}
+{"ent_disease": 96, "disease_name": "Occupational rhinitis"}
+{"ent_disease": 97, "disease_name": "Rhinitis medicamentosa"}
+{"ent_disease": 98, "disease_name": "Acute viral rhinosinusitis"}
+{"ent_disease": 99, "disease_name": "Acute maxillary sinusitis"}
+{"ent_disease": 100, "disease_name": "Acute frontal sinusitis"}
+{"ent_disease": 101, "disease_name": "Acute sphenoid sinusitis"}
+{"ent_disease": 102, "disease_name": "Acute ethmoid sinusitis"}
+{"ent_disease": 103, "disease_name": "Odontogenic maxillary sinusitis"}
+{"ent_disease": 104, "disease_name": "Chronic rhinosinusitis without nasal polyps"}
+{"ent_disease": 105, "disease_name": "Chronic rhinosinusitis with nasal polyps"}
+{"ent_disease": 106, "disease_name": "Allergic fungal rhinosinusitis"}
+{"ent_disease": 107, "disease_name": "Acute invasive fungal rhinosinusitis"}
+{"ent_disease": 108, "disease_name": "Chronic invasive fungal rhinosinusitis"}
+{"ent_disease": 109, "disease_name": "Maxillary sinus fungal ball"}
+{"ent_disease": 110, "disease_name": "Sphenoid sinus fungal ball"}
+{"ent_disease": 111, "disease_name": "Recurrent acute rhinosinusitis"}
+{"ent_disease": 112, "disease_name": "Chronic rhinosinusitis with nasal polyps and asthma"}
+{"ent_disease": 113, "disease_name": "Aspirin-exacerbated respiratory disease"}
+{"ent_disease": 114, "disease_name": "Nasal septal perforation"}
+{"ent_disease": 115, "disease_name": "Nasal septal abscess"}
+{"ent_disease": 116, "disease_name": "Nasal septal hematoma"}
+{"ent_disease": 117, "disease_name": "Nasal vestibulitis"}
+{"ent_disease": 118, "disease_name": "Furuncle of nasal vestibule"}
+{"ent_disease": 119, "disease_name": "Internal nasal valve dysfunction/collapse"}
+{"ent_disease": 120, "disease_name": "Empty nose syndrome"}
+{"ent_disease": 121, "disease_name": "Concha bullosa"}
+{"ent_disease": 122, "disease_name": "Unilateral choanal atresia"}
+{"ent_disease": 123, "disease_name": "Bilateral choanal atresia"}
+{"ent_disease": 124, "disease_name": "Adenoid hypertrophy"}
+{"ent_disease": 125, "disease_name": "Juvenile nasopharyngeal angiofibroma"}
+{"ent_disease": 126, "disease_name": "Sinonasal inverted papilloma"}
+{"ent_disease": 127, "disease_name": "Antrochoanal polyp"}
+{"ent_disease": 128, "disease_name": "Sinonasal squamous cell carcinoma"}
+{"ent_disease": 129, "disease_name": "Intestinal-type adenocarcinoma of sinonasal tract"}
+{"ent_disease": 130, "disease_name": "Non-intestinal-type sinonasal adenocarcinoma"}
+{"ent_disease": 131, "disease_name": "Olfactory neuroblastoma"}
+{"ent_disease": 132, "disease_name": "Sinonasal undifferentiated carcinoma"}
+{"ent_disease": 133, "disease_name": "Adenoid cystic carcinoma of sinonasal tract"}
+{"ent_disease": 134, "disease_name": "Mucosal melanoma of nasal cavity"}
+{"ent_disease": 135, "disease_name": "Sinonasal lymphoma"}
+{"ent_disease": 136, "disease_name": "Extramedullary plasmacytoma of sinonasal tract"}
+{"ent_disease": 137, "disease_name": "Sinonasal solitary fibrous tumor/hemangiopericytoma"}
+{"ent_disease": 138, "disease_name": "Hemangioma of nasal septum"}
+{"ent_disease": 139, "disease_name": "Capillary hemangioma"}
+{"ent_disease": 140, "disease_name": "Hereditary hemorrhagic telangiectasia"}
+{"ent_disease": 141, "disease_name": "Granulomatosis with polyangiitis"}
+{"ent_disease": 142, "disease_name": "Nasal sarcoidosis"}
+{"ent_disease": 143, "disease_name": "Extranodal NK/T-cell lymphoma, nasal type"}
+{"ent_disease": 144, "disease_name": "Rhinoscleroma"}
+{"ent_disease": 145, "disease_name": "Rhinosporidiosis"}
+{"ent_disease": 146, "disease_name": "Nasal tuberculosis"}
+{"ent_disease": 147, "disease_name": "Nasal leprosy"}
+{"ent_disease": 148, "disease_name": "Sinonasal amyloidosis"}
+{"ent_disease": 149, "disease_name": "Frontal sinus mucocele"}
+{"ent_disease": 150, "disease_name": "Ethmoid sinus mucocele"}
+{"ent_disease": 151, "disease_name": "Sphenoid sinus mucocele"}
+{"ent_disease": 152, "disease_name": "Maxillary sinus retention cyst"}
+{"ent_disease": 153, "disease_name": "CSF rhinorrhea"}
+{"ent_disease": 154, "disease_name": "Nasal fracture with septal deviation"}
+{"ent_disease": 155, "disease_name": "Saddle nose deformity"}
+{"ent_disease": 156, "disease_name": "Chronic rhinosinusitis in cystic fibrosis"}
+{"ent_disease": 157, "disease_name": "Allergic rhinitis with nasal polyps"}
+{"ent_disease": 158, "disease_name": "Nonallergic rhinitis with eosinophilia syndrome"}
+{"ent_disease": 159, "disease_name": "Atrophic rhinitis"}
+{"ent_disease": 160, "disease_name": "Ozena"}
+{"ent_disease": 161, "disease_name": "Nasal foreign body"}
+{"ent_disease": 162, "disease_name": "Adenoid hypertrophy with obstructive sleep apnea"}
+{"ent_disease": 163, "disease_name": "Congenital nasal dermoid cyst"}
+{"ent_disease": 164, "disease_name": "Nasal glioma"}
+{"ent_disease": 165, "disease_name": "Nasal encephalocele"}
+{"ent_disease": 166, "disease_name": "Nasal septal chondrosarcoma"}
+{"ent_disease": 167, "disease_name": "Nasal septal osteoma"}
+{"ent_disease": 168, "disease_name": "Fibrous dysplasia of sinonasal bones"}
+{"ent_disease": 169, "disease_name": "Sinonasal mucosal melanoma"}
+{"ent_disease": 170, "disease_name": "Viral pharyngitis"}
+{"ent_disease": 171, "disease_name": "Group A streptococcal pharyngotonsillitis"}
+{"ent_disease": 172, "disease_name": "Recurrent tonsillitis"}
+{"ent_disease": 173, "disease_name": "Chronic tonsillitis"}
+{"ent_disease": 174, "disease_name": "Tonsillar hypertrophy"}
+{"ent_disease": 175, "disease_name": "Peritonsillar abscess"}
+{"ent_disease": 176, "disease_name": "Parapharyngeal abscess"}
+{"ent_disease": 177, "disease_name": "Retropharyngeal abscess"}
+{"ent_disease": 178, "disease_name": "Infectious mononucleosis with pharyngitis"}
+{"ent_disease": 179, "disease_name": "Pharyngeal diphtheria"}
+{"ent_disease": 180, "disease_name": "Ludwig angina"}
+{"ent_disease": 181, "disease_name": "Acute epiglottitis"}
+{"ent_disease": 182, "disease_name": "Croup"}
+{"ent_disease": 183, "disease_name": "Bacterial tracheitis"}
+{"ent_disease": 184, "disease_name": "Laryngomalacia"}
+{"ent_disease": 185, "disease_name": "Subglottic hemangioma"}
+{"ent_disease": 186, "disease_name": "Congenital subglottic stenosis"}
+{"ent_disease": 187, "disease_name": "Post-intubation subglottic stenosis"}
+{"ent_disease": 188, "disease_name": "Recurrent respiratory papillomatosis"}
+{"ent_disease": 189, "disease_name": "Acute laryngitis"}
+{"ent_disease": 190, "disease_name": "Chronic laryngitis"}
+{"ent_disease": 191, "disease_name": "Reinke edema"}
+{"ent_disease": 192, "disease_name": "Vocal fold nodules"}
+{"ent_disease": 193, "disease_name": "Vocal fold polyps"}
+{"ent_disease": 194, "disease_name": "Vocal fold cyst"}
+{"ent_disease": 195, "disease_name": "Vocal process granuloma"}
+{"ent_disease": 196, "disease_name": "Muscle tension dysphonia"}
+{"ent_disease": 197, "disease_name": "Adductor spasmodic dysphonia"}
+{"ent_disease": 198, "disease_name": "Abductor spasmodic dysphonia"}
+{"ent_disease": 199, "disease_name": "Unilateral vocal fold paralysis"}
+{"ent_disease": 200, "disease_name": "Bilateral vocal fold paralysis"}
+{"ent_disease": 201, "disease_name": "Laryngeal leukoplakia"}
+{"ent_disease": 202, "disease_name": "Vocal fold carcinoma in situ"}
+{"ent_disease": 203, "disease_name": "Glottic squamous cell carcinoma"}
+{"ent_disease": 204, "disease_name": "Supraglottic squamous cell carcinoma"}
+{"ent_disease": 205, "disease_name": "Subglottic squamous cell carcinoma"}
+{"ent_disease": 206, "disease_name": "Laryngeal chondrosarcoma"}
+{"ent_disease": 207, "disease_name": "Laryngeal amyloidosis"}
+{"ent_disease": 208, "disease_name": "Laryngopharyngeal reflux"}
+{"ent_disease": 209, "disease_name": "Laryngeal sensory neuropathy"}
+{"ent_disease": 210, "disease_name": "Tracheomalacia"}
+{"ent_disease": 211, "disease_name": "Post-intubation tracheal stenosis"}
+{"ent_disease": 212, "disease_name": "Tracheal squamous cell carcinoma"}
+{"ent_disease": 213, "disease_name": "Tracheal adenoid cystic carcinoma"}
+{"ent_disease": 214, "disease_name": "Zenker diverticulum"}
+{"ent_disease": 215, "disease_name": "Killian-Jamieson diverticulum"}
+{"ent_disease": 216, "disease_name": "Cricopharyngeal achalasia"}
+{"ent_disease": 217, "disease_name": "Plummer-Vinson syndrome"}
+{"ent_disease": 218, "disease_name": "Eosinophilic esophagitis"}
+{"ent_disease": 219, "disease_name": "GERD/LPR overlap"}
+{"ent_disease": 220, "disease_name": "Esophageal web"}
+{"ent_disease": 221, "disease_name": "Esophageal stricture"}
+{"ent_disease": 222, "disease_name": "Esophageal foreign body impaction"}
+{"ent_disease": 223, "disease_name": "Obstructive sleep apnea"}
+{"ent_disease": 224, "disease_name": "Upper airway resistance syndrome"}
+{"ent_disease": 225, "disease_name": "Central sleep apnea"}
+{"ent_disease": 226, "disease_name": "Pediatric obstructive sleep apnea"}
+{"ent_disease": 227, "disease_name": "Aphthous stomatitis"}
+{"ent_disease": 228, "disease_name": "Oral lichen planus"}
+{"ent_disease": 229, "disease_name": "Oral candidiasis"}
+{"ent_disease": 230, "disease_name": "Herpetic gingivostomatitis"}
+{"ent_disease": 231, "disease_name": "Recurrent herpes labialis"}
+{"ent_disease": 232, "disease_name": "Geographic tongue"}
+{"ent_disease": 233, "disease_name": "Fissured tongue"}
+{"ent_disease": 234, "disease_name": "Glossitis"}
+{"ent_disease": 235, "disease_name": "Median rhomboid glossitis"}
+{"ent_disease": 236, "disease_name": "Oral hairy leukoplakia"}
+{"ent_disease": 237, "disease_name": "Oral leukoplakia"}
+{"ent_disease": 238, "disease_name": "Oral erythroplakia"}
+{"ent_disease": 239, "disease_name": "Squamous cell carcinoma of tongue"}
+{"ent_disease": 240, "disease_name": "Squamous cell carcinoma of floor of mouth"}
+{"ent_disease": 241, "disease_name": "Squamous cell carcinoma of buccal mucosa"}
+{"ent_disease": 242, "disease_name": "Squamous cell carcinoma of lower lip"}
+{"ent_disease": 243, "disease_name": "Squamous cell carcinoma of hard palate"}
+{"ent_disease": 244, "disease_name": "Verrucous carcinoma of oral cavity"}
+{"ent_disease": 245, "disease_name": "Mucosal melanoma of oral cavity"}
+{"ent_disease": 246, "disease_name": "Kaposi sarcoma of oral cavity"}
+{"ent_disease": 247, "disease_name": "Mucocele"}
+{"ent_disease": 248, "disease_name": "Ranula"}
+{"ent_disease": 249, "disease_name": "Plunging ranula"}
+{"ent_disease": 250, "disease_name": "Submandibular sialolithiasis"}
+{"ent_disease": 251, "disease_name": "Parotid sialolithiasis"}
+{"ent_disease": 252, "disease_name": "Chronic parotitis"}
+{"ent_disease": 253, "disease_name": "Acute parotitis"}
+{"ent_disease": 254, "disease_name": "Mumps parotitis"}
+{"ent_disease": 255, "disease_name": "Sjögren syndrome"}
+{"ent_disease": 256, "disease_name": "Pleomorphic adenoma"}
+{"ent_disease": 257, "disease_name": "Warthin tumor"}
+{"ent_disease": 258, "disease_name": "Mucoepidermoid carcinoma of parotid gland"}
+{"ent_disease": 259, "disease_name": "Adenoid cystic carcinoma"}
+{"ent_disease": 260, "disease_name": "Acinic cell carcinoma"}
+{"ent_disease": 261, "disease_name": "Polymorphous adenocarcinoma"}
+{"ent_disease": 262, "disease_name": "Parotid oncocytoma"}
+{"ent_disease": 263, "disease_name": "Basal cell adenoma"}
+{"ent_disease": 264, "disease_name": "Necrotizing sialometaplasia"}
+{"ent_disease": 265, "disease_name": "Radiation-induced sialadenitis"}
+{"ent_disease": 266, "disease_name": "Chronic sialadenitis"}
+{"ent_disease": 267, "disease_name": "IgG4-related sialadenitis"}
+{"ent_disease": 268, "disease_name": "Sarcoid sialadenitis"}
+{"ent_disease": 269, "disease_name": "Tuberculous sialadenitis"}
+{"ent_disease": 270, "disease_name": "Necrotizing lymphadenitis"}
+{"ent_disease": 271, "disease_name": "Metastatic SCC to cervical lymph node, unknown primary"}
+{"ent_disease": 272, "disease_name": "Hodgkin lymphoma"}
+{"ent_disease": 273, "disease_name": "Non-Hodgkin lymphoma of Waldeyer ring"}
+{"ent_disease": 274, "disease_name": "Castleman disease"}
+{"ent_disease": 275, "disease_name": "Second branchial cleft cyst"}
+{"ent_disease": 276, "disease_name": "Second branchial cleft fistula"}
+{"ent_disease": 277, "disease_name": "First branchial cleft cyst"}
+{"ent_disease": 278, "disease_name": "Third branchial cleft cyst"}
+{"ent_disease": 279, "disease_name": "Thyroglossal duct cyst"}
+{"ent_disease": 280, "disease_name": "Lymphatic malformation"}
+{"ent_disease": 281, "disease_name": "Venous malformation"}
+{"ent_disease": 282, "disease_name": "Arteriovenous malformation"}
+{"ent_disease": 283, "disease_name": "Infantile hemangioma"}
+{"ent_disease": 284, "disease_name": "Multinodular goiter"}
+{"ent_disease": 285, "disease_name": "Toxic multinodular goiter"}
+{"ent_disease": 286, "disease_name": "Papillary thyroid carcinoma"}
+{"ent_disease": 287, "disease_name": "Follicular thyroid carcinoma"}
+{"ent_disease": 288, "disease_name": "Medullary thyroid carcinoma"}
+{"ent_disease": 289, "disease_name": "Anaplastic thyroid carcinoma"}
+{"ent_disease": 290, "disease_name": "Diffuse sclerosing variant of papillary thyroid carcinoma"}
+{"ent_disease": 291, "disease_name": "Hürthle cell carcinoma"}
+{"ent_disease": 292, "disease_name": "Graves disease"}
+{"ent_disease": 293, "disease_name": "Hashimoto thyroiditis"}
+{"ent_disease": 294, "disease_name": "Subacute thyroiditis"}
+{"ent_disease": 295, "disease_name": "Riedel thyroiditis"}
+{"ent_disease": 296, "disease_name": "Primary hyperparathyroidism"}
+{"ent_disease": 297, "disease_name": "Parathyroid carcinoma"}
+{"ent_disease": 298, "disease_name": "Secondary hyperparathyroidism"}
+{"ent_disease": 299, "disease_name": "Multiple endocrine neoplasia type 2A"}
+{"ent_disease": 300, "disease_name": "Multiple endocrine neoplasia type 2B"}
+{"ent_disease": 301, "disease_name": "Thyroid lymphoma"}
+{"ent_disease": 302, "disease_name": "Metastatic renal cell carcinoma to thyroid"}
+{"ent_disease": 303, "disease_name": "Goiter"}
+{"ent_disease": 304, "disease_name": "Substernal goiter"}
+{"ent_disease": 305, "disease_name": "Thyroid storm"}
+{"ent_disease": 306, "disease_name": "Congenital hypothyroidism"}
+{"ent_disease": 307, "disease_name": "Thyroglossal duct carcinoma"}
+{"ent_disease": 308, "disease_name": "Carotid body paraganglioma"}
+{"ent_disease": 309, "disease_name": "Vagal paraganglioma"}
+{"ent_disease": 310, "disease_name": "Vagal schwannoma"}
+{"ent_disease": 311, "disease_name": "Cervical plexus neurofibroma"}
+{"ent_disease": 312, "disease_name": "Neurofibromatosis type 2"}
+{"ent_disease": 313, "disease_name": "Neurofibromatosis type 1"}
+{"ent_disease": 314, "disease_name": "Metastatic oropharyngeal SCC to neck nodes"}
+{"ent_disease": 315, "disease_name": "HPV-associated oropharyngeal SCC"}
+{"ent_disease": 316, "disease_name": "Tonsillar squamous cell carcinoma"}
+{"ent_disease": 317, "disease_name": "Base-of-tongue squamous cell carcinoma"}
+{"ent_disease": 318, "disease_name": "Soft palate squamous cell carcinoma"}
+{"ent_disease": 319, "disease_name": "Hypopharyngeal squamous cell carcinoma"}
+{"ent_disease": 320, "disease_name": "Piriform sinus carcinoma"}
+{"ent_disease": 321, "disease_name": "Postcricoid carcinoma"}
+{"ent_disease": 322, "disease_name": "Posterior pharyngeal wall carcinoma"}
+{"ent_disease": 323, "disease_name": "Non-keratinizing nasopharyngeal carcinoma"}
+{"ent_disease": 324, "disease_name": "Nasopharyngeal carcinoma, keratinizing"}
+{"ent_disease": 325, "disease_name": "Nasopharyngeal carcinoma, non-keratinizing"}
+{"ent_disease": 326, "disease_name": "Juvenile xanthogranuloma"}
+{"ent_disease": 327, "disease_name": "Oral submucous fibrosis"}
+{"ent_disease": 328, "disease_name": "Actinic cheilitis"}
+{"ent_disease": 329, "disease_name": "Basal cell carcinoma of nasal ala"}
+{"ent_disease": 330, "disease_name": "Basal cell carcinoma of auricle"}
+{"ent_disease": 331, "disease_name": "Melanoma of external ear"}
+{"ent_disease": 332, "disease_name": "Cutaneous squamous cell carcinoma of scalp"}
+{"ent_disease": 333, "disease_name": "Merkel cell carcinoma"}
+{"ent_disease": 334, "disease_name": "Angiosarcoma of scalp"}
+{"ent_disease": 335, "disease_name": "Rhabdomyosarcoma"}
+{"ent_disease": 336, "disease_name": "Fibrosarcoma"}
+{"ent_disease": 337, "disease_name": "Desmoid tumor"}
+{"ent_disease": 338, "disease_name": "Metastatic melanoma to cervical nodes"}
+{"ent_disease": 339, "disease_name": "Metastatic papillary thyroid carcinoma to neck nodes"}
+{"ent_disease": 340, "disease_name": "Metastatic papillary thyroid carcinoma to central neck nodes"}
+{"ent_disease": 341, "disease_name": "Laryngeal web"}
+{"ent_disease": 342, "disease_name": "Congenital laryngeal cyst"}
+{"ent_disease": 343, "disease_name": "Pyriform sinus fistula"}
+{"ent_disease": 344, "disease_name": "Pierre Robin sequence"}
+{"ent_disease": 345, "disease_name": "Micrognathia-related airway obstruction"}
+{"ent_disease": 346, "disease_name": "Beckwith-Wiedemann syndrome"}
+{"ent_disease": 347, "disease_name": "Cleft palate"}
+{"ent_disease": 348, "disease_name": "Submucous cleft palate"}
+{"ent_disease": 349, "disease_name": "Bifid uvula"}
+{"ent_disease": 350, "disease_name": "22q11.2 deletion syndrome"}
+{"ent_disease": 351, "disease_name": "Down syndrome with obstructive sleep apnea"}
+{"ent_disease": 352, "disease_name": "Laryngeal cleft"}
+{"ent_disease": 353, "disease_name": "Congenital tracheoesophageal fistula"}
+{"ent_disease": 354, "disease_name": "Esophageal atresia with distal tracheoesophageal fistula"}
+{"ent_disease": 355, "disease_name": "Vocal fold paralysis"}
+{"ent_disease": 356, "disease_name": "Congenital midline cervical cleft"}
+{"ent_disease": 357, "disease_name": "Dermoid cyst of floor of mouth"}
+{"ent_disease": 358, "disease_name": "Cervical teratoma"}
+{"ent_disease": 359, "disease_name": "Laryngeal lupus involvement"}
+{"ent_disease": 360, "disease_name": "Laryngeal rheumatoid involvement"}
+{"ent_disease": 361, "disease_name": "Cricoarytenoid arthritis"}
+{"ent_disease": 362, "disease_name": "Laryngeal sarcoidosis"}
+{"ent_disease": 363, "disease_name": "Laryngeal tuberculosis"}
+{"ent_disease": 364, "disease_name": "Post-intubation posterior glottic stenosis"}
+{"ent_disease": 365, "disease_name": "Bilateral cricoarytenoid fixation"}
+{"ent_disease": 366, "disease_name": "Lingual tonsil hypertrophy"}
+{"ent_disease": 367, "disease_name": "Supraglottic stenosis"}
+{"ent_disease": 368, "disease_name": "Glossopharyngeal neuralgia"}
+{"ent_disease": 369, "disease_name": "Trigeminal neuralgia"}
+{"ent_disease": 370, "disease_name": "Burning mouth syndrome"}
+{"ent_disease": 371, "disease_name": "Eagle syndrome"}
+{"ent_disease": 372, "disease_name": "Cervical osteophyte-related dysphagia"}
+{"ent_disease": 373, "disease_name": "Posterior-canal BPPV"}
+{"ent_disease": 374, "disease_name": "Horizontal-canal BPPV"}
+{"ent_disease": 375, "disease_name": "Vestibular paroxysmia"}
+{"ent_disease": 376, "disease_name": "Mal de débarquement syndrome"}
+{"ent_disease": 377, "disease_name": "Persistent postural-perceptual dizziness"}
+{"ent_disease": 378, "disease_name": "Delayed endolymphatic hydrops"}
+{"ent_disease": 379, "disease_name": "Hyperventilation-induced nystagmus"}
+{"ent_disease": 380, "disease_name": "Otolith dysfunction"}
+{"ent_disease": 381, "disease_name": "Post-concussive vestibular syndrome"}
+{"ent_disease": 382, "disease_name": "Hearing loss secondary to chronic suppurative otitis media"}
+{"ent_disease": 383, "disease_name": "Hearing loss secondary to cholesteatoma"}
+{"ent_disease": 384, "disease_name": "Auditory processing disorder"}
+{"ent_disease": 385, "disease_name": "Williams syndrome with hyperacusis"}
+{"ent_disease": 386, "disease_name": "Tinnitus"}
+{"ent_disease": 387, "disease_name": "Patulous Eustachian tube dysfunction"}
+{"ent_disease": 388, "disease_name": "Obstructive Eustachian tube dysfunction"}
+{"ent_disease": 389, "disease_name": "Eustachian tube stenosis"}
+{"ent_disease": 390, "disease_name": "Petrous apicitis"}
+{"ent_disease": 391, "disease_name": "CSF otorrhea"}
+{"ent_disease": 392, "disease_name": "Temporal bone encephalocele"}
+{"ent_disease": 393, "disease_name": "Labyrinthine fistula"}
+{"ent_disease": 394, "disease_name": "Ossicular chain dislocation"}
+{"ent_disease": 395, "disease_name": "External auditory canal carcinoma"}
+{"ent_disease": 396, "disease_name": "External auditory canal melanoma"}
+{"ent_disease": 397, "disease_name": "Keratosis obturans"}
+{"ent_disease": 398, "disease_name": "External auditory canal cholesteatoma"}
+{"ent_disease": 399, "disease_name": "Fibrous dysplasia of temporal bone"}
+{"ent_disease": 400, "disease_name": "Temporal bone osteoradionecrosis"}
+{"ent_disease": 401, "disease_name": "Osteoradionecrosis of mandible"}
+{"ent_disease": 402, "disease_name": "Bisphosphonate-related osteonecrosis of the jaw"}
+{"ent_disease": 403, "disease_name": "Temporomandibular disorder"}
+{"ent_disease": 404, "disease_name": "Temporomandibular joint ankylosis"}
+{"ent_disease": 405, "disease_name": "TMJ internal derangement"}
+{"ent_disease": 406, "disease_name": "TMJ osteoarthritis"}
+{"ent_disease": 407, "disease_name": "TMJ rheumatoid arthritis"}
+{"ent_disease": 408, "disease_name": "Parotid sialadenosis"}
+{"ent_disease": 409, "disease_name": "Laryngocele"}
+{"ent_disease": 410, "disease_name": "Internal laryngocele"}
+{"ent_disease": 411, "disease_name": "External laryngocele"}
+{"ent_disease": 412, "disease_name": "Combined laryngocele"}
+{"ent_disease": 413, "disease_name": "Granulomatous cheilitis"}
+{"ent_disease": 414, "disease_name": "Melkersson-Rosenthal syndrome"}
+{"ent_disease": 415, "disease_name": "Recurrent facial palsy"}
+{"ent_disease": 416, "disease_name": "Hemifacial spasm"}
+{"ent_disease": 417, "disease_name": "Aspirin-exacerbated respiratory disease (AERD)"}
+{"ent_disease": 418, "disease_name": "Sphenoid sinusitis with cavernous sinus thrombosis"}
+{"ent_disease": 419, "disease_name": "Ethmoid sinusitis with orbital cellulitis"}
+{"ent_disease": 420, "disease_name": "Subperiosteal orbital abscess"}
+{"ent_disease": 421, "disease_name": "Cavernous sinus thrombosis"}
+{"ent_disease": 422, "disease_name": "Pott puffy tumor"}
+{"ent_disease": 423, "disease_name": "Odontogenic cyst"}
+{"ent_disease": 424, "disease_name": "Sinonasal hemangioma"}
+{"ent_disease": 425, "disease_name": "Nasal septal hemangioma"}
+{"ent_disease": 426, "disease_name": "Nasal valve collapse"}
+{"ent_disease": 427, "disease_name": "Post-rhinoplasty nasal valve collapse"}
+{"ent_disease": 428, "disease_name": "Post-surgical nasal synechiae"}
+{"ent_disease": 429, "disease_name": "Concha hypertrophy"}
+{"ent_disease": 430, "disease_name": "Choanal stenosis"}
+{"ent_disease": 431, "disease_name": "Nasolacrimal duct obstruction"}
+{"ent_disease": 432, "disease_name": "Nasal myiasis"}
+{"ent_disease": 433, "disease_name": "Hypertrophic rhinitis"}
+{"ent_disease": 434, "disease_name": "Pregnancy rhinitis"}
+{"ent_disease": 435, "disease_name": "Hormonal rhinitis"}
+{"ent_disease": 436, "disease_name": "Upper-airway angioedema"}
+{"ent_disease": 437, "disease_name": "Hereditary angioedema"}
+{"ent_disease": 438, "disease_name": "Anaphylaxis"}
+{"ent_disease": 439, "disease_name": "ACE-inhibitor angioedema"}
+{"ent_disease": 440, "disease_name": "Retropharyngeal hematoma"}
+{"ent_disease": 441, "disease_name": "Post-tonsillectomy hemorrhage"}
+{"ent_disease": 442, "disease_name": "Post-adenoidectomy velopharyngeal insufficiency"}
+{"ent_disease": 443, "disease_name": "Glossopharyngeal nerve injury"}
+{"ent_disease": 444, "disease_name": "Hypoglossal nerve injury"}
+{"ent_disease": 445, "disease_name": "Spinal accessory nerve injury"}
+{"ent_disease": 446, "disease_name": "Chyle leak (post-neck dissection)"}
+{"ent_disease": 447, "disease_name": "Xerostomia"}
+{"ent_disease": 448, "disease_name": "Radiation-induced fibrosis"}
+{"ent_disease": 449, "disease_name": "Post-dissection neck lymphedema"}
+{"ent_disease": 450, "disease_name": "Laryngeal osteoradionecrosis"}
+{"ent_disease": 451, "disease_name": "Radiation-induced laryngeal edema"}
+{"ent_disease": 452, "disease_name": "Oral mucositis"}
+{"ent_disease": 453, "disease_name": "Perineural invasion of adenoid cystic carcinoma"}
+{"ent_disease": 454, "disease_name": "Perineural invasion of cutaneous SCC"}
+{"ent_disease": 455, "disease_name": "HIV-associated salivary gland disease"}
+{"ent_disease": 456, "disease_name": "Kaposi sarcoma of palate in HIV"}
+{"ent_disease": 457, "disease_name": "Oropharyngeal candidiasis"}
+{"ent_disease": 458, "disease_name": "Parotid lymphoma"}
+{"ent_disease": 459, "disease_name": "Cervical lymphadenitis due to atypical mycobacteria"}
+{"ent_disease": 460, "disease_name": "Cervical lymphadenopathy due to sarcoidosis"}
+{"ent_disease": 461, "disease_name": "Reactive cervical lymphadenitis"}
+{"ent_disease": 462, "disease_name": "Tuberculous cervical lymphadenitis"}
+{"ent_disease": 463, "disease_name": "Cat-scratch disease"}
+{"ent_disease": 464, "disease_name": "Toxoplasma lymphadenitis"}
+{"ent_disease": 465, "disease_name": "Actinomycosis of the jaw"}
+{"ent_disease": 466, "disease_name": "Osteomyelitis of the mandible"}
+{"ent_disease": 467, "disease_name": "Osteomyelitis of the maxilla"}
+{"ent_disease": 468, "disease_name": "Chronic invasive fungal sinusitis"}
+{"ent_disease": 469, "disease_name": "Sinonasal mucormycosis"}
+{"ent_disease": 470, "disease_name": "Rhinocerebral mucormycosis"}
+{"ent_disease": 471, "disease_name": "Lateral sinus thrombosis"}
+{"ent_disease": 472, "disease_name": "Sigmoid sinus thrombosis"}
+{"ent_disease": 473, "disease_name": "Cerebral abscess"}
+{"ent_disease": 474, "disease_name": "Temporal lobe abscess"}
+{"ent_disease": 475, "disease_name": "Cerebellar abscess"}
+{"ent_disease": 476, "disease_name": "Gradenigo syndrome"}
+{"ent_disease": 477, "disease_name": "Carotid artery pseudoaneurysm"}
+{"ent_disease": 478, "disease_name": "Tracheoesophageal puncture site infection"}
+{"ent_disease": 479, "disease_name": "Post-tracheostomy tracheal stenosis"}
+{"ent_disease": 480, "disease_name": "Post-tracheostomy tracheoesophageal fistula"}
+{"ent_disease": 481, "disease_name": "Laryngeal chondronecrosis"}
+{"ent_disease": 482, "disease_name": "Arytenoid dislocation"}
+{"ent_disease": 483, "disease_name": "Aspiration pneumonia"}
+{"ent_disease": 484, "disease_name": "Chronic aspiration"}
+{"ent_disease": 485, "disease_name": "Laryngospasm"}
+{"ent_disease": 486, "disease_name": "Paradoxical vocal fold motion disorder"}
+{"ent_disease": 487, "disease_name": "Globus pharyngeus"}
+{"ent_disease": 488, "disease_name": "Supraglottic carcinoma"}
+{"ent_disease": 489, "disease_name": "Glottic carcinoma"}
+{"ent_disease": 490, "disease_name": "Hypopharyngeal carcinoma"}
+{"ent_disease": 491, "disease_name": "Recurrent laryngeal nerve palsy"}
+{"ent_disease": 492, "disease_name": "Superior laryngeal nerve injury"}
+{"ent_disease": 493, "disease_name": "Laryngopharyngeal sensory neuropathy"}
+{"ent_disease": 494, "disease_name": "Glossopharyngeal neuropathic pain"}
+{"ent_disease": 495, "disease_name": "Jugular foramen syndrome"}
+{"ent_disease": 496, "disease_name": "Jugular foramen schwannoma"}
+{"ent_disease": 497, "disease_name": "Jugular foramen meningioma"}
+{"ent_disease": 498, "disease_name": "Collet-Sicard syndrome"}
+{"ent_disease": 499, "disease_name": "Vernet syndrome (jugular foramen syndrome)"}
+{"ent_disease": 500, "disease_name": "Acute necrotizing ulcerative gingivitis"}
+{"ent_disease": 501, "disease_name": "Dental abscess with sinus involvement"}
+{"ent_disease": 502, "disease_name": "Pericoronitis"}
+{"ent_disease": 503, "disease_name": "Osteochondroma of mandibular condyle"}
+{"ent_disease": 504, "disease_name": "Ameloblastoma"}
+{"ent_disease": 505, "disease_name": "Odontogenic keratocyst (OKC)"}
+{"ent_disease": 506, "disease_name": "Odontogenic myxoma"}
+{"ent_disease": 507, "disease_name": "Central giant cell granuloma"}
+{"ent_disease": 508, "disease_name": "Fibrous dysplasia of maxilla"}
+{"ent_disease": 509, "disease_name": "Cherubism"}
+{"ent_disease": 510, "disease_name": "Cleidocranial dysplasia"}
+{"ent_disease": 511, "disease_name": "Parry-Romberg syndrome"}
+{"ent_disease": 512, "disease_name": "Hemifacial microsomia"}
+{"ent_disease": 513, "disease_name": "Crouzon syndrome"}
+{"ent_disease": 514, "disease_name": "Apert syndrome"}
+{"ent_disease": 515, "disease_name": "Pfeiffer syndrome"}
+{"ent_disease": 516, "disease_name": "Saethre-Chotzen syndrome"}
+{"ent_disease": 517, "disease_name": "Microtia with aural atresia"}
+{"ent_disease": 518, "disease_name": "Congenital preauricular sinus"}
+{"ent_disease": 519, "disease_name": "Preauricular skin tag"}
+{"ent_disease": 520, "disease_name": "Congenital midline nasal dermoid sinus"}
+{"ent_disease": 521, "disease_name": "Frontonasal dysplasia"}
+{"ent_disease": 522, "disease_name": "Cleft lip and palate"}
+{"ent_disease": 523, "disease_name": "Klippel-Feil syndrome"}
+{"ent_disease": 524, "disease_name": "Down syndrome"}
+{"ent_disease": 525, "disease_name": "Branchio-oculo-facial syndrome"}
+{"ent_disease": 526, "disease_name": "Oculo-auriculo-vertebral spectrum"}
+{"ent_disease": 527, "disease_name": "Sialadenitis in IgG4-related disease"}
+{"ent_disease": 528, "disease_name": "Laryngeal GPA"}
+{"ent_disease": 529, "disease_name": "Subglottic stenosis in GPA"}
+{"ent_disease": 530, "disease_name": "Auricular chondritis in RPD"}
+{"ent_disease": 531, "disease_name": "Rosai-Dorfman disease"}
+{"ent_disease": 532, "disease_name": "Langerhans cell histiocytosis"}
+{"ent_disease": 533, "disease_name": "Skull base osteomyelitis"}
+{"ent_disease": 534, "disease_name": "Petrous apex cholesterol granuloma"}
+{"ent_disease": 535, "disease_name": "Jugular bulb dehiscence"}
+{"ent_disease": 536, "disease_name": "High-riding jugular bulb"}
+{"ent_disease": 537, "disease_name": "Aberrant internal carotid artery"}
+{"ent_disease": 538, "disease_name": "Persistent stapedial artery"}
+{"ent_disease": 539, "disease_name": "Congenital absence of semicircular canals"}
+{"ent_disease": 540, "disease_name": "Cochlear aplasia"}
+{"ent_disease": 541, "disease_name": "Common cavity malformation"}
+{"ent_disease": 542, "disease_name": "Mondini dysplasia"}

@@ -1,0 +1,586 @@
+2026-02-08 13:15:39,137 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_1_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/cleaned_output.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000}
+2026-02-08 13:15:39,137 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_1_cleaned_cleaned.txt
+2026-02-08 13:15:39,922 - INFO - Successfully loaded 7,476,340 samples
+2026-02-08 13:15:41,295 - INFO - Operators imported successfully
+2026-02-08 13:15:53,925 - INFO - CleanEmailMapper completed in 11.1s
+2026-02-08 13:16:07,484 - INFO - CleanLinksMapper completed in 13.6s
+2026-02-08 13:16:13,139 - INFO - CleanCopyrightMapper completed in 5.7s
+2026-02-08 13:16:13,164 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7090d44301f0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-08 13:17:36,221 - INFO - FixUnicodeMapper completed in 1.4m
+2026-02-08 13:17:53,157 - INFO - PunctuationNormalizationMapper completed in 16.9s
+2026-02-08 13:18:11,522 - INFO - RemoveCommentsMapper completed in 18.4s
+2026-02-08 13:18:25,843 - INFO - WhitespaceNormalizationMapper completed in 14.3s
+2026-02-08 13:26:40,758 - ERROR - Pipeline failed: Downloading model [ja.arpa.bin] error. Please retry later or download it into /root/.cache/data_juicer/models manually from https://dail-wlcb.oss-cn-wulanchabu.aliyuncs.com/data_juicer/models/ja.arpa.bin or https://huggingface.co/edugp/kenlm/resolve/main/wikipedia/ja.arpa.bin 
+Traceback (most recent call last):
+  File "kenlm.pyx", line 139, in kenlm.Model.__init__
+RuntimeError: util/file.cc:76 in int util::OpenReadOrThrow(const char*) threw ErrnoException because `-1 == (ret = open(name, 00))'.
+No such file or directory while opening /root/.cache/data_juicer/models/ja.arpa.bin
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/utils/model_utils.py", line 589, in prepare_kenlm_model
+    kenlm_model = kenlm.Model(check_model(model_name), **model_params)
+  File "kenlm.pyx", line 142, in kenlm.Model.__init__
+OSError: Cannot read model '/root/.cache/data_juicer/models/ja.arpa.bin' (util/file.cc:76 in int util::OpenReadOrThrow(const char*) threw ErrnoException because `-1 == (ret = open(name, 00))'. No such file or directory while opening /root/.cache/data_juicer/models/ja.arpa.bin)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/utils/model_utils.py", line 132, in check_model
+    wget.download(model_link, cached_model_path)
+  File "/usr/local/lib/python3.10/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.10/urllib/request.py", line 280, in urlretrieve
+    raise ContentTooShortError(
+urllib.error.ContentTooShortError: <urlopen error retrieval incomplete: got only 884288 out of 2988523030 bytes>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/utils/model_utils.py", line 138, in check_model
+    wget.download(backup_model_link, cached_model_path)
+  File "/usr/local/lib/python3.10/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.10/urllib/request.py", line 241, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.10/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.10/urllib/request.py", line 525, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.10/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+  File "/usr/lib/python3.10/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.10/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspace/Nepmedjp/data-juicerr/japanesecleaning.py", line 539, in <module>
+    main()
+  File "/workspace/Nepmedjp/data-juicerr/japanesecleaning.py", line 255, in main
+    ("PerplexityFilter", perplexity_filter.PerplexityFilter(
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/ops/base_op.py", line 285, in __call__
+    instance = super().__call__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/ops/filter/perplexity_filter.py", line 43, in __init__
+    self.kl_model_key = prepare_model(model_type="kenlm", lang=lang)
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/utils/model_utils.py", line 1556, in prepare_model
+    model_key()
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/utils/model_utils.py", line 591, in prepare_kenlm_model
+    kenlm_model = kenlm.Model(check_model(model_name, force=True), **model_params)
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/utils/model_utils.py", line 143, in check_model
+    raise RuntimeError(
+RuntimeError: Downloading model [ja.arpa.bin] error. Please retry later or download it into /root/.cache/data_juicer/models manually from https://dail-wlcb.oss-cn-wulanchabu.aliyuncs.com/data_juicer/models/ja.arpa.bin or https://huggingface.co/edugp/kenlm/resolve/main/wikipedia/ja.arpa.bin 
+2026-02-08 13:32:09,358 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_1_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/cleaned_output.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000}
+2026-02-08 13:32:09,359 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_1_cleaned_cleaned.txt
+2026-02-08 13:32:10,060 - INFO - Successfully loaded 7,476,340 samples
+2026-02-08 13:32:11,487 - INFO - Operators imported successfully
+2026-02-08 13:32:24,072 - INFO - CleanEmailMapper completed in 11.0s
+2026-02-08 13:32:37,788 - INFO - CleanLinksMapper completed in 13.7s
+2026-02-08 13:32:43,341 - INFO - CleanCopyrightMapper completed in 5.6s
+2026-02-08 13:32:43,370 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x76b58e61c0d0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-08 13:34:06,499 - INFO - FixUnicodeMapper completed in 1.4m
+2026-02-08 13:34:23,373 - INFO - PunctuationNormalizationMapper completed in 16.9s
+2026-02-08 13:34:42,087 - INFO - RemoveCommentsMapper completed in 18.7s
+2026-02-08 13:34:56,546 - INFO - WhitespaceNormalizationMapper completed in 14.5s
+2026-02-08 13:35:49,140 - INFO - AlphanumericFilter: 5,546,006 samples (filtered 1,930,334 = 25.82%)
+2026-02-08 13:36:11,076 - INFO - AverageLineLengthFilter: 5,543,390 samples (filtered 2,616 = 0.05%)
+2026-02-08 13:36:59,064 - INFO - CharacterRepetitionFilter: 5,542,625 samples (filtered 765 = 0.01%)
+2026-02-08 13:38:38,063 - INFO - LanguageIDScoreFilter: 5,540,526 samples (filtered 2,099 = 0.04%)
+2026-02-08 13:39:13,011 - INFO - MaximumLineLengthFilter: 5,540,526 samples (filtered 0 = 0.00%)
+2026-02-08 13:39:55,478 - INFO - SpecialCharactersFilter: 5,535,801 samples (filtered 4,725 = 0.09%)
+2026-02-08 13:40:35,826 - INFO - TextLengthFilter: 5,535,801 samples (filtered 0 = 0.00%)
+2026-02-08 13:42:17,522 - INFO - WordsNumFilter: 5,535,801 samples (filtered 0 = 0.00%)
+2026-02-08 13:44:24,702 - INFO - WordRepetitionFilter: 5,535,801 samples (filtered 0 = 0.00%)
+2026-02-08 13:45:51,756 - ERROR - Deduplication failed: 'NestedQueryDict' object has no attribute 'filter'
+multiprocess.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/multiprocess/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/local/lib/python3.10/dist-packages/datasets/utils/py_utils.py", line 675, in _write_generator_to_queue
+    for i, result in enumerate(func(**kwargs)):
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 3547, in _map_single
+    batch = apply_function_on_filtered_inputs(
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 3416, in apply_function_on_filtered_inputs
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 6477, in get_indices_from_mask_function
+    mask.append(function(example, *additional_args, **fn_kwargs))
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/core/data/dj_dataset.py", line 114, in wrapped_f
+    return f(*args, **kargs)
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/ops/deduplicator/document_deduplicator.py", line 104, in process
+    dataset = dataset.filter(
+AttributeError: 'NestedQueryDict' object has no attribute 'filter'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/workspace/Nepmedjp/data-juicerr/japanesecleaning.py", line 374, in main
+    dataset = dataset.filter(
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 567, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/fingerprint.py", line 482, in wrapper
+    out = func(dataset, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 3709, in filter
+    indices = self.map(
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 602, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 567, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 3248, in map
+    for rank, done, content in iflatmap_unordered(
+  File "/usr/local/lib/python3.10/dist-packages/datasets/utils/py_utils.py", line 715, in iflatmap_unordered
+    [async_result.get(timeout=0.05) for async_result in async_results]
+  File "/usr/local/lib/python3.10/dist-packages/datasets/utils/py_utils.py", line 715, in <listcomp>
+    [async_result.get(timeout=0.05) for async_result in async_results]
+  File "/usr/local/lib/python3.10/dist-packages/multiprocess/pool.py", line 774, in get
+    raise self._value
+AttributeError: 'NestedQueryDict' object has no attribute 'filter'
+2026-02-08 13:47:36,551 - INFO - Pipeline completed in 15.5m
+2026-02-08 13:47:36,552 - INFO - Final: 5,535,801 samples (1032.22 MB, 74.04% retention)
+2026-02-09 14:03:01,053 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_2_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file2.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000}
+2026-02-09 14:03:01,053 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_2_cleaned_cleaned.txt
+2026-02-09 14:03:12,658 - INFO - Successfully loaded 7,485,349 samples
+2026-02-09 14:03:14,020 - INFO - Operators imported successfully
+2026-02-09 14:03:26,636 - INFO - CleanEmailMapper completed in 11.1s
+2026-02-09 14:03:40,598 - INFO - CleanLinksMapper completed in 14.0s
+2026-02-09 14:03:46,511 - INFO - CleanCopyrightMapper completed in 5.9s
+2026-02-09 14:03:46,541 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x707612f14310> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-09 14:05:09,631 - INFO - FixUnicodeMapper completed in 1.4m
+2026-02-09 14:05:26,548 - INFO - PunctuationNormalizationMapper completed in 16.9s
+2026-02-09 14:05:45,120 - INFO - RemoveCommentsMapper completed in 18.6s
+2026-02-09 14:05:59,942 - INFO - WhitespaceNormalizationMapper completed in 14.8s
+2026-02-09 14:06:52,569 - INFO - AlphanumericFilter: 5,547,436 samples (filtered 1,937,913 = 25.89%)
+2026-02-09 14:07:14,024 - INFO - AverageLineLengthFilter: 5,544,706 samples (filtered 2,730 = 0.05%)
+2026-02-09 14:08:01,712 - INFO - CharacterRepetitionFilter: 5,543,922 samples (filtered 784 = 0.01%)
+2026-02-09 14:09:40,757 - INFO - LanguageIDScoreFilter: 5,541,887 samples (filtered 2,035 = 0.04%)
+2026-02-09 14:10:15,330 - INFO - MaximumLineLengthFilter: 5,541,887 samples (filtered 0 = 0.00%)
+2026-02-09 14:10:57,779 - INFO - SpecialCharactersFilter: 5,537,749 samples (filtered 4,138 = 0.07%)
+2026-02-09 14:11:38,010 - INFO - TextLengthFilter: 5,537,749 samples (filtered 0 = 0.00%)
+2026-02-09 14:13:18,818 - INFO - WordsNumFilter: 5,537,749 samples (filtered 0 = 0.00%)
+2026-02-09 14:15:25,624 - INFO - WordRepetitionFilter: 5,537,748 samples (filtered 1 = 0.00%)
+2026-02-09 14:16:56,656 - ERROR - Deduplication failed: 'NestedQueryDict' object has no attribute 'filter'
+multiprocess.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/multiprocess/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/local/lib/python3.10/dist-packages/datasets/utils/py_utils.py", line 675, in _write_generator_to_queue
+    for i, result in enumerate(func(**kwargs)):
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 3547, in _map_single
+    batch = apply_function_on_filtered_inputs(
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 3416, in apply_function_on_filtered_inputs
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 6477, in get_indices_from_mask_function
+    mask.append(function(example, *additional_args, **fn_kwargs))
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/core/data/dj_dataset.py", line 114, in wrapped_f
+    return f(*args, **kargs)
+  File "/usr/local/lib/python3.10/dist-packages/data_juicer/ops/deduplicator/document_deduplicator.py", line 104, in process
+    dataset = dataset.filter(
+AttributeError: 'NestedQueryDict' object has no attribute 'filter'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/workspace/Nepmedjp/data-juicerr/japanesecleaning.py", line 374, in main
+    dataset = dataset.filter(
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 567, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/fingerprint.py", line 482, in wrapper
+    out = func(dataset, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 3709, in filter
+    indices = self.map(
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 602, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 567, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/datasets/arrow_dataset.py", line 3248, in map
+    for rank, done, content in iflatmap_unordered(
+  File "/usr/local/lib/python3.10/dist-packages/datasets/utils/py_utils.py", line 715, in iflatmap_unordered
+    [async_result.get(timeout=0.05) for async_result in async_results]
+  File "/usr/local/lib/python3.10/dist-packages/datasets/utils/py_utils.py", line 715, in <listcomp>
+    [async_result.get(timeout=0.05) for async_result in async_results]
+  File "/usr/local/lib/python3.10/dist-packages/multiprocess/pool.py", line 774, in get
+    raise self._value
+AttributeError: 'NestedQueryDict' object has no attribute 'filter'
+2026-02-09 14:18:42,270 - INFO - Pipeline completed in 15.7m
+2026-02-09 14:18:42,270 - INFO - Final: 5,537,748 samples (1033.64 MB, 73.98% retention)
+2026-02-09 14:50:12,915 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_2_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file2.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000}
+2026-02-09 14:50:12,915 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_2_cleaned_cleaned.txt
+2026-02-09 14:50:13,823 - INFO - Successfully loaded 7,485,349 samples
+2026-02-09 14:50:15,205 - INFO - Operators imported successfully
+2026-02-09 14:50:27,906 - INFO - CleanEmailMapper completed in 11.2s
+2026-02-09 14:50:41,585 - INFO - CleanLinksMapper completed in 13.7s
+2026-02-09 14:50:47,203 - INFO - CleanCopyrightMapper completed in 5.6s
+2026-02-09 14:50:47,234 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7892c99dc040> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-09 14:52:11,359 - INFO - FixUnicodeMapper completed in 1.4m
+2026-02-09 14:52:28,226 - INFO - PunctuationNormalizationMapper completed in 16.9s
+2026-02-09 14:52:47,091 - INFO - RemoveCommentsMapper completed in 18.9s
+2026-02-09 14:53:01,866 - INFO - WhitespaceNormalizationMapper completed in 14.8s
+2026-02-09 14:53:55,063 - INFO - AlphanumericFilter: 5,547,436 samples (filtered 1,937,913 = 25.89%)
+2026-02-09 14:54:16,797 - INFO - AverageLineLengthFilter: 5,544,706 samples (filtered 2,730 = 0.05%)
+2026-02-09 14:55:04,603 - INFO - CharacterRepetitionFilter: 5,543,922 samples (filtered 784 = 0.01%)
+2026-02-09 14:56:44,196 - INFO - LanguageIDScoreFilter: 5,541,887 samples (filtered 2,035 = 0.04%)
+2026-02-09 14:57:18,847 - INFO - MaximumLineLengthFilter: 5,541,887 samples (filtered 0 = 0.00%)
+2026-02-09 14:58:01,678 - INFO - SpecialCharactersFilter: 5,537,749 samples (filtered 4,138 = 0.07%)
+2026-02-09 14:58:41,795 - INFO - TextLengthFilter: 5,537,749 samples (filtered 0 = 0.00%)
+2026-02-09 15:00:22,833 - INFO - WordsNumFilter: 5,537,749 samples (filtered 0 = 0.00%)
+2026-02-09 15:02:29,279 - INFO - WordRepetitionFilter: 5,537,748 samples (filtered 1 = 0.00%)
+2026-02-09 15:03:59,743 - ERROR - Deduplication failed: Deduplicator.run() got an unexpected keyword argument 'show_num'
+Traceback (most recent call last):
+  File "/workspace/Nepmedjp/data-juicerr/japanesecleaning.py", line 377, in main
+    dataset, _ = dedup_op.run(dataset, show_num=5)
+TypeError: Deduplicator.run() got an unexpected keyword argument 'show_num'
+2026-02-12 07:42:31,842 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_2_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file2.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-12 07:42:31,842 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_2_cleaned_cleaned.txt
+2026-02-12 07:42:32,575 - INFO - Successfully loaded 7,485,349 samples
+2026-02-12 07:42:33,967 - INFO - Operators imported successfully
+2026-02-12 07:42:46,461 - INFO - CleanEmailMapper completed in 10.9s
+2026-02-12 07:42:59,959 - INFO - CleanLinksMapper completed in 13.5s
+2026-02-12 07:43:05,483 - INFO - CleanCopyrightMapper completed in 5.5s
+2026-02-12 07:43:05,514 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7b742b08a560> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-12 07:44:29,012 - INFO - FixUnicodeMapper completed in 1.4m
+2026-02-12 07:44:45,960 - INFO - PunctuationNormalizationMapper completed in 16.9s
+2026-02-12 07:45:04,653 - INFO - RemoveCommentsMapper completed in 18.7s
+2026-02-12 07:45:19,125 - INFO - WhitespaceNormalizationMapper completed in 14.5s
+2026-02-12 07:46:10,968 - INFO - AlphanumericFilter: 5,547,436 samples (filtered 1,937,913 = 25.89%)
+2026-02-12 07:46:32,721 - INFO - AverageLineLengthFilter: 5,544,706 samples (filtered 2,730 = 0.05%)
+2026-02-12 07:47:20,087 - INFO - CharacterRepetitionFilter: 5,543,922 samples (filtered 784 = 0.01%)
+2026-02-12 07:48:59,607 - INFO - LanguageIDScoreFilter: 5,541,887 samples (filtered 2,035 = 0.04%)
+2026-02-12 07:49:34,161 - INFO - MaximumLineLengthFilter: 5,541,887 samples (filtered 0 = 0.00%)
+2026-02-12 07:50:16,358 - INFO - SpecialCharactersFilter: 5,537,749 samples (filtered 4,138 = 0.07%)
+2026-02-12 07:50:56,552 - INFO - TextLengthFilter: 5,537,749 samples (filtered 0 = 0.00%)
+2026-02-12 07:52:37,457 - INFO - WordsNumFilter: 5,537,749 samples (filtered 0 = 0.00%)
+2026-02-12 07:54:44,512 - INFO - WordRepetitionFilter: 5,537,748 samples (filtered 1 = 0.00%)
+2026-02-12 14:48:24,122 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_2_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file2.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-12 14:48:24,122 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_2_cleaned_cleaned.txt
+2026-02-12 14:48:24,884 - INFO - Successfully loaded 7,485,349 samples
+2026-02-12 14:48:26,273 - INFO - Operators imported successfully
+2026-02-12 14:48:38,688 - INFO - CleanEmailMapper completed in 10.9s
+2026-02-12 14:48:52,164 - INFO - CleanLinksMapper completed in 13.5s
+2026-02-12 14:48:57,648 - INFO - CleanCopyrightMapper completed in 5.5s
+2026-02-12 14:48:57,679 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x78db1d496560> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-12 14:50:21,455 - INFO - FixUnicodeMapper completed in 1.4m
+2026-02-12 14:50:38,515 - INFO - PunctuationNormalizationMapper completed in 17.1s
+2026-02-12 14:50:56,873 - INFO - RemoveCommentsMapper completed in 18.4s
+2026-02-12 14:51:11,109 - INFO - WhitespaceNormalizationMapper completed in 14.2s
+2026-02-12 14:52:03,275 - INFO - AlphanumericFilter: 5,547,436 samples (filtered 1,937,913 = 25.89%)
+2026-02-12 14:52:24,893 - INFO - AverageLineLengthFilter: 5,544,706 samples (filtered 2,730 = 0.05%)
+2026-02-12 14:53:12,916 - INFO - CharacterRepetitionFilter: 5,543,922 samples (filtered 784 = 0.01%)
+2026-02-12 14:54:53,185 - INFO - LanguageIDScoreFilter: 5,541,887 samples (filtered 2,035 = 0.04%)
+2026-02-12 14:55:27,793 - INFO - MaximumLineLengthFilter: 5,541,887 samples (filtered 0 = 0.00%)
+2026-02-12 14:56:09,722 - INFO - SpecialCharactersFilter: 5,537,749 samples (filtered 4,138 = 0.07%)
+2026-02-12 14:56:49,757 - INFO - TextLengthFilter: 5,537,749 samples (filtered 0 = 0.00%)
+2026-02-12 14:58:30,543 - INFO - WordsNumFilter: 5,537,749 samples (filtered 0 = 0.00%)
+2026-02-12 15:00:37,459 - INFO - WordRepetitionFilter: 5,537,748 samples (filtered 1 = 0.00%)
+2026-02-12 17:01:09,303 - INFO - MinHash signatures computed for 5,537,748 documents
+2026-02-12 17:02:32,616 - INFO - MinHash LSH Dedup: 5,511,687 samples (removed 26,061 = 0.47%)
+2026-02-12 17:04:49,965 - INFO - Pipeline completed in 2.3h
+2026-02-12 17:04:49,966 - INFO - Final: 5,511,687 samples (1028.31 MB, 73.63% retention)
+2026-02-13 12:04:56,203 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_3_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file3.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-13 12:04:56,203 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_3_cleaned_cleaned.txt
+2026-02-13 12:05:08,601 - INFO - Successfully loaded 7,388,098 samples
+2026-02-13 12:05:10,014 - INFO - Operators imported successfully
+2026-02-13 12:05:22,504 - INFO - CleanEmailMapper completed in 10.9s
+2026-02-13 12:05:35,988 - INFO - CleanLinksMapper completed in 13.5s
+2026-02-13 12:05:41,872 - INFO - CleanCopyrightMapper completed in 5.9s
+2026-02-13 12:05:41,898 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7a490ed567a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-13 12:07:03,791 - INFO - FixUnicodeMapper completed in 1.4m
+2026-02-13 12:07:20,347 - INFO - PunctuationNormalizationMapper completed in 16.6s
+2026-02-13 12:07:38,830 - INFO - RemoveCommentsMapper completed in 18.5s
+2026-02-13 12:07:52,966 - INFO - WhitespaceNormalizationMapper completed in 14.1s
+2026-02-13 12:08:45,119 - INFO - AlphanumericFilter: 5,462,029 samples (filtered 1,926,069 = 26.07%)
+2026-02-13 12:09:06,928 - INFO - AverageLineLengthFilter: 5,459,396 samples (filtered 2,633 = 0.05%)
+2026-02-13 12:09:54,607 - INFO - CharacterRepetitionFilter: 5,458,661 samples (filtered 735 = 0.01%)
+2026-02-13 12:11:33,278 - INFO - LanguageIDScoreFilter: 5,456,613 samples (filtered 2,048 = 0.04%)
+2026-02-13 12:12:08,347 - INFO - MaximumLineLengthFilter: 5,456,613 samples (filtered 0 = 0.00%)
+2026-02-13 12:12:51,102 - INFO - SpecialCharactersFilter: 5,452,476 samples (filtered 4,137 = 0.08%)
+2026-02-13 12:13:31,815 - INFO - TextLengthFilter: 5,452,476 samples (filtered 0 = 0.00%)
+2026-02-13 12:15:12,867 - INFO - WordsNumFilter: 5,452,476 samples (filtered 0 = 0.00%)
+2026-02-13 12:17:18,799 - INFO - WordRepetitionFilter: 5,452,476 samples (filtered 0 = 0.00%)
+2026-02-13 14:18:57,932 - INFO - MinHash signatures computed for 5,452,476 documents
+2026-02-13 14:20:21,399 - INFO - MinHash LSH Dedup: 5,427,769 samples (removed 24,707 = 0.45%)
+2026-02-13 14:23:24,629 - INFO - Pipeline completed in 2.3h
+2026-02-13 14:23:24,630 - INFO - Final: 5,427,769 samples (1008.67 MB, 73.47% retention)
+2026-02-13 14:24:36,421 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_4_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file4.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-13 14:24:36,421 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_4_cleaned_cleaned.txt
+2026-02-13 14:24:51,382 - INFO - Successfully loaded 7,093,247 samples
+2026-02-13 14:24:53,249 - INFO - Operators imported successfully
+2026-02-13 14:25:05,578 - INFO - CleanEmailMapper completed in 10.5s
+2026-02-13 14:25:18,592 - INFO - CleanLinksMapper completed in 13.0s
+2026-02-13 14:25:23,898 - INFO - CleanCopyrightMapper completed in 5.3s
+2026-02-13 14:25:23,926 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7464e37ee7a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-13 14:26:43,748 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-13 14:26:59,865 - INFO - PunctuationNormalizationMapper completed in 16.1s
+2026-02-13 14:27:17,639 - INFO - RemoveCommentsMapper completed in 17.8s
+2026-02-13 14:27:31,144 - INFO - WhitespaceNormalizationMapper completed in 13.5s
+2026-02-13 14:28:21,074 - INFO - AlphanumericFilter: 5,248,846 samples (filtered 1,844,401 = 26.00%)
+2026-02-13 14:28:41,859 - INFO - AverageLineLengthFilter: 5,246,375 samples (filtered 2,471 = 0.05%)
+2026-02-13 14:29:27,649 - INFO - CharacterRepetitionFilter: 5,245,667 samples (filtered 708 = 0.01%)
+2026-02-13 14:31:03,633 - INFO - LanguageIDScoreFilter: 5,243,535 samples (filtered 2,132 = 0.04%)
+2026-02-13 14:31:36,685 - INFO - MaximumLineLengthFilter: 5,243,535 samples (filtered 0 = 0.00%)
+2026-02-13 14:32:17,587 - INFO - SpecialCharactersFilter: 5,239,138 samples (filtered 4,397 = 0.08%)
+2026-02-13 14:32:55,956 - INFO - TextLengthFilter: 5,239,138 samples (filtered 0 = 0.00%)
+2026-02-13 14:34:32,483 - INFO - WordsNumFilter: 5,239,138 samples (filtered 0 = 0.00%)
+2026-02-13 14:36:31,995 - INFO - WordRepetitionFilter: 5,239,137 samples (filtered 1 = 0.00%)
+2026-02-13 16:30:16,058 - INFO - MinHash signatures computed for 5,239,137 documents
+2026-02-13 16:31:34,479 - INFO - MinHash LSH Dedup: 5,212,357 samples (removed 26,780 = 0.51%)
+2026-02-13 16:34:26,171 - INFO - Pipeline completed in 2.2h
+2026-02-13 16:34:26,172 - INFO - Final: 5,212,357 samples (968.54 MB, 73.48% retention)
+2026-02-13 16:37:28,681 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_5_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file5.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-13 16:37:28,681 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_5_cleaned_cleaned.txt
+2026-02-13 16:37:43,147 - INFO - Successfully loaded 6,927,676 samples
+2026-02-13 16:37:44,986 - INFO - Operators imported successfully
+2026-02-13 16:37:57,091 - INFO - CleanEmailMapper completed in 10.1s
+2026-02-13 16:38:09,808 - INFO - CleanLinksMapper completed in 12.7s
+2026-02-13 16:38:14,929 - INFO - CleanCopyrightMapper completed in 5.1s
+2026-02-13 16:38:14,961 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7db3fcc3a7a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-13 16:39:32,480 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-13 16:39:48,127 - INFO - PunctuationNormalizationMapper completed in 15.6s
+2026-02-13 16:40:05,631 - INFO - RemoveCommentsMapper completed in 17.5s
+2026-02-13 16:40:19,111 - INFO - WhitespaceNormalizationMapper completed in 13.5s
+2026-02-13 16:41:07,305 - INFO - AlphanumericFilter: 5,128,278 samples (filtered 1,799,398 = 25.97%)
+2026-02-13 16:41:27,577 - INFO - AverageLineLengthFilter: 5,125,970 samples (filtered 2,308 = 0.05%)
+2026-02-13 16:42:12,318 - INFO - CharacterRepetitionFilter: 5,125,195 samples (filtered 775 = 0.02%)
+2026-02-13 16:43:44,096 - INFO - LanguageIDScoreFilter: 5,123,001 samples (filtered 2,194 = 0.04%)
+2026-02-13 16:44:15,982 - INFO - MaximumLineLengthFilter: 5,123,001 samples (filtered 0 = 0.00%)
+2026-02-13 16:44:55,328 - INFO - SpecialCharactersFilter: 5,118,459 samples (filtered 4,542 = 0.09%)
+2026-02-13 16:45:32,664 - INFO - TextLengthFilter: 5,118,459 samples (filtered 0 = 0.00%)
+2026-02-13 16:47:06,537 - INFO - WordsNumFilter: 5,118,459 samples (filtered 0 = 0.00%)
+2026-02-13 16:49:04,247 - INFO - WordRepetitionFilter: 5,118,457 samples (filtered 2 = 0.00%)
+2026-02-13 18:40:34,982 - INFO - MinHash signatures computed for 5,118,457 documents
+2026-02-13 18:41:51,264 - INFO - MinHash LSH Dedup: 5,090,278 samples (removed 28,179 = 0.55%)
+2026-02-13 18:44:29,370 - INFO - Pipeline completed in 2.1h
+2026-02-13 18:44:29,371 - INFO - Final: 5,090,278 samples (949.09 MB, 73.48% retention)
+2026-02-14 03:33:19,626 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_6_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file6.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-14 03:33:19,626 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_6_cleaned_cleaned.txt
+2026-02-14 03:33:30,926 - INFO - Successfully loaded 6,832,897 samples
+2026-02-14 03:33:32,604 - INFO - Operators imported successfully
+2026-02-14 03:33:44,752 - INFO - CleanEmailMapper completed in 10.3s
+2026-02-14 03:33:57,277 - INFO - CleanLinksMapper completed in 12.5s
+2026-02-14 03:34:02,332 - INFO - CleanCopyrightMapper completed in 5.1s
+2026-02-14 03:34:02,363 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x72d316e467a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-14 03:35:20,727 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-14 03:35:35,958 - INFO - PunctuationNormalizationMapper completed in 15.2s
+2026-02-14 03:35:53,216 - INFO - RemoveCommentsMapper completed in 17.3s
+2026-02-14 03:36:06,314 - INFO - WhitespaceNormalizationMapper completed in 13.1s
+2026-02-14 03:36:54,457 - INFO - AlphanumericFilter: 5,067,456 samples (filtered 1,765,441 = 25.84%)
+2026-02-14 03:37:13,947 - INFO - AverageLineLengthFilter: 5,065,202 samples (filtered 2,254 = 0.04%)
+2026-02-14 03:37:57,320 - INFO - CharacterRepetitionFilter: 5,064,517 samples (filtered 685 = 0.01%)
+2026-02-14 03:39:28,024 - INFO - LanguageIDScoreFilter: 5,062,259 samples (filtered 2,258 = 0.04%)
+2026-02-14 03:39:59,429 - INFO - MaximumLineLengthFilter: 5,062,259 samples (filtered 0 = 0.00%)
+2026-02-14 03:40:38,344 - INFO - SpecialCharactersFilter: 5,057,750 samples (filtered 4,509 = 0.09%)
+2026-02-14 03:41:14,647 - INFO - TextLengthFilter: 5,057,750 samples (filtered 0 = 0.00%)
+2026-02-14 03:42:47,921 - INFO - WordsNumFilter: 5,057,750 samples (filtered 0 = 0.00%)
+2026-02-14 03:44:44,239 - INFO - WordRepetitionFilter: 5,057,748 samples (filtered 2 = 0.00%)
+2026-02-14 05:37:24,443 - INFO - MinHash signatures computed for 5,057,748 documents
+2026-02-14 05:38:41,746 - INFO - MinHash LSH Dedup: 5,027,794 samples (removed 29,954 = 0.59%)
+2026-02-14 05:40:31,639 - INFO - Pipeline completed in 2.1h
+2026-02-14 05:40:31,639 - INFO - Final: 5,027,794 samples (940.94 MB, 73.58% retention)
+2026-02-14 06:17:13,764 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_7_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file7.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-14 06:17:13,764 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_7_cleaned_cleaned.txt
+2026-02-14 06:17:25,516 - INFO - Successfully loaded 6,853,289 samples
+2026-02-14 06:17:26,874 - INFO - Operators imported successfully
+2026-02-14 06:17:38,794 - INFO - CleanEmailMapper completed in 10.4s
+2026-02-14 06:17:51,351 - INFO - CleanLinksMapper completed in 12.6s
+2026-02-14 06:17:56,441 - INFO - CleanCopyrightMapper completed in 5.1s
+2026-02-14 06:17:56,469 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7823968767a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-14 06:19:14,812 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-14 06:19:30,302 - INFO - PunctuationNormalizationMapper completed in 15.5s
+2026-02-14 06:19:47,619 - INFO - RemoveCommentsMapper completed in 17.3s
+2026-02-14 06:20:00,667 - INFO - WhitespaceNormalizationMapper completed in 13.0s
+2026-02-14 06:20:48,762 - INFO - AlphanumericFilter: 5,076,125 samples (filtered 1,777,164 = 25.93%)
+2026-02-14 06:21:08,405 - INFO - AverageLineLengthFilter: 5,073,737 samples (filtered 2,388 = 0.05%)
+2026-02-14 06:21:52,062 - INFO - CharacterRepetitionFilter: 5,072,997 samples (filtered 740 = 0.01%)
+2026-02-14 06:23:22,920 - INFO - LanguageIDScoreFilter: 5,070,737 samples (filtered 2,260 = 0.04%)
+2026-02-14 06:23:54,356 - INFO - MaximumLineLengthFilter: 5,070,737 samples (filtered 0 = 0.00%)
+2026-02-14 06:24:33,356 - INFO - SpecialCharactersFilter: 5,066,168 samples (filtered 4,569 = 0.09%)
+2026-02-14 06:25:10,426 - INFO - TextLengthFilter: 5,066,168 samples (filtered 0 = 0.00%)
+2026-02-14 06:26:42,906 - INFO - WordsNumFilter: 5,066,168 samples (filtered 0 = 0.00%)
+2026-02-14 06:28:39,037 - INFO - WordRepetitionFilter: 5,066,167 samples (filtered 1 = 0.00%)
+2026-02-14 06:29:25,522 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_7_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file7.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-14 06:29:25,522 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_7_cleaned_cleaned.txt
+2026-02-14 06:29:26,262 - INFO - Successfully loaded 6,853,289 samples
+2026-02-14 06:29:27,664 - INFO - Operators imported successfully
+2026-02-14 06:29:39,356 - INFO - CleanEmailMapper completed in 10.1s
+2026-02-14 06:29:51,934 - INFO - CleanLinksMapper completed in 12.6s
+2026-02-14 06:29:57,039 - INFO - CleanCopyrightMapper completed in 5.1s
+2026-02-14 06:29:57,063 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7747da5e2560> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-14 06:31:13,762 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-14 06:31:29,488 - INFO - PunctuationNormalizationMapper completed in 15.7s
+2026-02-14 06:31:46,527 - INFO - RemoveCommentsMapper completed in 17.0s
+2026-02-14 06:31:59,418 - INFO - WhitespaceNormalizationMapper completed in 12.9s
+2026-02-14 06:32:47,482 - INFO - AlphanumericFilter: 5,076,125 samples (filtered 1,777,164 = 25.93%)
+2026-02-14 06:33:07,089 - INFO - AverageLineLengthFilter: 5,073,737 samples (filtered 2,388 = 0.05%)
+2026-02-14 06:33:51,045 - INFO - CharacterRepetitionFilter: 5,072,997 samples (filtered 740 = 0.01%)
+2026-02-14 06:35:22,059 - INFO - LanguageIDScoreFilter: 5,070,737 samples (filtered 2,260 = 0.04%)
+2026-02-14 06:35:53,661 - INFO - MaximumLineLengthFilter: 5,070,737 samples (filtered 0 = 0.00%)
+2026-02-14 06:36:32,926 - INFO - SpecialCharactersFilter: 5,066,168 samples (filtered 4,569 = 0.09%)
+2026-02-14 06:37:09,725 - INFO - TextLengthFilter: 5,066,168 samples (filtered 0 = 0.00%)
+2026-02-14 06:38:43,200 - INFO - WordsNumFilter: 5,066,168 samples (filtered 0 = 0.00%)
+2026-02-14 06:40:40,160 - INFO - WordRepetitionFilter: 5,066,167 samples (filtered 1 = 0.00%)
+2026-02-14 08:21:23,415 - INFO - MinHash signatures computed for 5,066,167 documents
+2026-02-14 08:22:39,870 - INFO - MinHash LSH Dedup: 5,037,446 samples (removed 28,721 = 0.57%)
+2026-02-14 08:24:33,264 - INFO - Pipeline completed in 2.1h
+2026-02-14 08:24:33,265 - INFO - Final: 5,037,446 samples (939.11 MB, 73.50% retention)
+2026-02-14 08:31:50,076 - INFO - MinHash signatures computed for 5,066,167 documents
+2026-02-14 08:33:06,390 - INFO - MinHash LSH Dedup: 5,037,446 samples (removed 28,721 = 0.57%)
+2026-02-14 08:35:02,895 - INFO - Pipeline completed in 2.1h
+2026-02-14 08:35:02,895 - INFO - Final: 5,037,446 samples (939.11 MB, 73.50% retention)
+2026-02-14 08:35:52,490 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_8_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file8.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-14 08:35:52,491 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_8_cleaned_cleaned.txt
+2026-02-14 08:36:04,390 - INFO - Successfully loaded 6,758,717 samples
+2026-02-14 08:36:05,862 - INFO - Operators imported successfully
+2026-02-14 08:36:17,833 - INFO - CleanEmailMapper completed in 10.2s
+2026-02-14 08:36:30,044 - INFO - CleanLinksMapper completed in 12.2s
+2026-02-14 08:36:35,020 - INFO - CleanCopyrightMapper completed in 5.0s
+2026-02-14 08:36:35,048 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7f7bf5cfa7a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-14 08:37:53,698 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-14 08:38:08,953 - INFO - PunctuationNormalizationMapper completed in 15.3s
+2026-02-14 08:38:25,949 - INFO - RemoveCommentsMapper completed in 17.0s
+2026-02-14 08:38:39,036 - INFO - WhitespaceNormalizationMapper completed in 13.1s
+2026-02-14 08:39:27,549 - INFO - AlphanumericFilter: 5,018,076 samples (filtered 1,740,641 = 25.75%)
+2026-02-14 08:39:47,340 - INFO - AverageLineLengthFilter: 5,015,761 samples (filtered 2,315 = 0.05%)
+2026-02-14 08:40:30,991 - INFO - CharacterRepetitionFilter: 5,015,023 samples (filtered 738 = 0.01%)
+2026-02-14 08:42:02,163 - INFO - LanguageIDScoreFilter: 5,012,797 samples (filtered 2,226 = 0.04%)
+2026-02-14 08:42:34,264 - INFO - MaximumLineLengthFilter: 5,012,797 samples (filtered 0 = 0.00%)
+2026-02-14 08:43:13,952 - INFO - SpecialCharactersFilter: 5,008,183 samples (filtered 4,614 = 0.09%)
+2026-02-14 08:43:51,480 - INFO - TextLengthFilter: 5,008,183 samples (filtered 0 = 0.00%)
+2026-02-14 08:45:25,319 - INFO - WordsNumFilter: 5,008,183 samples (filtered 0 = 0.00%)
+2026-02-14 08:47:23,101 - INFO - WordRepetitionFilter: 5,008,182 samples (filtered 1 = 0.00%)
+2026-02-14 10:37:21,406 - INFO - MinHash signatures computed for 5,008,182 documents
+2026-02-14 10:38:36,855 - INFO - MinHash LSH Dedup: 4,976,129 samples (removed 32,053 = 0.64%)
+2026-02-14 10:41:17,487 - INFO - Pipeline completed in 2.1h
+2026-02-14 10:41:17,488 - INFO - Final: 4,976,129 samples (932.78 MB, 73.63% retention)
+2026-02-14 10:49:15,250 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_9_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file9.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-14 10:49:15,250 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_9_cleaned_cleaned.txt
+2026-02-14 10:49:27,167 - INFO - Successfully loaded 6,718,739 samples
+2026-02-14 10:49:28,560 - INFO - Operators imported successfully
+2026-02-14 10:49:40,784 - INFO - CleanEmailMapper completed in 10.6s
+2026-02-14 10:49:53,197 - INFO - CleanLinksMapper completed in 12.4s
+2026-02-14 10:49:58,272 - INFO - CleanCopyrightMapper completed in 5.1s
+2026-02-14 10:49:58,300 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7bdc63d227a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-14 10:51:13,997 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-14 10:51:29,291 - INFO - PunctuationNormalizationMapper completed in 15.3s
+2026-02-14 10:51:46,867 - INFO - RemoveCommentsMapper completed in 17.6s
+2026-02-14 10:51:59,981 - INFO - WhitespaceNormalizationMapper completed in 13.1s
+2026-02-14 10:52:47,606 - INFO - AlphanumericFilter: 4,991,750 samples (filtered 1,726,989 = 25.70%)
+2026-02-14 10:53:07,114 - INFO - AverageLineLengthFilter: 4,989,593 samples (filtered 2,157 = 0.04%)
+2026-02-14 10:53:50,192 - INFO - CharacterRepetitionFilter: 4,988,845 samples (filtered 748 = 0.01%)
+2026-02-14 10:55:20,051 - INFO - LanguageIDScoreFilter: 4,986,647 samples (filtered 2,198 = 0.04%)
+2026-02-14 10:55:51,110 - INFO - MaximumLineLengthFilter: 4,986,647 samples (filtered 0 = 0.00%)
+2026-02-14 10:56:29,772 - INFO - SpecialCharactersFilter: 4,981,902 samples (filtered 4,745 = 0.10%)
+2026-02-14 10:57:06,594 - INFO - TextLengthFilter: 4,981,902 samples (filtered 0 = 0.00%)
+2026-02-14 10:58:37,775 - INFO - WordsNumFilter: 4,981,902 samples (filtered 0 = 0.00%)
+2026-02-14 11:00:32,689 - INFO - WordRepetitionFilter: 4,981,899 samples (filtered 3 = 0.00%)
+2026-02-14 12:49:17,301 - INFO - MinHash signatures computed for 4,981,899 documents
+2026-02-14 12:50:32,419 - INFO - MinHash LSH Dedup: 4,949,174 samples (removed 32,725 = 0.66%)
+2026-02-14 12:54:06,621 - INFO - Pipeline completed in 2.1h
+2026-02-14 12:54:06,623 - INFO - Final: 4,949,174 samples (929.38 MB, 73.66% retention)
+2026-02-14 12:54:17,362 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_10_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file10.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-14 12:54:17,362 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_10_cleaned_cleaned.txt
+2026-02-14 12:54:32,284 - INFO - Successfully loaded 6,754,216 samples
+2026-02-14 12:54:33,972 - INFO - Operators imported successfully
+2026-02-14 12:54:46,028 - INFO - CleanEmailMapper completed in 10.3s
+2026-02-14 12:54:58,412 - INFO - CleanLinksMapper completed in 12.4s
+2026-02-14 12:55:03,494 - INFO - CleanCopyrightMapper completed in 5.1s
+2026-02-14 12:55:03,526 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x79797b6c67a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-14 12:56:19,829 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-14 12:56:35,594 - INFO - PunctuationNormalizationMapper completed in 15.8s
+2026-02-14 12:56:52,690 - INFO - RemoveCommentsMapper completed in 17.1s
+2026-02-14 12:57:05,647 - INFO - WhitespaceNormalizationMapper completed in 13.0s
+2026-02-14 12:57:53,611 - INFO - AlphanumericFilter: 5,013,708 samples (filtered 1,740,508 = 25.77%)
+2026-02-14 12:58:13,014 - INFO - AverageLineLengthFilter: 5,011,459 samples (filtered 2,249 = 0.04%)
+2026-02-14 12:58:56,340 - INFO - CharacterRepetitionFilter: 5,010,748 samples (filtered 711 = 0.01%)
+2026-02-14 13:00:26,843 - INFO - LanguageIDScoreFilter: 5,008,265 samples (filtered 2,483 = 0.05%)
+2026-02-14 13:00:58,097 - INFO - MaximumLineLengthFilter: 5,008,265 samples (filtered 0 = 0.00%)
+2026-02-14 13:01:36,504 - INFO - SpecialCharactersFilter: 5,003,590 samples (filtered 4,675 = 0.09%)
+2026-02-14 13:02:12,827 - INFO - TextLengthFilter: 5,003,590 samples (filtered 0 = 0.00%)
+2026-02-14 13:03:44,836 - INFO - WordsNumFilter: 5,003,590 samples (filtered 0 = 0.00%)
+2026-02-14 13:05:40,653 - INFO - WordRepetitionFilter: 5,003,588 samples (filtered 2 = 0.00%)
+2026-02-14 14:58:19,239 - INFO - MinHash signatures computed for 5,003,588 documents
+2026-02-14 14:59:37,361 - INFO - MinHash LSH Dedup: 4,971,785 samples (removed 31,803 = 0.64%)
+2026-02-14 15:03:07,767 - INFO - Pipeline completed in 2.1h
+2026-02-14 15:03:07,767 - INFO - Final: 4,971,785 samples (935.63 MB, 73.61% retention)
+2026-02-14 17:31:22,083 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_11_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file11.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-14 17:31:22,083 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_11_cleaned_cleaned.txt
+2026-02-14 17:31:33,577 - INFO - Successfully loaded 6,571,683 samples
+2026-02-14 17:31:35,361 - INFO - Operators imported successfully
+2026-02-14 17:31:46,986 - INFO - CleanEmailMapper completed in 9.9s
+2026-02-14 17:31:58,972 - INFO - CleanLinksMapper completed in 12.0s
+2026-02-14 17:32:03,890 - INFO - CleanCopyrightMapper completed in 4.9s
+2026-02-14 17:32:03,922 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7bdca2ac2830> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-14 17:33:18,060 - INFO - FixUnicodeMapper completed in 1.2m
+2026-02-14 17:33:33,014 - INFO - PunctuationNormalizationMapper completed in 15.0s
+2026-02-14 17:33:49,486 - INFO - RemoveCommentsMapper completed in 16.5s
+2026-02-14 17:34:02,246 - INFO - WhitespaceNormalizationMapper completed in 12.8s
+2026-02-14 17:34:48,660 - INFO - AlphanumericFilter: 4,897,418 samples (filtered 1,674,265 = 25.48%)
+2026-02-14 17:35:07,754 - INFO - AverageLineLengthFilter: 4,895,367 samples (filtered 2,051 = 0.04%)
+2026-02-14 17:35:50,498 - INFO - CharacterRepetitionFilter: 4,894,690 samples (filtered 677 = 0.01%)
+2026-02-14 17:37:19,445 - INFO - LanguageIDScoreFilter: 4,892,355 samples (filtered 2,335 = 0.05%)
+2026-02-14 17:37:50,091 - INFO - MaximumLineLengthFilter: 4,892,355 samples (filtered 0 = 0.00%)
+2026-02-14 17:38:27,415 - INFO - SpecialCharactersFilter: 4,887,462 samples (filtered 4,893 = 0.10%)
+2026-02-14 17:39:02,593 - INFO - TextLengthFilter: 4,887,462 samples (filtered 0 = 0.00%)
+2026-02-14 17:40:32,540 - INFO - WordsNumFilter: 4,887,462 samples (filtered 0 = 0.00%)
+2026-02-14 17:42:25,756 - INFO - WordRepetitionFilter: 4,887,462 samples (filtered 0 = 0.00%)
+2026-02-14 19:31:01,140 - INFO - MinHash signatures computed for 4,887,462 documents
+2026-02-14 19:32:17,307 - INFO - MinHash LSH Dedup: 4,849,801 samples (removed 37,661 = 0.77%)
+2026-02-14 19:34:48,258 - INFO - Pipeline completed in 2.1h
+2026-02-14 19:34:48,259 - INFO - Final: 4,849,801 samples (916.27 MB, 73.80% retention)
+2026-02-15 03:09:56,218 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_12_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file12.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-15 03:09:56,218 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_12_cleaned_cleaned.txt
+2026-02-15 03:10:08,210 - INFO - Successfully loaded 6,648,947 samples
+2026-02-15 03:10:09,906 - INFO - Operators imported successfully
+2026-02-15 03:10:21,950 - INFO - CleanEmailMapper completed in 10.2s
+2026-02-15 03:10:35,002 - INFO - CleanLinksMapper completed in 13.1s
+2026-02-15 03:10:39,917 - INFO - CleanCopyrightMapper completed in 4.9s
+2026-02-15 03:10:39,949 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x715723412830> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-15 03:11:55,522 - INFO - FixUnicodeMapper completed in 1.3m
+2026-02-15 03:12:10,689 - INFO - PunctuationNormalizationMapper completed in 15.2s
+2026-02-15 03:12:27,686 - INFO - RemoveCommentsMapper completed in 17.0s
+2026-02-15 03:12:40,725 - INFO - WhitespaceNormalizationMapper completed in 13.0s
+2026-02-15 03:13:27,789 - INFO - AlphanumericFilter: 4,950,614 samples (filtered 1,698,333 = 25.54%)
+2026-02-15 03:13:46,819 - INFO - AverageLineLengthFilter: 4,948,559 samples (filtered 2,055 = 0.04%)
+2026-02-15 03:14:30,154 - INFO - CharacterRepetitionFilter: 4,947,826 samples (filtered 733 = 0.01%)
+2026-02-15 03:16:00,992 - INFO - LanguageIDScoreFilter: 4,945,500 samples (filtered 2,326 = 0.05%)
+2026-02-15 03:16:31,947 - INFO - MaximumLineLengthFilter: 4,945,500 samples (filtered 0 = 0.00%)
+2026-02-15 03:17:09,982 - INFO - SpecialCharactersFilter: 4,940,725 samples (filtered 4,775 = 0.10%)
+2026-02-15 03:17:45,789 - INFO - TextLengthFilter: 4,940,725 samples (filtered 0 = 0.00%)
+2026-02-15 03:19:17,047 - INFO - WordsNumFilter: 4,940,725 samples (filtered 0 = 0.00%)
+2026-02-15 03:21:11,241 - INFO - WordRepetitionFilter: 4,940,721 samples (filtered 4 = 0.00%)
+2026-02-15 05:10:26,828 - INFO - MinHash signatures computed for 4,940,721 documents
+2026-02-15 05:11:40,811 - INFO - MinHash LSH Dedup: 4,905,484 samples (removed 35,237 = 0.71%)
+2026-02-15 05:15:13,750 - INFO - Pipeline completed in 2.1h
+2026-02-15 05:15:13,750 - INFO - Final: 4,905,484 samples (926.20 MB, 73.78% retention)
+2026-02-15 06:55:50,831 - INFO - Configuration: {'input_path': '/workspace/Nepmedjp/data-juicerr/cc100_ja_13_cleaned_cleaned.txt', 'output_path': '/workspace/Nepmedjp/data-juicerr/file13.jsonl', 'num_proc': 4, 'batch_size': 1000, 'writer_batch_size': 5000, 'language': 'ja', 'min_text_length': 10, 'max_text_length': 500000, 'min_words': 2, 'max_words': 1000000, 'minhash_num_perm': 128, 'minhash_threshold': 0.8, 'minhash_shingle_size': 3, 'minhash_batch_size': 50000}
+2026-02-15 06:55:50,831 - INFO - Loading text file: /workspace/Nepmedjp/data-juicerr/cc100_ja_13_cleaned_cleaned.txt
+2026-02-15 06:55:59,650 - INFO - Successfully loaded 4,710,253 samples
+2026-02-15 06:56:01,444 - INFO - Operators imported successfully
+2026-02-15 06:56:10,187 - INFO - CleanEmailMapper completed in 7.0s
+2026-02-15 06:56:19,126 - INFO - CleanLinksMapper completed in 8.9s
+2026-02-15 06:56:22,675 - INFO - CleanCopyrightMapper completed in 3.5s
+2026-02-15 06:56:22,712 - WARNING - Parameter 'function'=<function FixUnicodeMapper.process_batched at 0x7537d9ea27a0> of the transform datasets.arrow_dataset.Dataset._map_single couldn't be hashed properly, a random hash was used instead. Make sure your transforms and parameters are serializable with pickle or dill for the dataset fingerprinting and caching to work. If you reuse this transform, the caching mechanism will consider it to be different from the previous calls and recompute everything. This warning is only showed once. Subsequent hashing failures won't be showed.
+2026-02-15 06:57:16,980 - INFO - FixUnicodeMapper completed in 54.3s
+2026-02-15 06:57:28,050 - INFO - PunctuationNormalizationMapper completed in 11.1s
+2026-02-15 06:57:39,826 - INFO - RemoveCommentsMapper completed in 11.8s
+2026-02-15 06:57:49,045 - INFO - WhitespaceNormalizationMapper completed in 9.2s
+2026-02-15 06:58:23,229 - INFO - AlphanumericFilter: 3,509,150 samples (filtered 1,201,103 = 25.50%)
+2026-02-15 06:58:37,657 - INFO - AverageLineLengthFilter: 3,507,655 samples (filtered 1,495 = 0.04%)
+2026-02-15 06:59:08,200 - INFO - CharacterRepetitionFilter: 3,507,165 samples (filtered 490 = 0.01%)
+2026-02-15 07:00:12,199 - INFO - LanguageIDScoreFilter: 3,505,518 samples (filtered 1,647 = 0.05%)
+2026-02-15 07:00:34,215 - INFO - MaximumLineLengthFilter: 3,505,518 samples (filtered 0 = 0.00%)
+2026-02-15 07:01:01,364 - INFO - SpecialCharactersFilter: 3,501,954 samples (filtered 3,564 = 0.10%)
+2026-02-15 07:01:26,829 - INFO - TextLengthFilter: 3,501,954 samples (filtered 0 = 0.00%)
+2026-02-15 07:02:31,594 - INFO - WordsNumFilter: 3,501,954 samples (filtered 0 = 0.00%)
+2026-02-15 07:03:52,869 - INFO - WordRepetitionFilter: 3,501,953 samples (filtered 1 = 0.00%)
+2026-02-15 08:21:26,468 - INFO - MinHash signatures computed for 3,501,953 documents
+2026-02-15 08:22:18,505 - INFO - MinHash LSH Dedup: 3,478,194 samples (removed 23,759 = 0.68%)
+2026-02-15 08:23:24,821 - INFO - Pipeline completed in 1.5h
+2026-02-15 08:23:24,821 - INFO - Final: 3,478,194 samples (659.45 MB, 73.84% retention)

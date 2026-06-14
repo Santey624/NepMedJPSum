@@ -1,0 +1,600 @@
+{"eye_disease": 1, "disease_name": "Primary open-angle glaucoma"}
+{"eye_disease": 2, "disease_name": "Normal-tension glaucoma"}
+{"eye_disease": 3, "disease_name": "Juvenile open-angle glaucoma"}
+{"eye_disease": 4, "disease_name": "Primary angle-closure glaucoma"}
+{"eye_disease": 5, "disease_name": "Acute primary angle-closure glaucoma"}
+{"eye_disease": 6, "disease_name": "Chronic primary angle-closure glaucoma"}
+{"eye_disease": 7, "disease_name": "Plateau iris syndrome"}
+{"eye_disease": 8, "disease_name": "Primary congenital glaucoma"}
+{"eye_disease": 9, "disease_name": "Pigmentary glaucoma"}
+{"eye_disease": 10, "disease_name": "Pseudoexfoliation glaucoma"}
+{"eye_disease": 11, "disease_name": "Uveitic secondary glaucoma"}
+{"eye_disease": 12, "disease_name": "Neovascular glaucoma"}
+{"eye_disease": 13, "disease_name": "Steroid-induced glaucoma"}
+{"eye_disease": 14, "disease_name": "Traumatic angle-recession glaucoma"}
+{"eye_disease": 15, "disease_name": "Phacomorphic glaucoma"}
+{"eye_disease": 16, "disease_name": "Phacolytic glaucoma"}
+{"eye_disease": 17, "disease_name": "Lens-particle glaucoma"}
+{"eye_disease": 18, "disease_name": "Glaucoma secondary to intraocular tumor"}
+{"eye_disease": 19, "disease_name": "Glaucoma secondary to silicone oil"}
+{"eye_disease": 20, "disease_name": "Glaucoma secondary to chronic uveitis"}
+{"eye_disease": 21, "disease_name": "Glaucoma secondary to central retinal vein occlusion"}
+{"eye_disease": 22, "disease_name": "Glaucoma secondary to aphakia"}
+{"eye_disease": 23, "disease_name": "Glaucoma secondary to pseudophakia"}
+{"eye_disease": 24, "disease_name": "Glaucoma associated with Sturge-Weber syndrome"}
+{"eye_disease": 25, "disease_name": "Glaucoma associated with aniridia"}
+{"eye_disease": 26, "disease_name": "Glaucoma associated with iridocorneal endothelial syndrome"}
+{"eye_disease": 27, "disease_name": "Pigment dispersion syndrome with ocular hypertension"}
+{"eye_disease": 28, "disease_name": "Ocular hypertension"}
+{"eye_disease": 29, "disease_name": "Ocular hypotony after intraocular surgery"}
+{"eye_disease": 30, "disease_name": "Malignant glaucoma"}
+{"eye_disease": 31, "disease_name": "Posner-Schlossman syndrome"}
+{"eye_disease": 32, "disease_name": "Glaucoma due to pupillary block by posterior synechiae"}
+{"eye_disease": 33, "disease_name": "Glaucoma due to pupillary block by anterior chamber intraocular lens"}
+{"eye_disease": 34, "disease_name": "Glaucoma due to ciliary body cysts"}
+{"eye_disease": 35, "disease_name": "Elevated episcleral venous pressure glaucoma"}
+{"eye_disease": 36, "disease_name": "Glaucoma due to carotid-cavernous fistula"}
+{"eye_disease": 37, "disease_name": "Glaucoma due to proliferative diabetic retinopathy"}
+{"eye_disease": 38, "disease_name": "Glaucoma due to scleral buckle"}
+{"eye_disease": 39, "disease_name": "Glaucoma due to epithelial ingrowth"}
+{"eye_disease": 40, "disease_name": "Glaucoma due to intraocular hemorrhage"}
+{"eye_disease": 41, "disease_name": "Secondary congenital glaucoma due to anterior segment dysgenesis"}
+{"eye_disease": 42, "disease_name": "Glaucoma associated with juvenile idiopathic arthritis"}
+{"eye_disease": 43, "disease_name": "Glaucoma associated with chronic steroid therapy"}
+{"eye_disease": 44, "disease_name": "Glaucoma due to proliferative vitreoretinopathy"}
+{"eye_disease": 45, "disease_name": "Glaucoma due to uveitis in sarcoidosis"}
+{"eye_disease": 46, "disease_name": "Glaucoma due to neovascularization of the angle"}
+{"eye_disease": 47, "disease_name": "Primary open-angle glaucoma, early stage"}
+{"eye_disease": 48, "disease_name": "Primary open-angle glaucoma, advanced stage"}
+{"eye_disease": 49, "disease_name": "Normal-tension glaucoma with disc hemorrhages"}
+{"eye_disease": 50, "disease_name": "Glaucomatous optic neuropathy without elevated intraocular pressure"}
+{"eye_disease": 51, "disease_name": "Glaucoma due to ocular trauma"}
+{"eye_disease": 52, "disease_name": "Glaucoma due to uveal melanoma"}
+{"eye_disease": 53, "disease_name": "Glaucoma due to chronic angle closure with peripheral anterior synechiae"}
+{"eye_disease": 54, "disease_name": "Pseudoexfoliation syndrome with ocular hypertension"}
+{"eye_disease": 55, "disease_name": "Glaucoma associated with iridocorneal trabecular dysgenesis"}
+{"eye_disease": 56, "disease_name": "Glaucoma associated with Axenfeld-Rieger anomaly"}
+{"eye_disease": 57, "disease_name": "Glaucoma due to chronic steroid eye drop use"}
+{"eye_disease": 58, "disease_name": "Glaucoma due to uveitis in juvenile spondyloarthropathy"}
+{"eye_disease": 59, "disease_name": "Glaucoma due to peripheral anterior synechiae after angle-closure crisis"}
+{"eye_disease": 60, "disease_name": "Childhood glaucoma associated with congenital rubella syndrome"}
+{"eye_disease": 61, "disease_name": "Nonexudative age-related macular degeneration"}
+{"eye_disease": 62, "disease_name": "Exudative age-related macular degeneration"}
+{"eye_disease": 63, "disease_name": "Polypoidal choroidal vasculopathy"}
+{"eye_disease": 64, "disease_name": "Retinal angiomatous proliferation"}
+{"eye_disease": 65, "disease_name": "Central serous chorioretinopathy"}
+{"eye_disease": 66, "disease_name": "Chronic central serous chorioretinopathy"}
+{"eye_disease": 67, "disease_name": "Degenerative myopic maculopathy"}
+{"eye_disease": 68, "disease_name": "Full-thickness macular hole"}
+{"eye_disease": 69, "disease_name": "Lamellar macular hole"}
+{"eye_disease": 70, "disease_name": "Epiretinal membrane"}
+{"eye_disease": 71, "disease_name": "Center-involving diabetic macular edema"}
+{"eye_disease": 72, "disease_name": "Non–center-involving diabetic macular edema"}
+{"eye_disease": 73, "disease_name": "Cystoid macular edema after cataract surgery"}
+{"eye_disease": 74, "disease_name": "Mild nonproliferative diabetic retinopathy"}
+{"eye_disease": 75, "disease_name": "Moderate nonproliferative diabetic retinopathy"}
+{"eye_disease": 76, "disease_name": "Severe nonproliferative diabetic retinopathy"}
+{"eye_disease": 77, "disease_name": "Proliferative diabetic retinopathy without high-risk characteristics"}
+{"eye_disease": 78, "disease_name": "High-risk proliferative diabetic retinopathy"}
+{"eye_disease": 79, "disease_name": "Diabetic retinopathy in pregnancy"}
+{"eye_disease": 80, "disease_name": "Central retinal vein occlusion, non-ischemic"}
+{"eye_disease": 81, "disease_name": "Central retinal vein occlusion, ischemic"}
+{"eye_disease": 82, "disease_name": "Branch retinal vein occlusion, major branch"}
+{"eye_disease": 83, "disease_name": "Macular branch retinal vein occlusion"}
+{"eye_disease": 84, "disease_name": "Hemiretinal vein occlusion"}
+{"eye_disease": 85, "disease_name": "Central retinal artery occlusion"}
+{"eye_disease": 86, "disease_name": "Branch retinal artery occlusion"}
+{"eye_disease": 87, "disease_name": "Cilioretinal artery occlusion"}
+{"eye_disease": 88, "disease_name": "Ocular ischemic syndrome"}
+{"eye_disease": 89, "disease_name": "Mild hypertensive retinopathy"}
+{"eye_disease": 90, "disease_name": "Moderate hypertensive retinopathy"}
+{"eye_disease": 91, "disease_name": "Severe hypertensive retinopathy"}
+{"eye_disease": 92, "disease_name": "Retinal arterial macroaneurysm"}
+{"eye_disease": 93, "disease_name": "Retinal arterial macroaneurysm with hemorrhage"}
+{"eye_disease": 94, "disease_name": "Radiation retinopathy"}
+{"eye_disease": 95, "disease_name": "Nonproliferative sickle cell retinopathy"}
+{"eye_disease": 96, "disease_name": "Proliferative sickle cell retinopathy"}
+{"eye_disease": 97, "disease_name": "Retinopathy of prematurity, stage 3 with plus disease"}
+{"eye_disease": 98, "disease_name": "Aggressive posterior retinopathy of prematurity"}
+{"eye_disease": 99, "disease_name": "Familial exudative vitreoretinopathy"}
+{"eye_disease": 100, "disease_name": "Coats disease"}
+{"eye_disease": 101, "disease_name": "Macular telangiectasia type 1"}
+{"eye_disease": 102, "disease_name": "Macular telangiectasia type 2"}
+{"eye_disease": 103, "disease_name": "Paracentral acute middle maculopathy"}
+{"eye_disease": 104, "disease_name": "Acute macular neuroretinopathy"}
+{"eye_disease": 105, "disease_name": "Paraneoplastic autoimmune retinopathy"}
+{"eye_disease": 106, "disease_name": "Ischemic diabetic maculopathy"}
+{"eye_disease": 107, "disease_name": "Choroidal neovascular membrane due to pathologic myopia"}
+{"eye_disease": 108, "disease_name": "Choroidal neovascular membrane due to angioid streaks"}
+{"eye_disease": 109, "disease_name": "Choroidal neovascular membrane due to inflammatory chorioretinopathy"}
+{"eye_disease": 110, "disease_name": "Idiopathic choroidal neovascularization"}
+{"eye_disease": 111, "disease_name": "Solar retinopathy"}
+{"eye_disease": 112, "disease_name": "Laser-induced maculopathy"}
+{"eye_disease": 113, "disease_name": "Commotio retinae"}
+{"eye_disease": 114, "disease_name": "Purtscher retinopathy"}
+{"eye_disease": 115, "disease_name": "Purtscher-like retinopathy"}
+{"eye_disease": 116, "disease_name": "Carotid occlusive retinopathy"}
+{"eye_disease": 117, "disease_name": "Chronic branch retinal vein occlusion with macular edema"}
+{"eye_disease": 118, "disease_name": "Hypertensive choroidopathy"}
+{"eye_disease": 119, "disease_name": "Ischemic maculopathy after central retinal vein occlusion"}
+{"eye_disease": 120, "disease_name": "Retinal neovascularization due to retinal vein occlusion"}
+{"eye_disease": 121, "disease_name": "Autosomal dominant retinitis pigmentosa"}
+{"eye_disease": 122, "disease_name": "Autosomal recessive retinitis pigmentosa"}
+{"eye_disease": 123, "disease_name": "X-linked retinitis pigmentosa"}
+{"eye_disease": 124, "disease_name": "Usher syndrome type 1 with retinitis pigmentosa"}
+{"eye_disease": 125, "disease_name": "Usher syndrome type 2 with retinitis pigmentosa"}
+{"eye_disease": 126, "disease_name": "Sector retinitis pigmentosa"}
+{"eye_disease": 127, "disease_name": "Retinitis punctata albescens"}
+{"eye_disease": 128, "disease_name": "Leber congenital amaurosis due to RPE65 mutation"}
+{"eye_disease": 129, "disease_name": "Leber congenital amaurosis due to CEP290 mutation"}
+{"eye_disease": 130, "disease_name": "Complete congenital stationary night blindness"}
+{"eye_disease": 131, "disease_name": "Incomplete congenital stationary night blindness"}
+{"eye_disease": 132, "disease_name": "Oguchi disease"}
+{"eye_disease": 133, "disease_name": "Enhanced S-cone syndrome"}
+{"eye_disease": 134, "disease_name": "Autosomal dominant cone-rod dystrophy"}
+{"eye_disease": 135, "disease_name": "Autosomal recessive cone-rod dystrophy"}
+{"eye_disease": 136, "disease_name": "Cone dystrophy with supernormal rod response"}
+{"eye_disease": 137, "disease_name": "Achromatopsia due to CNGB3 mutation"}
+{"eye_disease": 138, "disease_name": "Achromatopsia due to CNGA3 mutation"}
+{"eye_disease": 139, "disease_name": "Blue cone monochromacy"}
+{"eye_disease": 140, "disease_name": "Progressive cone dystrophy"}
+{"eye_disease": 141, "disease_name": "Stargardt macular dystrophy"}
+{"eye_disease": 142, "disease_name": "Fundus flavimaculatus"}
+{"eye_disease": 143, "disease_name": "Best vitelliform macular dystrophy"}
+{"eye_disease": 144, "disease_name": "Adult-onset vitelliform macular dystrophy"}
+{"eye_disease": 145, "disease_name": "Pattern dystrophy of the retinal pigment epithelium"}
+{"eye_disease": 146, "disease_name": "Multifocal pattern dystrophy"}
+{"eye_disease": 147, "disease_name": "Sorsby fundus dystrophy"}
+{"eye_disease": 148, "disease_name": "Doyne honeycomb retinal dystrophy"}
+{"eye_disease": 149, "disease_name": "North Carolina macular dystrophy"}
+{"eye_disease": 150, "disease_name": "Central areolar choroidal dystrophy"}
+{"eye_disease": 151, "disease_name": "Choroideremia"}
+{"eye_disease": 152, "disease_name": "Gyrate atrophy of choroid and retina"}
+{"eye_disease": 153, "disease_name": "Bietti crystalline dystrophy"}
+{"eye_disease": 154, "disease_name": "Goldmann-Favre vitreoretinal dystrophy"}
+{"eye_disease": 155, "disease_name": "X-linked juvenile retinoschisis"}
+{"eye_disease": 156, "disease_name": "Senile peripheral retinoschisis"}
+{"eye_disease": 157, "disease_name": "Occult macular dystrophy"}
+{"eye_disease": 158, "disease_name": "Rod-cone dystrophy due to ABCA4 mutation"}
+{"eye_disease": 159, "disease_name": "Retinal dystrophy due to mitochondrial DNA mutation"}
+{"eye_disease": 160, "disease_name": "Retinal degeneration in Bardet-Biedl syndrome"}
+{"eye_disease": 161, "disease_name": "Pigmented paravenous retinochoroidal atrophy"}
+{"eye_disease": 162, "disease_name": "Multiple evanescent white dot syndrome"}
+{"eye_disease": 163, "disease_name": "Acute posterior multifocal placoid pigment epitheliopathy"}
+{"eye_disease": 164, "disease_name": "Serpiginous choroiditis"}
+{"eye_disease": 165, "disease_name": "Birdshot chorioretinopathy"}
+{"eye_disease": 166, "disease_name": "Punctate inner choroidopathy"}
+{"eye_disease": 167, "disease_name": "Multifocal choroiditis with panuveitis"}
+{"eye_disease": 168, "disease_name": "Acute zonal occult outer retinopathy"}
+{"eye_disease": 169, "disease_name": "Inherited macular dystrophy due to PROM1 mutation"}
+{"eye_disease": 170, "disease_name": "Inherited macular dystrophy due to PRPH2 mutation"}
+{"eye_disease": 171, "disease_name": "Retinal dystrophy in peroxisomal biogenesis disorder"}
+{"eye_disease": 172, "disease_name": "Inherited vitreoretinopathy in Stickler syndrome"}
+{"eye_disease": 173, "disease_name": "Inherited vitreoretinopathy in Wagner syndrome"}
+{"eye_disease": 174, "disease_name": "Retinal degeneration in neuronal ceroid lipofuscinosis"}
+{"eye_disease": 175, "disease_name": "Macular dystrophy associated with mitochondrial disease"}
+{"eye_disease": 176, "disease_name": "Cone dystrophy with normal rod function"}
+{"eye_disease": 177, "disease_name": "Macular dystrophy with pattern dystrophy of the RPE"}
+{"eye_disease": 178, "disease_name": "Generalized choroidal dystrophy"}
+{"eye_disease": 179, "disease_name": "Choroideremia carrier maculopathy"}
+{"eye_disease": 180, "disease_name": "Retinal degeneration associated with spinocerebellar ataxia"}
+{"eye_disease": 181, "disease_name": "Keratoconus"}
+{"eye_disease": 182, "disease_name": "Pellucid marginal degeneration"}
+{"eye_disease": 183, "disease_name": "Keratoglobus"}
+{"eye_disease": 184, "disease_name": "Fuchs endothelial corneal dystrophy"}
+{"eye_disease": 185, "disease_name": "Lattice corneal dystrophy type I"}
+{"eye_disease": 186, "disease_name": "Lattice corneal dystrophy type II"}
+{"eye_disease": 187, "disease_name": "Granular corneal dystrophy type I"}
+{"eye_disease": 188, "disease_name": "Granular corneal dystrophy type II"}
+{"eye_disease": 189, "disease_name": "Macular corneal dystrophy"}
+{"eye_disease": 190, "disease_name": "Reis-Bücklers corneal dystrophy"}
+{"eye_disease": 191, "disease_name": "Thiel-Behnke corneal dystrophy"}
+{"eye_disease": 192, "disease_name": "Congenital hereditary endothelial dystrophy type 1"}
+{"eye_disease": 193, "disease_name": "Congenital hereditary endothelial dystrophy type 2"}
+{"eye_disease": 194, "disease_name": "Posterior polymorphous corneal dystrophy"}
+{"eye_disease": 195, "disease_name": "Meesmann epithelial corneal dystrophy"}
+{"eye_disease": 196, "disease_name": "Gelatinous drop-like corneal dystrophy"}
+{"eye_disease": 197, "disease_name": "Schnyder crystalline corneal dystrophy"}
+{"eye_disease": 198, "disease_name": "Posterior amorphous corneal dystrophy"}
+{"eye_disease": 199, "disease_name": "Central cloudy dystrophy of François"}
+{"eye_disease": 200, "disease_name": "Corneal dystrophy of Bowman layer"}
+{"eye_disease": 201, "disease_name": "Corneal dystrophy of Descemet membrane"}
+{"eye_disease": 202, "disease_name": "Corneal edema due to endothelial decompensation"}
+{"eye_disease": 203, "disease_name": "Bullous keratopathy"}
+{"eye_disease": 204, "disease_name": "Bullous aphakic keratopathy"}
+{"eye_disease": 205, "disease_name": "Bullous pseudophakic keratopathy"}
+{"eye_disease": 206, "disease_name": "Neurotrophic keratopathy"}
+{"eye_disease": 207, "disease_name": "Exposure keratopathy"}
+{"eye_disease": 208, "disease_name": "Acanthamoeba keratitis"}
+{"eye_disease": 209, "disease_name": "Herpes simplex epithelial keratitis"}
+{"eye_disease": 210, "disease_name": "Herpes simplex stromal keratitis"}
+{"eye_disease": 211, "disease_name": "Herpes zoster ophthalmicus keratitis"}
+{"eye_disease": 212, "disease_name": "Bacterial corneal ulcer"}
+{"eye_disease": 213, "disease_name": "Fungal keratitis"}
+{"eye_disease": 214, "disease_name": "Marginal keratitis due to staphylococcal hypersensitivity"}
+{"eye_disease": 215, "disease_name": "Peripheral ulcerative keratitis in rheumatoid arthritis"}
+{"eye_disease": 216, "disease_name": "Mooren ulcer"}
+{"eye_disease": 217, "disease_name": "Phlyctenular keratoconjunctivitis"}
+{"eye_disease": 218, "disease_name": "Interstitial keratitis in congenital syphilis"}
+{"eye_disease": 219, "disease_name": "Disciform keratitis"}
+{"eye_disease": 220, "disease_name": "Corneal neovascularization secondary to contact lens wear"}
+{"eye_disease": 221, "disease_name": "Corneal opacity after infectious keratitis"}
+{"eye_disease": 222, "disease_name": "Band keratopathy"}
+{"eye_disease": 223, "disease_name": "Spheroidal degeneration of cornea"}
+{"eye_disease": 224, "disease_name": "Climatic droplet keratopathy"}
+{"eye_disease": 225, "disease_name": "Terrien marginal degeneration"}
+{"eye_disease": 226, "disease_name": "Salzmann nodular degeneration"}
+{"eye_disease": 227, "disease_name": "Corneal scar after trauma"}
+{"eye_disease": 228, "disease_name": "Corneal melt in rheumatoid arthritis"}
+{"eye_disease": 229, "disease_name": "Keratoconjunctivitis sicca"}
+{"eye_disease": 230, "disease_name": "Infectious keratoconjunctivitis"}
+{"eye_disease": 231, "disease_name": "Superior limbic keratoconjunctivitis"}
+{"eye_disease": 232, "disease_name": "Thygeson superficial punctate keratitis"}
+{"eye_disease": 233, "disease_name": "Contact lens-induced acute red eye"}
+{"eye_disease": 234, "disease_name": "Contact lens peripheral ulcer"}
+{"eye_disease": 235, "disease_name": "Corneal graft rejection after penetrating keratoplasty"}
+{"eye_disease": 236, "disease_name": "Corneal graft rejection after endothelial keratoplasty"}
+{"eye_disease": 237, "disease_name": "Post-laser refractive surgery corneal ectasia"}
+{"eye_disease": 238, "disease_name": "Post-radial keratotomy corneal ectasia"}
+{"eye_disease": 239, "disease_name": "Post-infectious corneal thinning"}
+{"eye_disease": 240, "disease_name": "Post-keratoplasty irregular astigmatism"}
+{"eye_disease": 241, "disease_name": "Viral conjunctivitis"}
+{"eye_disease": 242, "disease_name": "Acute hemorrhagic conjunctivitis"}
+{"eye_disease": 243, "disease_name": "Seasonal allergic conjunctivitis"}
+{"eye_disease": 244, "disease_name": "Perennial allergic conjunctivitis"}
+{"eye_disease": 245, "disease_name": "Vernal keratoconjunctivitis"}
+{"eye_disease": 246, "disease_name": "Atopic keratoconjunctivitis"}
+{"eye_disease": 247, "disease_name": "Bacterial conjunctivitis"}
+{"eye_disease": 248, "disease_name": "Chlamydial inclusion conjunctivitis"}
+{"eye_disease": 249, "disease_name": "Ophthalmia neonatorum due to Neisseria gonorrhoeae"}
+{"eye_disease": 250, "disease_name": "Ophthalmia neonatorum due to Chlamydia trachomatis"}
+{"eye_disease": 251, "disease_name": "Trachoma"}
+{"eye_disease": 252, "disease_name": "Pterygium"}
+{"eye_disease": 253, "disease_name": "Pinguecula"}
+{"eye_disease": 254, "disease_name": "Xerophthalmia due to vitamin A deficiency"}
+{"eye_disease": 255, "disease_name": "Conjunctival intraepithelial neoplasia"}
+{"eye_disease": 256, "disease_name": "Conjunctival squamous cell carcinoma"}
+{"eye_disease": 257, "disease_name": "Conjunctival melanoma"}
+{"eye_disease": 258, "disease_name": "Conjunctival lymphangiectasia"}
+{"eye_disease": 259, "disease_name": "Conjunctival amyloidosis"}
+{"eye_disease": 260, "disease_name": "Giant papillary conjunctivitis"}
+{"eye_disease": 261, "disease_name": "Ligneous conjunctivitis"}
+{"eye_disease": 262, "disease_name": "Parinaud oculoglandular syndrome"}
+{"eye_disease": 263, "disease_name": "Conjunctival chalasis"}
+{"eye_disease": 264, "disease_name": "Simple episcleritis"}
+{"eye_disease": 265, "disease_name": "Nodular episcleritis"}
+{"eye_disease": 266, "disease_name": "Anterior non-necrotizing scleritis"}
+{"eye_disease": 267, "disease_name": "Anterior necrotizing scleritis with inflammation"}
+{"eye_disease": 268, "disease_name": "Posterior scleritis"}
+{"eye_disease": 269, "disease_name": "Scleromalacia perforans"}
+{"eye_disease": 270, "disease_name": "Blue sclera in osteogenesis imperfecta"}
+{"eye_disease": 271, "disease_name": "Pingueculitis"}
+{"eye_disease": 272, "disease_name": "Conjunctival concretions"}
+{"eye_disease": 273, "disease_name": "Chronic follicular conjunctivitis"}
+{"eye_disease": 274, "disease_name": "Chronic papillary conjunctivitis"}
+{"eye_disease": 275, "disease_name": "Conjunctival cicatrization in ocular cicatricial pemphigoid"}
+{"eye_disease": 276, "disease_name": "Symblepharon due to ocular cicatricial pemphigoid"}
+{"eye_disease": 277, "disease_name": "Stevens-Johnson syndrome ocular surface disease"}
+{"eye_disease": 278, "disease_name": "Toxic epidermal necrolysis ocular surface disease"}
+{"eye_disease": 279, "disease_name": "Ocular rosacea with blepharitis"}
+{"eye_disease": 280, "disease_name": "Staphylococcal anterior blepharitis"}
+{"eye_disease": 281, "disease_name": "Seborrheic anterior blepharitis"}
+{"eye_disease": 282, "disease_name": "Posterior blepharitis due to meibomian gland dysfunction"}
+{"eye_disease": 283, "disease_name": "Hordeolum externum"}
+{"eye_disease": 284, "disease_name": "Hordeolum internum"}
+{"eye_disease": 285, "disease_name": "Chalazion"}
+{"eye_disease": 286, "disease_name": "Preseptal cellulitis"}
+{"eye_disease": 287, "disease_name": "Orbital cellulitis"}
+{"eye_disease": 288, "disease_name": "Acute dacryocystitis"}
+{"eye_disease": 289, "disease_name": "Chronic dacryocystitis"}
+{"eye_disease": 290, "disease_name": "Canaliculitis due to Actinomyces"}
+{"eye_disease": 291, "disease_name": "Congenital nasolacrimal duct obstruction"}
+{"eye_disease": 292, "disease_name": "Acquired nasolacrimal duct obstruction"}
+{"eye_disease": 293, "disease_name": "Punctal stenosis"}
+{"eye_disease": 294, "disease_name": "Acute dacryoadenitis"}
+{"eye_disease": 295, "disease_name": "Chronic dacryoadenitis"}
+{"eye_disease": 296, "disease_name": "Thyroid eye disease (Graves ophthalmopathy)"}
+{"eye_disease": 297, "disease_name": "Orbital inflammatory pseudotumor"}
+{"eye_disease": 298, "disease_name": "Idiopathic orbital myositis"}
+{"eye_disease": 299, "disease_name": "Orbital varix"}
+{"eye_disease": 300, "disease_name": "Carotid-cavernous fistula with orbital congestion"}
+{"eye_disease": 301, "disease_name": "Nuclear age-related cataract"}
+{"eye_disease": 302, "disease_name": "Cortical age-related cataract"}
+{"eye_disease": 303, "disease_name": "Posterior subcapsular cataract"}
+{"eye_disease": 304, "disease_name": "Hypermature cataract"}
+{"eye_disease": 305, "disease_name": "Congenital nuclear cataract"}
+{"eye_disease": 306, "disease_name": "Congenital lamellar cataract"}
+{"eye_disease": 307, "disease_name": "Congenital posterior polar cataract"}
+{"eye_disease": 308, "disease_name": "Traumatic cataract"}
+{"eye_disease": 309, "disease_name": "Radiation-induced cataract"}
+{"eye_disease": 310, "disease_name": "Steroid-induced cataract"}
+{"eye_disease": 311, "disease_name": "Diabetic cataract"}
+{"eye_disease": 312, "disease_name": "Myotonic dystrophy–associated cataract"}
+{"eye_disease": 313, "disease_name": "Uveitic cataract"}
+{"eye_disease": 314, "disease_name": "Pseudoexfoliation-associated cataract"}
+{"eye_disease": 315, "disease_name": "Lenticonus in Alport syndrome"}
+{"eye_disease": 316, "disease_name": "Microspherophakia"}
+{"eye_disease": 317, "disease_name": "Ectopia lentis in Marfan syndrome"}
+{"eye_disease": 318, "disease_name": "Ectopia lentis in homocystinuria"}
+{"eye_disease": 319, "disease_name": "Isolated ectopia lentis"}
+{"eye_disease": 320, "disease_name": "Aphakia"}
+{"eye_disease": 321, "disease_name": "Pseudophakia with posterior capsule opacification"}
+{"eye_disease": 322, "disease_name": "Anterior capsular phimosis after cataract surgery"}
+{"eye_disease": 323, "disease_name": "Intraocular lens dislocation"}
+{"eye_disease": 324, "disease_name": "Phacodonesis"}
+{"eye_disease": 325, "disease_name": "Phacoantigenic uveitis"}
+{"eye_disease": 326, "disease_name": "Zonular cataract"}
+{"eye_disease": 327, "disease_name": "Posterior lenticonus"}
+{"eye_disease": 328, "disease_name": "Persistent fetal vasculature with cataract"}
+{"eye_disease": 329, "disease_name": "Posterior capsule rupture with vitreous prolapse"}
+{"eye_disease": 330, "disease_name": "Vitreous hemorrhage"}
+{"eye_disease": 331, "disease_name": "Symptomatic vitreous detachment"}
+{"eye_disease": 332, "disease_name": "Vitreomacular traction syndrome"}
+{"eye_disease": 333, "disease_name": "Asteroid hyalosis"}
+{"eye_disease": 334, "disease_name": "Synchysis scintillans"}
+{"eye_disease": 335, "disease_name": "Postoperative bacterial endophthalmitis"}
+{"eye_disease": 336, "disease_name": "Endogenous bacterial endophthalmitis"}
+{"eye_disease": 337, "disease_name": "Fungal endophthalmitis"}
+{"eye_disease": 338, "disease_name": "Phthisis bulbi"}
+{"eye_disease": 339, "disease_name": "Ocular hypotony due to cyclodialysis cleft"}
+{"eye_disease": 340, "disease_name": "Ocular hypertension after intravitreal steroid injection"}
+{"eye_disease": 341, "disease_name": "Toxic anterior segment syndrome"}
+{"eye_disease": 342, "disease_name": "Toxic posterior segment syndrome"}
+{"eye_disease": 343, "disease_name": "Silicone oil–induced keratopathy"}
+{"eye_disease": 344, "disease_name": "Lens-induced uveitis"}
+{"eye_disease": 345, "disease_name": "Soemmering ring cataract"}
+{"eye_disease": 346, "disease_name": "Capsular bag distension syndrome"}
+{"eye_disease": 347, "disease_name": "Dislocated crystalline lens into vitreous cavity"}
+{"eye_disease": 348, "disease_name": "Dislocated intraocular lens into vitreous cavity"}
+{"eye_disease": 349, "disease_name": "Retained lens fragments in vitreous cavity"}
+{"eye_disease": 350, "disease_name": "Anterior polar cataract"}
+{"eye_disease": 351, "disease_name": "Posterior polar cataract of adulthood"}
+{"eye_disease": 352, "disease_name": "Pseudoexfoliation syndrome with cataract"}
+{"eye_disease": 353, "disease_name": "Recurrent uveitic cataract in juvenile idiopathic arthritis"}
+{"eye_disease": 354, "disease_name": "Aphakic open-angle glaucoma"}
+{"eye_disease": 355, "disease_name": "Secondary angle-closure due to intumescent cataract"}
+{"eye_disease": 356, "disease_name": "Iris bombe due to posterior synechiae"}
+{"eye_disease": 357, "disease_name": "Pupillary block due to anterior chamber intraocular lens"}
+{"eye_disease": 358, "disease_name": "Radiation cataract after ocular brachytherapy"}
+{"eye_disease": 359, "disease_name": "Traumatic lens subluxation"}
+{"eye_disease": 360, "disease_name": "Traumatic lens dislocation"}
+{"eye_disease": 361, "disease_name": "Optic neuritis associated with multiple sclerosis"}
+{"eye_disease": 362, "disease_name": "Neuromyelitis optica–associated optic neuritis"}
+{"eye_disease": 363, "disease_name": "Non-arteritic anterior ischemic optic neuropathy"}
+{"eye_disease": 364, "disease_name": "Arteritic anterior ischemic optic neuropathy"}
+{"eye_disease": 365, "disease_name": "Compressive optic neuropathy due to pituitary adenoma"}
+{"eye_disease": 366, "disease_name": "Compressive optic neuropathy due to meningioma"}
+{"eye_disease": 367, "disease_name": "Optic nerve glioma"}
+{"eye_disease": 368, "disease_name": "Optic nerve sheath meningioma"}
+{"eye_disease": 369, "disease_name": "Papilledema due to idiopathic intracranial hypertension"}
+{"eye_disease": 370, "disease_name": "Papilledema due to cerebral venous sinus thrombosis"}
+{"eye_disease": 371, "disease_name": "Toxic optic neuropathy due to methanol poisoning"}
+{"eye_disease": 372, "disease_name": "Toxic optic neuropathy due to ethambutol"}
+{"eye_disease": 373, "disease_name": "Nutritional optic neuropathy due to vitamin B12 deficiency"}
+{"eye_disease": 374, "disease_name": "Leber hereditary optic neuropathy"}
+{"eye_disease": 375, "disease_name": "Dominant optic atrophy (Kjer type)"}
+{"eye_disease": 376, "disease_name": "Optic nerve hypoplasia"}
+{"eye_disease": 377, "disease_name": "Morning glory optic disc anomaly"}
+{"eye_disease": 378, "disease_name": "Optic disc coloboma"}
+{"eye_disease": 379, "disease_name": "Optic pit maculopathy"}
+{"eye_disease": 380, "disease_name": "Anterior ischemic optic neuropathy in giant cell arteritis"}
+{"eye_disease": 381, "disease_name": "Posterior ischemic optic neuropathy"}
+{"eye_disease": 382, "disease_name": "Traumatic optic neuropathy"}
+{"eye_disease": 383, "disease_name": "Optic perineuritis"}
+{"eye_disease": 384, "disease_name": "Optic nerve drusen"}
+{"eye_disease": 385, "disease_name": "Pseudopapilledema due to optic disc drusen"}
+{"eye_disease": 386, "disease_name": "Optochiasmal arachnoiditis"}
+{"eye_disease": 387, "disease_name": "Chiasmal syndrome due to craniopharyngioma"}
+{"eye_disease": 388, "disease_name": "Homonymous hemianopia due to occipital lobe infarction"}
+{"eye_disease": 389, "disease_name": "Bitemporal hemianopia due to chiasmal compression"}
+{"eye_disease": 390, "disease_name": "Paracentral scotoma due to optic neuritis"}
+{"eye_disease": 391, "disease_name": "Internuclear ophthalmoplegia due to multiple sclerosis"}
+{"eye_disease": 392, "disease_name": "Ischemic third nerve palsy"}
+{"eye_disease": 393, "disease_name": "Congenital fourth nerve palsy"}
+{"eye_disease": 394, "disease_name": "Sixth nerve palsy due to raised intracranial pressure"}
+{"eye_disease": 395, "disease_name": "Aberrant regeneration of third cranial nerve"}
+{"eye_disease": 396, "disease_name": "Ocular myasthenia gravis"}
+{"eye_disease": 397, "disease_name": "Thyroid eye disease with compressive optic neuropathy"}
+{"eye_disease": 398, "disease_name": "Chronic progressive external ophthalmoplegia"}
+{"eye_disease": 399, "disease_name": "Supranuclear gaze palsy in progressive supranuclear palsy"}
+{"eye_disease": 400, "disease_name": "Cerebellar downbeat nystagmus"}
+{"eye_disease": 401, "disease_name": "Congenital nystagmus"}
+{"eye_disease": 402, "disease_name": "Upbeat nystagmus"}
+{"eye_disease": 403, "disease_name": "See-saw nystagmus"}
+{"eye_disease": 404, "disease_name": "Ocular flutter"}
+{"eye_disease": 405, "disease_name": "Opsoclonus-myoclonus syndrome"}
+{"eye_disease": 406, "disease_name": "Skew deviation due to brainstem lesion"}
+{"eye_disease": 407, "disease_name": "Ocular neuromyotonia"}
+{"eye_disease": 408, "disease_name": "Convergence spasm"}
+{"eye_disease": 409, "disease_name": "Oculomotor apraxia"}
+{"eye_disease": 410, "disease_name": "Parinaud dorsal midbrain syndrome"}
+{"eye_disease": 411, "disease_name": "Infantile esotropia"}
+{"eye_disease": 412, "disease_name": "Accommodative esotropia"}
+{"eye_disease": 413, "disease_name": "Partially accommodative esotropia"}
+{"eye_disease": 414, "disease_name": "Intermittent esotropia"}
+{"eye_disease": 415, "disease_name": "Intermittent distance exotropia"}
+{"eye_disease": 416, "disease_name": "Constant exotropia"}
+{"eye_disease": 417, "disease_name": "Infantile exotropia"}
+{"eye_disease": 418, "disease_name": "Vertical strabismus due to superior oblique palsy"}
+{"eye_disease": 419, "disease_name": "Vertical strabismus due to inferior oblique overaction"}
+{"eye_disease": 420, "disease_name": "Dissociated vertical deviation"}
+{"eye_disease": 421, "disease_name": "Sensory esotropia"}
+{"eye_disease": 422, "disease_name": "Sensory exotropia"}
+{"eye_disease": 423, "disease_name": "Duane retraction syndrome type 1"}
+{"eye_disease": 424, "disease_name": "Duane retraction syndrome type 2"}
+{"eye_disease": 425, "disease_name": "Duane retraction syndrome type 3"}
+{"eye_disease": 426, "disease_name": "Brown superior oblique tendon sheath syndrome"}
+{"eye_disease": 427, "disease_name": "Möbius syndrome ocular motility disorder"}
+{"eye_disease": 428, "disease_name": "Convergence insufficiency"}
+{"eye_disease": 429, "disease_name": "Divergence insufficiency"}
+{"eye_disease": 430, "disease_name": "Amblyopia due to strabismus"}
+{"eye_disease": 431, "disease_name": "Amblyopia due to anisometropia"}
+{"eye_disease": 432, "disease_name": "Amblyopia due to visual deprivation"}
+{"eye_disease": 433, "disease_name": "Meridional amblyopia"}
+{"eye_disease": 434, "disease_name": "Suppression scotoma in strabismic amblyopia"}
+{"eye_disease": 435, "disease_name": "Microtropia with identity"}
+{"eye_disease": 436, "disease_name": "Ocular torticollis due to vertical strabismus"}
+{"eye_disease": 437, "disease_name": "Nystagmus blockage syndrome"}
+{"eye_disease": 438, "disease_name": "Accommodative insufficiency"}
+{"eye_disease": 439, "disease_name": "Accommodative excess"}
+{"eye_disease": 440, "disease_name": "Spasm of accommodation"}
+{"eye_disease": 441, "disease_name": "Low myopia"}
+{"eye_disease": 442, "disease_name": "High pathological myopia"}
+{"eye_disease": 443, "disease_name": "Hyperopia"}
+{"eye_disease": 444, "disease_name": "With-the-rule astigmatism"}
+{"eye_disease": 445, "disease_name": "Against-the-rule astigmatism"}
+{"eye_disease": 446, "disease_name": "Irregular astigmatism after corneal scarring"}
+{"eye_disease": 447, "disease_name": "Anisometropia"}
+{"eye_disease": 448, "disease_name": "Aniseikonia"}
+{"eye_disease": 449, "disease_name": "Presbyopia"}
+{"eye_disease": 450, "disease_name": "Accommodative esotropia with high AC/A ratio"}
+{"eye_disease": 451, "disease_name": "Intermittent exotropia with convergence insufficiency pattern"}
+{"eye_disease": 452, "disease_name": "Intermittent exotropia with divergence excess pattern"}
+{"eye_disease": 453, "disease_name": "Latent nystagmus"}
+{"eye_disease": 454, "disease_name": "Fusion maldevelopment nystagmus syndrome"}
+{"eye_disease": 455, "disease_name": "Congenital fibrosis of extraocular muscles"}
+{"eye_disease": 456, "disease_name": "Congenital ptosis with amblyopia risk"}
+{"eye_disease": 457, "disease_name": "Ocular albinism with foveal hypoplasia"}
+{"eye_disease": 458, "disease_name": "Aniridia-associated foveal hypoplasia"}
+{"eye_disease": 459, "disease_name": "Congenital cataract with nystagmus"}
+{"eye_disease": 460, "disease_name": "Retinopathy of prematurity with strabismus"}
+{"eye_disease": 461, "disease_name": "Infantile nystagmus syndrome"}
+{"eye_disease": 462, "disease_name": "Accommodative spasm causing pseudomyopia"}
+{"eye_disease": 463, "disease_name": "Esotropia associated with Down syndrome"}
+{"eye_disease": 464, "disease_name": "Exotropia associated with cerebral palsy"}
+{"eye_disease": 465, "disease_name": "Refractive amblyopia due to high isoametropia"}
+{"eye_disease": 466, "disease_name": "Intermittent exotropia with V pattern"}
+{"eye_disease": 467, "disease_name": "Intermittent exotropia with A pattern"}
+{"eye_disease": 468, "disease_name": "Esotropia with V pattern"}
+{"eye_disease": 469, "disease_name": "Esotropia with A pattern"}
+{"eye_disease": 470, "disease_name": "Dissociated horizontal deviation"}
+{"eye_disease": 471, "disease_name": "Sensory nystagmus due to unilateral vision loss"}
+{"eye_disease": 472, "disease_name": "Monofixation syndrome"}
+{"eye_disease": 473, "disease_name": "Cyclotropia due to oblique muscle palsy"}
+{"eye_disease": 474, "disease_name": "Acute acquired comitant esotropia"}
+{"eye_disease": 475, "disease_name": "Acute acquired concomitant exotropia"}
+{"eye_disease": 476, "disease_name": "Skew deviation with torsional component"}
+{"eye_disease": 477, "disease_name": "Esotropia with convergence excess"}
+{"eye_disease": 478, "disease_name": "Intermittent exotropia with dissociated vertical deviation"}
+{"eye_disease": 479, "disease_name": "Vertical strabismus after orbital fracture"}
+{"eye_disease": 480, "disease_name": "Strabismus associated with craniosynostosis"}
+{"eye_disease": 481, "disease_name": "Basal cell carcinoma of lower eyelid"}
+{"eye_disease": 482, "disease_name": "Basal cell carcinoma of upper eyelid"}
+{"eye_disease": 483, "disease_name": "Squamous cell carcinoma of eyelid"}
+{"eye_disease": 484, "disease_name": "Sebaceous carcinoma of eyelid"}
+{"eye_disease": 485, "disease_name": "Merkel cell carcinoma of eyelid"}
+{"eye_disease": 486, "disease_name": "Melanoma of eyelid"}
+{"eye_disease": 487, "disease_name": "Kaposi sarcoma of conjunctiva and eyelid"}
+{"eye_disease": 488, "disease_name": "Benign eyelid nevus with lash distortion"}
+{"eye_disease": 489, "disease_name": "Dermatochalasis causing visual field defect"}
+{"eye_disease": 490, "disease_name": "Floppy eyelid syndrome"}
+{"eye_disease": 491, "disease_name": "Involutional entropion"}
+{"eye_disease": 492, "disease_name": "Cicatricial entropion"}
+{"eye_disease": 493, "disease_name": "Involutional ectropion"}
+{"eye_disease": 494, "disease_name": "Cicatricial ectropion"}
+{"eye_disease": 495, "disease_name": "Epiblepharon"}
+{"eye_disease": 496, "disease_name": "Trichiasis"}
+{"eye_disease": 497, "disease_name": "Congenital distichiasis"}
+{"eye_disease": 498, "disease_name": "Acquired distichiasis"}
+{"eye_disease": 499, "disease_name": "Lagophthalmos due to facial nerve palsy"}
+{"eye_disease": 500, "disease_name": "Blepharophimosis ptosis epicanthus inversus syndrome"}
+{"eye_disease": 501, "disease_name": "Unilateral congenital ptosis"}
+{"eye_disease": 502, "disease_name": "Bilateral congenital ptosis"}
+{"eye_disease": 503, "disease_name": "Mechanical ptosis due to eyelid mass"}
+{"eye_disease": 504, "disease_name": "Myogenic ptosis due to chronic progressive external ophthalmoplegia"}
+{"eye_disease": 505, "disease_name": "Aponeurotic ptosis"}
+{"eye_disease": 506, "disease_name": "Orbital dermoid cyst"}
+{"eye_disease": 507, "disease_name": "Cavernous hemangioma of orbit"}
+{"eye_disease": 508, "disease_name": "Lymphangioma of orbit"}
+{"eye_disease": 509, "disease_name": "Orbital lymphoma"}
+{"eye_disease": 510, "disease_name": "Metastatic orbital tumor"}
+{"eye_disease": 511, "disease_name": "Orbital rhabdomyosarcoma"}
+{"eye_disease": 512, "disease_name": "Orbital mucormycosis"}
+{"eye_disease": 513, "disease_name": "Orbital aspergillosis"}
+{"eye_disease": 514, "disease_name": "Direct carotid-cavernous fistula with proptosis"}
+{"eye_disease": 515, "disease_name": "Dural carotid-cavernous fistula with proptosis"}
+{"eye_disease": 516, "disease_name": "Idiopathic orbital inflammation with myositis"}
+{"eye_disease": 517, "disease_name": "Idiopathic orbital inflammation with dacryoadenitis"}
+{"eye_disease": 518, "disease_name": "Thyroid eye disease with restrictive myopathy"}
+{"eye_disease": 519, "disease_name": "Thyroid eye disease with exposure keratopathy"}
+{"eye_disease": 520, "disease_name": "Thyroid eye disease with corneal ulceration"}
+{"eye_disease": 521, "disease_name": "Chronic dacryocystitis with dacryolith"}
+{"eye_disease": 522, "disease_name": "Congenital dacryocystocele"}
+{"eye_disease": 523, "disease_name": "Primary acquired nasolacrimal duct obstruction"}
+{"eye_disease": 524, "disease_name": "Secondary acquired nasolacrimal duct obstruction after trauma"}
+{"eye_disease": 525, "disease_name": "Lacrimal gland pleomorphic adenoma"}
+{"eye_disease": 526, "disease_name": "Lacrimal gland adenoid cystic carcinoma"}
+{"eye_disease": 527, "disease_name": "Canalicular stenosis after topical medication"}
+{"eye_disease": 528, "disease_name": "Punctal ectropion"}
+{"eye_disease": 529, "disease_name": "Punctal occlusion due to scarring"}
+{"eye_disease": 530, "disease_name": "Reflex tear hypersecretion due to dry eye disease"}
+{"eye_disease": 531, "disease_name": "Cicatricial entropion due to ocular cicatricial pemphigoid"}
+{"eye_disease": 532, "disease_name": "Traumatic aniridia after blunt ocular trauma"}
+{"eye_disease": 533, "disease_name": "Traumatic iridodialysis"}
+{"eye_disease": 534, "disease_name": "Cyclodialysis cleft with ocular hypotony"}
+{"eye_disease": 535, "disease_name": "Siderosis bulbi"}
+{"eye_disease": 536, "disease_name": "Chalcosis of the eye"}
+{"eye_disease": 537, "disease_name": "Radiotherapy-induced dry eye"}
+{"eye_disease": 538, "disease_name": "Chronic graft-versus-host disease–related ocular surface disease"}
+{"eye_disease": 539, "disease_name": "Ocular surface squamous neoplasia"}
+{"eye_disease": 540, "disease_name": "Limbal stem cell deficiency, unilateral"}
+{"eye_disease": 541, "disease_name": "Acute anterior uveitis, HLA-B27 associated"}
+{"eye_disease": 542, "disease_name": "Chronic anterior uveitis in juvenile idiopathic arthritis"}
+{"eye_disease": 543, "disease_name": "Intermediate uveitis"}
+{"eye_disease": 544, "disease_name": "Pars planitis"}
+{"eye_disease": 545, "disease_name": "Posterior uveitis due to toxoplasmosis"}
+{"eye_disease": 546, "disease_name": "Posterior uveitis due to sarcoidosis"}
+{"eye_disease": 547, "disease_name": "Posterior uveitis due to cytomegalovirus"}
+{"eye_disease": 548, "disease_name": "Panuveitis in Behcet disease"}
+{"eye_disease": 549, "disease_name": "Panuveitis in Vogt-Koyanagi-Harada disease"}
+{"eye_disease": 550, "disease_name": "Sympathetic ophthalmia–associated panuveitis"}
+{"eye_disease": 551, "disease_name": "Acute retinal necrosis"}
+{"eye_disease": 552, "disease_name": "Progressive outer retinal necrosis in AIDS"}
+{"eye_disease": 553, "disease_name": "Cytomegalovirus retinitis in AIDS"}
+{"eye_disease": 554, "disease_name": "Ocular toxocariasis"}
+{"eye_disease": 555, "disease_name": "Ocular histoplasmosis syndrome"}
+{"eye_disease": 556, "disease_name": "Birdshot chorioretinopathy with HLA-A29 association"}
+{"eye_disease": 557, "disease_name": "Serpiginous-like choroiditis associated with tuberculosis"}
+{"eye_disease": 558, "disease_name": "Tuberculous choroiditis"}
+{"eye_disease": 559, "disease_name": "Syphilitic posterior uveitis"}
+{"eye_disease": 560, "disease_name": "Fuchs heterochromic iridocyclitis"}
+{"eye_disease": 561, "disease_name": "Herpes simplex anterior uveitis"}
+{"eye_disease": 562, "disease_name": "Herpes zoster anterior uveitis"}
+{"eye_disease": 563, "disease_name": "Lens-induced granulomatous uveitis"}
+{"eye_disease": 564, "disease_name": "Sarcoid granulomatous anterior uveitis"}
+{"eye_disease": 565, "disease_name": "Tubulointerstitial nephritis and uveitis syndrome"}
+{"eye_disease": 566, "disease_name": "Masquerade syndrome due to intraocular lymphoma"}
+{"eye_disease": 567, "disease_name": "Primary vitreoretinal lymphoma"}
+{"eye_disease": 568, "disease_name": "Intraocular leukemic infiltration"}
+{"eye_disease": 569, "disease_name": "Endogenous endophthalmitis due to Candida"}
+{"eye_disease": 570, "disease_name": "Endogenous endophthalmitis due to Klebsiella"}
+{"eye_disease": 571, "disease_name": "Exogenous bacterial endophthalmitis after filtering surgery"}
+{"eye_disease": 572, "disease_name": "Scleritis associated with rheumatoid arthritis"}
+{"eye_disease": 573, "disease_name": "Scleritis associated with granulomatosis with polyangiitis"}
+{"eye_disease": 574, "disease_name": "Episcleritis associated with inflammatory bowel disease"}
+{"eye_disease": 575, "disease_name": "Peripheral ulcerative keratitis in granulomatosis with polyangiitis"}
+{"eye_disease": 576, "disease_name": "Neurotrophic keratitis after herpes zoster ophthalmicus"}
+{"eye_disease": 577, "disease_name": "Herpetic anterior uveitis with sectoral iris atrophy"}
+{"eye_disease": 578, "disease_name": "Necrotizing scleritis with impending perforation"}
+{"eye_disease": 579, "disease_name": "Anterior uveitis in ankylosing spondylitis"}
+{"eye_disease": 580, "disease_name": "Uveitis in reactive arthritis"}
+{"eye_disease": 581, "disease_name": "Uveitis in psoriatic arthritis"}
+{"eye_disease": 582, "disease_name": "Uveitis in inflammatory bowel disease"}
+{"eye_disease": 583, "disease_name": "Chronic anterior uveitis in sarcoidosis"}
+{"eye_disease": 584, "disease_name": "Hypertensive uveitis syndrome"}
+{"eye_disease": 585, "disease_name": "Hypotony maculopathy after uveitis"}
+{"eye_disease": 586, "disease_name": "Cyclitic membrane formation after chronic uveitis"}
+{"eye_disease": 587, "disease_name": "Chronic cystoid macular edema due to uveitis"}
+{"eye_disease": 588, "disease_name": "Retinal vasculitis in Behcet disease"}
+{"eye_disease": 589, "disease_name": "Retinal vasculitis in systemic lupus erythematosus"}
+{"eye_disease": 590, "disease_name": "Retinal vasculitis in granulomatosis with polyangiitis"}
+{"eye_disease": 591, "disease_name": "Ischemic retinopathy in antiphospholipid syndrome"}
+{"eye_disease": 592, "disease_name": "Chorioretinitis in toxoplasmosis"}
+{"eye_disease": 593, "disease_name": "Chorioretinitis in toxocariasis"}
+{"eye_disease": 594, "disease_name": "Chorioretinitis in cytomegalovirus infection"}
+{"eye_disease": 595, "disease_name": "Chorioretinal scar after toxoplasmosis"}
+{"eye_disease": 596, "disease_name": "Choroidal granuloma in sarcoidosis"}
+{"eye_disease": 597, "disease_name": "Choroidal metastasis from breast carcinoma"}
+{"eye_disease": 598, "disease_name": "Choroidal metastasis from lung carcinoma"}
+{"eye_disease": 599, "disease_name": "Central serous chorioretinopathy associated with corticosteroid therapy"}
+{"eye_disease": 600, "disease_name": "Pachychoroid neovasculopathy"}

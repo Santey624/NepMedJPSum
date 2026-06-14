@@ -1,0 +1,592 @@
+{"cardiovascular_disease": 1, "disease_name": "Stable angina pectoris due to coronary artery disease"}
+{"cardiovascular_disease": 2, "disease_name": "Unstable angina pectoris"}
+{"cardiovascular_disease": 3, "disease_name": "Silent myocardial ischemia"}
+{"cardiovascular_disease": 4, "disease_name": "Acute ST-elevation myocardial infarction"}
+{"cardiovascular_disease": 5, "disease_name": "Acute non-ST-elevation myocardial infarction"}
+{"cardiovascular_disease": 6, "disease_name": "Recurrent myocardial infarction"}
+{"cardiovascular_disease": 7, "disease_name": "Chronic ischemic cardiomyopathy"}
+{"cardiovascular_disease": 8, "disease_name": "Ischemic cardiomyopathy due to multivessel coronary disease"}
+{"cardiovascular_disease": 9, "disease_name": "Coronary microvascular dysfunction"}
+{"cardiovascular_disease": 10, "disease_name": "Coronary artery spasm"}
+{"cardiovascular_disease": 11, "disease_name": "Prinzmetal variant angina"}
+{"cardiovascular_disease": 12, "disease_name": "Spontaneous coronary artery dissection"}
+{"cardiovascular_disease": 13, "disease_name": "Coronary artery aneurysm"}
+{"cardiovascular_disease": 14, "disease_name": "Atherosclerotic heart disease of native coronary artery"}
+{"cardiovascular_disease": 15, "disease_name": "In-stent restenosis of coronary artery"}
+{"cardiovascular_disease": 16, "disease_name": "Coronary embolism"}
+{"cardiovascular_disease": 17, "disease_name": "Thrombosis of coronary artery without myocardial infarction"}
+{"cardiovascular_disease": 18, "disease_name": "Myocardial bridging of left anterior descending coronary artery"}
+{"cardiovascular_disease": 19, "disease_name": "Myocardial bridging of right coronary artery"}
+{"cardiovascular_disease": 20, "disease_name": "Single coronary artery anomaly"}
+{"cardiovascular_disease": 21, "disease_name": "Anomalous origin of left coronary artery from pulmonary artery"}
+{"cardiovascular_disease": 22, "disease_name": "Anomalous origin of right coronary artery from pulmonary artery"}
+{"cardiovascular_disease": 23, "disease_name": "Anomalous aortic origin of right coronary artery from left sinus of Valsalva"}
+{"cardiovascular_disease": 24, "disease_name": "Anomalous aortic origin of left coronary artery from right sinus of Valsalva"}
+{"cardiovascular_disease": 25, "disease_name": "Coronary arteriovenous fistula"}
+{"cardiovascular_disease": 26, "disease_name": "Post-infarction left ventricular aneurysm"}
+{"cardiovascular_disease": 27, "disease_name": "Post-infarction ventricular septal rupture"}
+{"cardiovascular_disease": 28, "disease_name": "Post-infarction papillary muscle rupture"}
+{"cardiovascular_disease": 29, "disease_name": "Dressler post-myocardial infarction syndrome"}
+{"cardiovascular_disease": 30, "disease_name": "Ischemic mitral regurgitation after myocardial infarction"}
+{"cardiovascular_disease": 31, "disease_name": "Ischemic cardiomyopathy with left ventricular aneurysm"}
+{"cardiovascular_disease": 32, "disease_name": "Microvascular angina"}
+{"cardiovascular_disease": 33, "disease_name": "Coronary vasospastic angina"}
+{"cardiovascular_disease": 34, "disease_name": "Acute coronary thrombosis in stented segment"}
+{"cardiovascular_disease": 35, "disease_name": "Acute coronary thrombosis in native coronary artery"}
+{"cardiovascular_disease": 36, "disease_name": "Coronary artery ectasia"}
+{"cardiovascular_disease": 37, "disease_name": "Paroxysmal atrial fibrillation"}
+{"cardiovascular_disease": 38, "disease_name": "Persistent atrial fibrillation"}
+{"cardiovascular_disease": 39, "disease_name": "Long-standing persistent atrial fibrillation"}
+{"cardiovascular_disease": 40, "disease_name": "Permanent atrial fibrillation"}
+{"cardiovascular_disease": 41, "disease_name": "Atrial fibrillation due to rheumatic mitral stenosis"}
+{"cardiovascular_disease": 42, "disease_name": "Atrial fibrillation due to thyrotoxicosis"}
+{"cardiovascular_disease": 43, "disease_name": "Familial atrial fibrillation"}
+{"cardiovascular_disease": 44, "disease_name": "Typical atrial flutter"}
+{"cardiovascular_disease": 45, "disease_name": "Atypical atrial flutter"}
+{"cardiovascular_disease": 46, "disease_name": "Focal atrial tachycardia"}
+{"cardiovascular_disease": 47, "disease_name": "Multifocal atrial tachycardia"}
+{"cardiovascular_disease": 48, "disease_name": "Atrioventricular nodal reentrant tachycardia"}
+{"cardiovascular_disease": 49, "disease_name": "Atrioventricular reentrant tachycardia using accessory pathway"}
+{"cardiovascular_disease": 50, "disease_name": "Orthodromic reciprocating supraventricular tachycardia"}
+{"cardiovascular_disease": 51, "disease_name": "Antidromic reciprocating supraventricular tachycardia"}
+{"cardiovascular_disease": 52, "disease_name": "Junctional ectopic tachycardia"}
+{"cardiovascular_disease": 53, "disease_name": "Permanent junctional reciprocating tachycardia"}
+{"cardiovascular_disease": 54, "disease_name": "Inappropriate sinus tachycardia"}
+{"cardiovascular_disease": 55, "disease_name": "Sinus node dysfunction"}
+{"cardiovascular_disease": 56, "disease_name": "Sinus bradycardia due to sinus node disease"}
+{"cardiovascular_disease": 57, "disease_name": "Sinoatrial exit block"}
+{"cardiovascular_disease": 58, "disease_name": "First-degree atrioventricular block"}
+{"cardiovascular_disease": 59, "disease_name": "Mobitz type I second-degree atrioventricular block"}
+{"cardiovascular_disease": 60, "disease_name": "Mobitz type II second-degree atrioventricular block"}
+{"cardiovascular_disease": 61, "disease_name": "Complete atrioventricular block"}
+{"cardiovascular_disease": 62, "disease_name": "Bifascicular block with intermittent complete heart block"}
+{"cardiovascular_disease": 63, "disease_name": "Trifascicular block"}
+{"cardiovascular_disease": 64, "disease_name": "Left bundle branch block"}
+{"cardiovascular_disease": 65, "disease_name": "Right bundle branch block"}
+{"cardiovascular_disease": 66, "disease_name": "Wolff-Parkinson-White syndrome"}
+{"cardiovascular_disease": 67, "disease_name": "Lown-Ganong-Levine syndrome"}
+{"cardiovascular_disease": 68, "disease_name": "Junctional escape rhythm"}
+{"cardiovascular_disease": 69, "disease_name": "Nonparoxysmal junctional tachycardia"}
+{"cardiovascular_disease": 70, "disease_name": "Idioventricular rhythm"}
+{"cardiovascular_disease": 71, "disease_name": "Accelerated idioventricular rhythm"}
+{"cardiovascular_disease": 72, "disease_name": "Non-sustained monomorphic ventricular tachycardia"}
+{"cardiovascular_disease": 73, "disease_name": "Sustained monomorphic ventricular tachycardia"}
+{"cardiovascular_disease": 74, "disease_name": "Polymorphic ventricular tachycardia"}
+{"cardiovascular_disease": 75, "disease_name": "Torsades de pointes"}
+{"cardiovascular_disease": 76, "disease_name": "Bidirectional ventricular tachycardia"}
+{"cardiovascular_disease": 77, "disease_name": "Ventricular fibrillation"}
+{"cardiovascular_disease": 78, "disease_name": "Premature atrial contractions"}
+{"cardiovascular_disease": 79, "disease_name": "Premature ventricular contractions"}
+{"cardiovascular_disease": 80, "disease_name": "Brugada syndrome"}
+{"cardiovascular_disease": 81, "disease_name": "Long QT syndrome type 1"}
+{"cardiovascular_disease": 82, "disease_name": "Long QT syndrome type 2"}
+{"cardiovascular_disease": 83, "disease_name": "Long QT syndrome type 3"}
+{"cardiovascular_disease": 84, "disease_name": "Short QT syndrome"}
+{"cardiovascular_disease": 85, "disease_name": "Catecholaminergic polymorphic ventricular tachycardia"}
+{"cardiovascular_disease": 86, "disease_name": "Early repolarization syndrome"}
+{"cardiovascular_disease": 87, "disease_name": "Familial progressive cardiac conduction disease"}
+{"cardiovascular_disease": 88, "disease_name": "Lenègre disease"}
+{"cardiovascular_disease": 89, "disease_name": "Lev disease"}
+{"cardiovascular_disease": 90, "disease_name": "Congenital complete heart block"}
+{"cardiovascular_disease": 91, "disease_name": "Atrial standstill"}
+{"cardiovascular_disease": 92, "disease_name": "Bundle branch reentrant ventricular tachycardia"}
+{"cardiovascular_disease": 93, "disease_name": "Idiopathic outflow tract ventricular tachycardia"}
+{"cardiovascular_disease": 94, "disease_name": "Atrial flutter with variable atrioventricular conduction"}
+{"cardiovascular_disease": 95, "disease_name": "Atrial fibrillation with rapid ventricular response"}
+{"cardiovascular_disease": 96, "disease_name": "Atrial fibrillation with slow ventricular response"}
+{"cardiovascular_disease": 97, "disease_name": "Dilated cardiomyopathy"}
+{"cardiovascular_disease": 98, "disease_name": "Familial dilated cardiomyopathy"}
+{"cardiovascular_disease": 99, "disease_name": "Idiopathic dilated cardiomyopathy"}
+{"cardiovascular_disease": 100, "disease_name": "Peripartum cardiomyopathy"}
+{"cardiovascular_disease": 101, "disease_name": "Ischemic dilated cardiomyopathy"}
+{"cardiovascular_disease": 102, "disease_name": "Alcoholic cardiomyopathy"}
+{"cardiovascular_disease": 103, "disease_name": "Diabetic cardiomyopathy"}
+{"cardiovascular_disease": 104, "disease_name": "Hypertensive cardiomyopathy"}
+{"cardiovascular_disease": 105, "disease_name": "Hypertrophic cardiomyopathy"}
+{"cardiovascular_disease": 106, "disease_name": "Obstructive hypertrophic cardiomyopathy"}
+{"cardiovascular_disease": 107, "disease_name": "Non-obstructive hypertrophic cardiomyopathy"}
+{"cardiovascular_disease": 108, "disease_name": "Apical hypertrophic cardiomyopathy"}
+{"cardiovascular_disease": 109, "disease_name": "Restrictive cardiomyopathy"}
+{"cardiovascular_disease": 110, "disease_name": "Endomyocardial fibrosis"}
+{"cardiovascular_disease": 111, "disease_name": "Endocardial fibroelastosis"}
+{"cardiovascular_disease": 112, "disease_name": "Arrhythmogenic right ventricular cardiomyopathy"}
+{"cardiovascular_disease": 113, "disease_name": "Left-dominant arrhythmogenic cardiomyopathy"}
+{"cardiovascular_disease": 114, "disease_name": "Noncompaction cardiomyopathy"}
+{"cardiovascular_disease": 115, "disease_name": "Takotsubo stress cardiomyopathy"}
+{"cardiovascular_disease": 116, "disease_name": "Mitochondrial cardiomyopathy"}
+{"cardiovascular_disease": 117, "disease_name": "Cardiomyopathy due to anthracycline chemotherapy"}
+{"cardiovascular_disease": 118, "disease_name": "Radiation-induced cardiomyopathy"}
+{"cardiovascular_disease": 119, "disease_name": "Cardiomyopathy due to Duchenne muscular dystrophy"}
+{"cardiovascular_disease": 120, "disease_name": "Cardiomyopathy due to Becker muscular dystrophy"}
+{"cardiovascular_disease": 121, "disease_name": "Lamin A/C cardiomyopathy"}
+{"cardiovascular_disease": 122, "disease_name": "Desmin-related cardiomyopathy"}
+{"cardiovascular_disease": 123, "disease_name": "Cardiomyopathy due to Emery-Dreifuss muscular dystrophy"}
+{"cardiovascular_disease": 124, "disease_name": "Cardiomyopathy due to myotonic dystrophy"}
+{"cardiovascular_disease": 125, "disease_name": "Cardiomyopathy due to Chagas disease"}
+{"cardiovascular_disease": 126, "disease_name": "Infiltrative cardiomyopathy due to cardiac amyloidosis"}
+{"cardiovascular_disease": 127, "disease_name": "Cardiac sarcoidosis with ventricular involvement"}
+{"cardiovascular_disease": 128, "disease_name": "Cardiac amyloidosis due to transthyretin mutation"}
+{"cardiovascular_disease": 129, "disease_name": "Light-chain cardiac amyloidosis"}
+{"cardiovascular_disease": 130, "disease_name": "Cardiac hemochromatosis"}
+{"cardiovascular_disease": 131, "disease_name": "Sickle cell cardiomyopathy"}
+{"cardiovascular_disease": 132, "disease_name": "Human immunodeficiency virus-associated cardiomyopathy"}
+{"cardiovascular_disease": 133, "disease_name": "Cardiac involvement in Fabry disease"}
+{"cardiovascular_disease": 134, "disease_name": "Cardiac involvement in Friedreich ataxia"}
+{"cardiovascular_disease": 135, "disease_name": "Right ventricular noncompaction cardiomyopathy"}
+{"cardiovascular_disease": 136, "disease_name": "Left ventricular noncompaction cardiomyopathy"}
+{"cardiovascular_disease": 137, "disease_name": "Heart failure with reduced ejection fraction"}
+{"cardiovascular_disease": 138, "disease_name": "Heart failure with mildly reduced ejection fraction"}
+{"cardiovascular_disease": 139, "disease_name": "Heart failure with preserved ejection fraction"}
+{"cardiovascular_disease": 140, "disease_name": "Acute decompensated heart failure"}
+{"cardiovascular_disease": 141, "disease_name": "Chronic right-sided heart failure"}
+{"cardiovascular_disease": 142, "disease_name": "Biventricular heart failure"}
+{"cardiovascular_disease": 143, "disease_name": "High-output heart failure"}
+{"cardiovascular_disease": 144, "disease_name": "Low-output heart failure"}
+{"cardiovascular_disease": 145, "disease_name": "Congestive heart failure with pulmonary edema"}
+{"cardiovascular_disease": 146, "disease_name": "Cardiorenal syndrome in chronic heart failure"}
+{"cardiovascular_disease": 147, "disease_name": "Severe aortic stenosis due to calcific degeneration"}
+{"cardiovascular_disease": 148, "disease_name": "Moderate aortic stenosis"}
+{"cardiovascular_disease": 149, "disease_name": "Congenital aortic stenosis"}
+{"cardiovascular_disease": 150, "disease_name": "Aortic regurgitation due to bicuspid aortic valve"}
+{"cardiovascular_disease": 151, "disease_name": "Chronic rheumatic aortic valve disease"}
+{"cardiovascular_disease": 152, "disease_name": "Aortic regurgitation due to aortic root dilation"}
+{"cardiovascular_disease": 153, "disease_name": "Aortic root dilation in Marfan syndrome"}
+{"cardiovascular_disease": 154, "disease_name": "Aortic root dilation in Loeys-Dietz syndrome"}
+{"cardiovascular_disease": 155, "disease_name": "Mitral valve prolapse with regurgitation"}
+{"cardiovascular_disease": 156, "disease_name": "Primary degenerative mitral regurgitation"}
+{"cardiovascular_disease": 157, "disease_name": "Functional secondary mitral regurgitation"}
+{"cardiovascular_disease": 158, "disease_name": "Ischemic functional mitral regurgitation after myocardial infarction"}
+{"cardiovascular_disease": 159, "disease_name": "Severe mitral stenosis due to rheumatic disease"}
+{"cardiovascular_disease": 160, "disease_name": "Mitral annular calcification with stenosis"}
+{"cardiovascular_disease": 161, "disease_name": "Mitral annular disjunction with mitral valve prolapse"}
+{"cardiovascular_disease": 162, "disease_name": "Papillary muscle rupture causing acute mitral regurgitation"}
+{"cardiovascular_disease": 163, "disease_name": "Chordae tendineae rupture causing mitral regurgitation"}
+{"cardiovascular_disease": 164, "disease_name": "Tricuspid regurgitation due to annular dilatation"}
+{"cardiovascular_disease": 165, "disease_name": "Degenerative tricuspid regurgitation"}
+{"cardiovascular_disease": 166, "disease_name": "Ebstein anomaly of tricuspid valve"}
+{"cardiovascular_disease": 167, "disease_name": "Tricuspid stenosis due to rheumatic disease"}
+{"cardiovascular_disease": 168, "disease_name": "Pulmonary valve stenosis"}
+{"cardiovascular_disease": 169, "disease_name": "Pulmonary valve regurgitation after tetralogy of Fallot repair"}
+{"cardiovascular_disease": 170, "disease_name": "Unicuspid aortic valve"}
+{"cardiovascular_disease": 171, "disease_name": "Quadricuspid aortic valve"}
+{"cardiovascular_disease": 172, "disease_name": "Prosthetic aortic valve thrombosis"}
+{"cardiovascular_disease": 173, "disease_name": "Prosthetic mitral valve dysfunction due to pannus formation"}
+{"cardiovascular_disease": 174, "disease_name": "Infective endocarditis of native mitral valve"}
+{"cardiovascular_disease": 175, "disease_name": "Infective endocarditis of prosthetic aortic valve"}
+{"cardiovascular_disease": 176, "disease_name": "Infective endocarditis of tricuspid valve in intravenous drug use"}
+{"cardiovascular_disease": 177, "disease_name": "Acute infective endocarditis due to Staphylococcus aureus"}
+{"cardiovascular_disease": 178, "disease_name": "Subacute infective endocarditis due to viridans streptococci"}
+{"cardiovascular_disease": 179, "disease_name": "Nonbacterial thrombotic endocarditis"}
+{"cardiovascular_disease": 180, "disease_name": "Libman-Sacks endocarditis"}
+{"cardiovascular_disease": 181, "disease_name": "Myxomatous degeneration of mitral valve"}
+{"cardiovascular_disease": 182, "disease_name": "Calcific degeneration of aortic valve"}
+{"cardiovascular_disease": 183, "disease_name": "Degenerative tricuspid valve disease"}
+{"cardiovascular_disease": 184, "disease_name": "Rheumatic mitral valve disease"}
+{"cardiovascular_disease": 185, "disease_name": "Rheumatic aortic valve disease"}
+{"cardiovascular_disease": 186, "disease_name": "Rheumatic tricuspid valve disease"}
+{"cardiovascular_disease": 187, "disease_name": "Acute idiopathic pericarditis"}
+{"cardiovascular_disease": 188, "disease_name": "Viral pericarditis"}
+{"cardiovascular_disease": 189, "disease_name": "Bacterial purulent pericarditis"}
+{"cardiovascular_disease": 190, "disease_name": "Tuberculous pericarditis"}
+{"cardiovascular_disease": 191, "disease_name": "Autoimmune pericarditis in systemic lupus erythematosus"}
+{"cardiovascular_disease": 192, "disease_name": "Radiation-induced pericarditis"}
+{"cardiovascular_disease": 193, "disease_name": "Post-cardiac injury pericarditis"}
+{"cardiovascular_disease": 194, "disease_name": "Constrictive pericarditis"}
+{"cardiovascular_disease": 195, "disease_name": "Effusive-constrictive pericarditis"}
+{"cardiovascular_disease": 196, "disease_name": "Cardiac tamponade due to pericardial effusion"}
+{"cardiovascular_disease": 197, "disease_name": "Hemopericardium due to aortic dissection"}
+{"cardiovascular_disease": 198, "disease_name": "Chronic idiopathic pericardial effusion"}
+{"cardiovascular_disease": 199, "disease_name": "Acute viral myocarditis"}
+{"cardiovascular_disease": 200, "disease_name": "Giant cell myocarditis"}
+{"cardiovascular_disease": 201, "disease_name": "Eosinophilic myocarditis"}
+{"cardiovascular_disease": 202, "disease_name": "Hypersensitivity myocarditis"}
+{"cardiovascular_disease": 203, "disease_name": "Fulminant myocarditis"}
+{"cardiovascular_disease": 204, "disease_name": "Myocardial abscess"}
+{"cardiovascular_disease": 205, "disease_name": "Post-viral dilated myocarditis"}
+{"cardiovascular_disease": 206, "disease_name": "Chronic active myocarditis"}
+{"cardiovascular_disease": 207, "disease_name": "Tetralogy of Fallot"}
+{"cardiovascular_disease": 208, "disease_name": "Pulmonary atresia with ventricular septal defect"}
+{"cardiovascular_disease": 209, "disease_name": "Pulmonary atresia with intact ventricular septum"}
+{"cardiovascular_disease": 210, "disease_name": "Transposition of the great arteries"}
+{"cardiovascular_disease": 211, "disease_name": "D-transposition of the great arteries"}
+{"cardiovascular_disease": 212, "disease_name": "L-transposition of the great arteries"}
+{"cardiovascular_disease": 213, "disease_name": "Truncus arteriosus"}
+{"cardiovascular_disease": 214, "disease_name": "Aortopulmonary window"}
+{"cardiovascular_disease": 215, "disease_name": "Total anomalous pulmonary venous connection"}
+{"cardiovascular_disease": 216, "disease_name": "Partial anomalous pulmonary venous connection"}
+{"cardiovascular_disease": 217, "disease_name": "Partial anomalous pulmonary venous connection to superior vena cava"}
+{"cardiovascular_disease": 218, "disease_name": "Partial anomalous pulmonary venous connection to right atrium"}
+{"cardiovascular_disease": 219, "disease_name": "Scimitar syndrome"}
+{"cardiovascular_disease": 220, "disease_name": "Hypoplastic left heart syndrome"}
+{"cardiovascular_disease": 221, "disease_name": "Hypoplastic right heart syndrome"}
+{"cardiovascular_disease": 222, "disease_name": "Double-outlet right ventricle"}
+{"cardiovascular_disease": 223, "disease_name": "Double-outlet left ventricle"}
+{"cardiovascular_disease": 224, "disease_name": "Double-inlet left ventricle"}
+{"cardiovascular_disease": 225, "disease_name": "Single ventricle physiology"}
+{"cardiovascular_disease": 226, "disease_name": "Atrioventricular septal defect"}
+{"cardiovascular_disease": 227, "disease_name": "Complete atrioventricular canal defect"}
+{"cardiovascular_disease": 228, "disease_name": "Partial atrioventricular canal defect"}
+{"cardiovascular_disease": 229, "disease_name": "Ostium secundum atrial septal defect"}
+{"cardiovascular_disease": 230, "disease_name": "Ostium primum atrial septal defect"}
+{"cardiovascular_disease": 231, "disease_name": "Sinus venosus atrial septal defect"}
+{"cardiovascular_disease": 232, "disease_name": "Coronary sinus atrial septal defect"}
+{"cardiovascular_disease": 233, "disease_name": "Ventricular septal defect, perimembranous"}
+{"cardiovascular_disease": 234, "disease_name": "Ventricular septal defect, muscular"}
+{"cardiovascular_disease": 235, "disease_name": "Ventricular septal defect, inlet"}
+{"cardiovascular_disease": 236, "disease_name": "Ventricular septal defect, outlet"}
+{"cardiovascular_disease": 237, "disease_name": "Patent ductus arteriosus"}
+{"cardiovascular_disease": 238, "disease_name": "Coarctation of the aorta"}
+{"cardiovascular_disease": 239, "disease_name": "Interrupted aortic arch"}
+{"cardiovascular_disease": 240, "disease_name": "Subaortic stenosis"}
+{"cardiovascular_disease": 241, "disease_name": "Supravalvular aortic stenosis"}
+{"cardiovascular_disease": 242, "disease_name": "Congenital pulmonary valve stenosis"}
+{"cardiovascular_disease": 243, "disease_name": "Congenital mitral stenosis"}
+{"cardiovascular_disease": 244, "disease_name": "Shone complex"}
+{"cardiovascular_disease": 245, "disease_name": "Cor triatriatum"}
+{"cardiovascular_disease": 246, "disease_name": "Persistent left superior vena cava draining to coronary sinus"}
+{"cardiovascular_disease": 247, "disease_name": "Sinus of Valsalva aneurysm with rupture into right ventricle"}
+{"cardiovascular_disease": 248, "disease_name": "Sinus of Valsalva aneurysm with rupture into right atrium"}
+{"cardiovascular_disease": 249, "disease_name": "Double-chambered right ventricle"}
+{"cardiovascular_disease": 250, "disease_name": "Malalignment ventricular septal defect with overriding aorta"}
+{"cardiovascular_disease": 251, "disease_name": "Common arterial trunk with interrupted aortic arch"}
+{"cardiovascular_disease": 252, "disease_name": "Unbalanced atrioventricular septal defect"}
+{"cardiovascular_disease": 253, "disease_name": "Congenitally corrected transposition of the great arteries"}
+{"cardiovascular_disease": 254, "disease_name": "Pulmonary atresia with major aortopulmonary collateral arteries"}
+{"cardiovascular_disease": 255, "disease_name": "Congenital ventricular diverticulum"}
+{"cardiovascular_disease": 256, "disease_name": "Ebstein anomaly of tricuspid valve with atrialized right ventricle"}
+{"cardiovascular_disease": 257, "disease_name": "Bicuspid aortic valve"}
+{"cardiovascular_disease": 258, "disease_name": "Partial anomalous pulmonary venous connection of right upper pulmonary vein"}
+{"cardiovascular_disease": 259, "disease_name": "Partial anomalous pulmonary venous connection of right lower pulmonary vein"}
+{"cardiovascular_disease": 260, "disease_name": "Partial anomalous pulmonary venous connection of left upper pulmonary vein"}
+{"cardiovascular_disease": 261, "disease_name": "Partial anomalous pulmonary venous connection of left lower pulmonary vein"}
+{"cardiovascular_disease": 262, "disease_name": "Coronary artery fistula to right atrium"}
+{"cardiovascular_disease": 263, "disease_name": "Coronary artery fistula to right ventricle"}
+{"cardiovascular_disease": 264, "disease_name": "Coronary artery fistula to pulmonary artery"}
+{"cardiovascular_disease": 265, "disease_name": "Ischemic stroke due to large artery atherosclerosis"}
+{"cardiovascular_disease": 266, "disease_name": "Ischemic stroke due to small vessel lipohyalinosis"}
+{"cardiovascular_disease": 267, "disease_name": "Cardioembolic ischemic stroke due to atrial fibrillation"}
+{"cardiovascular_disease": 268, "disease_name": "Lacunar infarction of internal capsule"}
+{"cardiovascular_disease": 269, "disease_name": "Watershed border-zone cerebral infarction"}
+{"cardiovascular_disease": 270, "disease_name": "Middle cerebral artery territory infarction"}
+{"cardiovascular_disease": 271, "disease_name": "Anterior cerebral artery territory infarction"}
+{"cardiovascular_disease": 272, "disease_name": "Posterior cerebral artery territory infarction"}
+{"cardiovascular_disease": 273, "disease_name": "Brainstem infarction due to basilar artery thrombosis"}
+{"cardiovascular_disease": 274, "disease_name": "Cerebellar infarction due to posterior inferior cerebellar artery occlusion"}
+{"cardiovascular_disease": 275, "disease_name": "Transient ischemic attack due to carotid stenosis"}
+{"cardiovascular_disease": 276, "disease_name": "Intracerebral hemorrhage due to hypertensive arteriopathy"}
+{"cardiovascular_disease": 277, "disease_name": "Lobar intracerebral hemorrhage due to cerebral amyloid angiopathy"}
+{"cardiovascular_disease": 278, "disease_name": "Subarachnoid hemorrhage due to ruptured berry aneurysm"}
+{"cardiovascular_disease": 279, "disease_name": "Cerebral venous sinus thrombosis of superior sagittal sinus"}
+{"cardiovascular_disease": 280, "disease_name": "Cerebral venous sinus thrombosis of transverse sinus"}
+{"cardiovascular_disease": 281, "disease_name": "Cortical vein thrombosis"}
+{"cardiovascular_disease": 282, "disease_name": "Essential (primary) hypertension"}
+{"cardiovascular_disease": 283, "disease_name": "Renovascular hypertension"}
+{"cardiovascular_disease": 284, "disease_name": "Primary aldosteronism-related hypertension"}
+{"cardiovascular_disease": 285, "disease_name": "Hypertensive emergency with acute heart failure"}
+{"cardiovascular_disease": 286, "disease_name": "Hypertensive emergency with encephalopathy"}
+{"cardiovascular_disease": 287, "disease_name": "Hypertensive emergency with acute aortic dissection"}
+{"cardiovascular_disease": 288, "disease_name": "Idiopathic pulmonary arterial hypertension"}
+{"cardiovascular_disease": 289, "disease_name": "Pulmonary arterial hypertension associated with connective tissue disease"}
+{"cardiovascular_disease": 290, "disease_name": "Pulmonary arterial hypertension associated with congenital heart disease"}
+{"cardiovascular_disease": 291, "disease_name": "Chronic thromboembolic pulmonary hypertension"}
+{"cardiovascular_disease": 292, "disease_name": "Pulmonary hypertension due to left-sided heart disease"}
+{"cardiovascular_disease": 293, "disease_name": "Pulmonary hypertension due to interstitial lung disease"}
+{"cardiovascular_disease": 294, "disease_name": "Pulmonary hypertension due to chronic hypoxia"}
+{"cardiovascular_disease": 295, "disease_name": "Abdominal aortic aneurysm without rupture"}
+{"cardiovascular_disease": 296, "disease_name": "Abdominal aortic aneurysm with rupture"}
+{"cardiovascular_disease": 297, "disease_name": "Thoracic aortic aneurysm without rupture"}
+{"cardiovascular_disease": 298, "disease_name": "Thoracic aortic aneurysm with rupture"}
+{"cardiovascular_disease": 299, "disease_name": "Thoracoabdominal aortic aneurysm"}
+{"cardiovascular_disease": 300, "disease_name": "Ascending aortic dissection"}
+{"cardiovascular_disease": 301, "disease_name": "Type A aortic dissection"}
+{"cardiovascular_disease": 302, "disease_name": "Type B aortic dissection"}
+{"cardiovascular_disease": 303, "disease_name": "Infrarenal aortic occlusive disease"}
+{"cardiovascular_disease": 304, "disease_name": "Iliac artery occlusive disease"}
+{"cardiovascular_disease": 305, "disease_name": "Femoral artery occlusive disease"}
+{"cardiovascular_disease": 306, "disease_name": "Popliteal artery occlusive disease"}
+{"cardiovascular_disease": 307, "disease_name": "Critical limb ischemia due to peripheral arterial disease"}
+{"cardiovascular_disease": 308, "disease_name": "Acute limb ischemia due to arterial embolism"}
+{"cardiovascular_disease": 309, "disease_name": "Blue toe syndrome due to cholesterol embolization"}
+{"cardiovascular_disease": 310, "disease_name": "Atheroembolism to lower extremity arteries"}
+{"cardiovascular_disease": 311, "disease_name": "Thrombosis of popliteal artery aneurysm"}
+{"cardiovascular_disease": 312, "disease_name": "Subclavian steal syndrome"}
+{"cardiovascular_disease": 313, "disease_name": "Vertebral artery stenosis"}
+{"cardiovascular_disease": 314, "disease_name": "Carotid artery stenosis"}
+{"cardiovascular_disease": 315, "disease_name": "Carotid artery occlusion"}
+{"cardiovascular_disease": 316, "disease_name": "Spontaneous cervical carotid artery dissection"}
+{"cardiovascular_disease": 317, "disease_name": "Spontaneous cervical vertebral artery dissection"}
+{"cardiovascular_disease": 318, "disease_name": "Fibromuscular dysplasia of renal artery"}
+{"cardiovascular_disease": 319, "disease_name": "Fibromuscular dysplasia of carotid artery"}
+{"cardiovascular_disease": 320, "disease_name": "Mesenteric ischemia due to superior mesenteric artery thrombosis"}
+{"cardiovascular_disease": 321, "disease_name": "Chronic mesenteric ischemia due to atherosclerosis"}
+{"cardiovascular_disease": 322, "disease_name": "Renal artery stenosis due to atherosclerosis"}
+{"cardiovascular_disease": 323, "disease_name": "Renal artery stenosis due to fibromuscular dysplasia"}
+{"cardiovascular_disease": 324, "disease_name": "Atherosclerosis of common carotid artery"}
+{"cardiovascular_disease": 325, "disease_name": "Atherosclerosis of internal carotid artery"}
+{"cardiovascular_disease": 326, "disease_name": "Atherosclerosis of external carotid artery"}
+{"cardiovascular_disease": 327, "disease_name": "Atherosclerosis of vertebral artery"}
+{"cardiovascular_disease": 328, "disease_name": "Atherosclerosis of basilar artery"}
+{"cardiovascular_disease": 329, "disease_name": "Atherosclerosis of subclavian artery"}
+{"cardiovascular_disease": 330, "disease_name": "Atherosclerosis of axillary artery"}
+{"cardiovascular_disease": 331, "disease_name": "Atherosclerosis of brachial artery"}
+{"cardiovascular_disease": 332, "disease_name": "Atherosclerosis of radial artery"}
+{"cardiovascular_disease": 333, "disease_name": "Atherosclerosis of ulnar artery"}
+{"cardiovascular_disease": 334, "disease_name": "Atherosclerosis of celiac artery"}
+{"cardiovascular_disease": 335, "disease_name": "Atherosclerosis of superior mesenteric artery"}
+{"cardiovascular_disease": 336, "disease_name": "Atherosclerosis of inferior mesenteric artery"}
+{"cardiovascular_disease": 337, "disease_name": "Atherosclerosis of renal artery"}
+{"cardiovascular_disease": 338, "disease_name": "Atherosclerosis of common iliac artery"}
+{"cardiovascular_disease": 339, "disease_name": "Atherosclerosis of external iliac artery"}
+{"cardiovascular_disease": 340, "disease_name": "Atherosclerosis of internal iliac artery"}
+{"cardiovascular_disease": 341, "disease_name": "Atherosclerosis of common femoral artery"}
+{"cardiovascular_disease": 342, "disease_name": "Atherosclerosis of superficial femoral artery"}
+{"cardiovascular_disease": 343, "disease_name": "Atherosclerosis of deep femoral artery"}
+{"cardiovascular_disease": 344, "disease_name": "Atherosclerosis of popliteal artery"}
+{"cardiovascular_disease": 345, "disease_name": "Atherosclerosis of anterior tibial artery"}
+{"cardiovascular_disease": 346, "disease_name": "Atherosclerosis of posterior tibial artery"}
+{"cardiovascular_disease": 347, "disease_name": "Atherosclerosis of peroneal artery"}
+{"cardiovascular_disease": 348, "disease_name": "Aneurysm of popliteal artery"}
+{"cardiovascular_disease": 349, "disease_name": "Aneurysm of common femoral artery"}
+{"cardiovascular_disease": 350, "disease_name": "Aneurysm of internal carotid artery"}
+{"cardiovascular_disease": 351, "disease_name": "Aneurysm of vertebral artery"}
+{"cardiovascular_disease": 352, "disease_name": "Aneurysm of renal artery"}
+{"cardiovascular_disease": 353, "disease_name": "Aneurysm of splenic artery"}
+{"cardiovascular_disease": 354, "disease_name": "Chronic total occlusion of common femoral artery"}
+{"cardiovascular_disease": 355, "disease_name": "Chronic total occlusion of superficial femoral artery"}
+{"cardiovascular_disease": 356, "disease_name": "Chronic total occlusion of popliteal artery"}
+{"cardiovascular_disease": 357, "disease_name": "Chronic total occlusion of anterior tibial artery"}
+{"cardiovascular_disease": 358, "disease_name": "Chronic total occlusion of posterior tibial artery"}
+{"cardiovascular_disease": 359, "disease_name": "Chronic total occlusion of peroneal artery"}
+{"cardiovascular_disease": 360, "disease_name": "Critical limb ischemia of right iliac arteries due to atherosclerosis"}
+{"cardiovascular_disease": 361, "disease_name": "Critical limb ischemia of left iliac arteries due to atherosclerosis"}
+{"cardiovascular_disease": 362, "disease_name": "Critical limb ischemia of right femoral arteries due to atherosclerosis"}
+{"cardiovascular_disease": 363, "disease_name": "Critical limb ischemia of left femoral arteries due to atherosclerosis"}
+{"cardiovascular_disease": 364, "disease_name": "Critical limb ischemia of right popliteal arteries due to atherosclerosis"}
+{"cardiovascular_disease": 365, "disease_name": "Critical limb ischemia of left popliteal arteries due to atherosclerosis"}
+{"cardiovascular_disease": 366, "disease_name": "Critical limb ischemia of right tibial arteries due to atherosclerosis"}
+{"cardiovascular_disease": 367, "disease_name": "Critical limb ischemia of left tibial arteries due to atherosclerosis"}
+{"cardiovascular_disease": 368, "disease_name": "Critical limb ischemia of right peroneal arteries due to atherosclerosis"}
+{"cardiovascular_disease": 369, "disease_name": "Critical limb ischemia of left peroneal arteries due to atherosclerosis"}
+{"cardiovascular_disease": 370, "disease_name": "Critical limb ischemia of right pedal arteries due to atherosclerosis"}
+{"cardiovascular_disease": 371, "disease_name": "Critical limb ischemia of left pedal arteries due to atherosclerosis"}
+{"cardiovascular_disease": 372, "disease_name": "Ischemic ulcer of lower extremity due to peripheral arterial disease"}
+{"cardiovascular_disease": 373, "disease_name": "Gangrene of toe due to peripheral arterial disease"}
+{"cardiovascular_disease": 374, "disease_name": "Proximal deep vein thrombosis of femoral vein"}
+{"cardiovascular_disease": 375, "disease_name": "Distal deep vein thrombosis of calf veins"}
+{"cardiovascular_disease": 376, "disease_name": "Iliac vein thrombosis"}
+{"cardiovascular_disease": 377, "disease_name": "Inferior vena cava thrombosis"}
+{"cardiovascular_disease": 378, "disease_name": "Upper extremity deep vein thrombosis"}
+{"cardiovascular_disease": 379, "disease_name": "Catheter-associated deep vein thrombosis"}
+{"cardiovascular_disease": 380, "disease_name": "Acute deep vein thrombosis of great saphenous vein"}
+{"cardiovascular_disease": 381, "disease_name": "Acute deep vein thrombosis of small saphenous vein"}
+{"cardiovascular_disease": 382, "disease_name": "Acute deep vein thrombosis of popliteal vein"}
+{"cardiovascular_disease": 383, "disease_name": "Acute deep vein thrombosis of femoral vein"}
+{"cardiovascular_disease": 384, "disease_name": "Acute deep vein thrombosis of common iliac vein"}
+{"cardiovascular_disease": 385, "disease_name": "Acute deep vein thrombosis of subclavian vein"}
+{"cardiovascular_disease": 386, "disease_name": "Acute deep vein thrombosis of axillary vein"}
+{"cardiovascular_disease": 387, "disease_name": "Acute deep vein thrombosis of brachial vein"}
+{"cardiovascular_disease": 388, "disease_name": "Chronic post-thrombotic change of great saphenous vein"}
+{"cardiovascular_disease": 389, "disease_name": "Chronic post-thrombotic change of small saphenous vein"}
+{"cardiovascular_disease": 390, "disease_name": "Chronic post-thrombotic change of popliteal vein"}
+{"cardiovascular_disease": 391, "disease_name": "Chronic post-thrombotic change of femoral vein"}
+{"cardiovascular_disease": 392, "disease_name": "Chronic post-thrombotic change of common iliac vein"}
+{"cardiovascular_disease": 393, "disease_name": "Chronic post-thrombotic change of subclavian vein"}
+{"cardiovascular_disease": 394, "disease_name": "Chronic post-thrombotic change of axillary vein"}
+{"cardiovascular_disease": 395, "disease_name": "Chronic post-thrombotic change of brachial vein"}
+{"cardiovascular_disease": 396, "disease_name": "Chronic venous insufficiency of lower extremities"}
+{"cardiovascular_disease": 397, "disease_name": "Varicose veins of lower extremities with ulcer"}
+{"cardiovascular_disease": 398, "disease_name": "Varicose veins of right lower extremity with pain"}
+{"cardiovascular_disease": 399, "disease_name": "Varicose veins of left lower extremity with edema"}
+{"cardiovascular_disease": 400, "disease_name": "Varicose veins of both lower extremities with inflammation"}
+{"cardiovascular_disease": 401, "disease_name": "Superficial thrombophlebitis of great saphenous vein"}
+{"cardiovascular_disease": 402, "disease_name": "Post-thrombotic syndrome of lower extremity"}
+{"cardiovascular_disease": 403, "disease_name": "Chronic venous ulcer of medial malleolus"}
+{"cardiovascular_disease": 404, "disease_name": "Chronic venous ulcer of lateral malleolus"}
+{"cardiovascular_disease": 405, "disease_name": "Phlegmasia alba dolens"}
+{"cardiovascular_disease": 406, "disease_name": "Phlegmasia cerulea dolens"}
+{"cardiovascular_disease": 407, "disease_name": "May-Thurner syndrome"}
+{"cardiovascular_disease": 408, "disease_name": "Paget-Schroetter syndrome"}
+{"cardiovascular_disease": 409, "disease_name": "Nutcracker syndrome of left renal vein"}
+{"cardiovascular_disease": 410, "disease_name": "Primary congenital lymphedema"}
+{"cardiovascular_disease": 411, "disease_name": "Primary lymphedema praecox"}
+{"cardiovascular_disease": 412, "disease_name": "Primary lymphedema tarda"}
+{"cardiovascular_disease": 413, "disease_name": "Secondary lymphedema after lymph node dissection"}
+{"cardiovascular_disease": 414, "disease_name": "Lymphangiectasia of lower extremity"}
+{"cardiovascular_disease": 415, "disease_name": "Lymphangiectasia of upper extremity"}
+{"cardiovascular_disease": 416, "disease_name": "Primary intestinal lymphangiectasia"}
+{"cardiovascular_disease": 417, "disease_name": "Lymphangioleiomyomatosis with chylous pleural effusion"}
+{"cardiovascular_disease": 418, "disease_name": "Lymphatic malformation of axillary region"}
+{"cardiovascular_disease": 419, "disease_name": "Lymphatic malformation of mediastinum"}
+{"cardiovascular_disease": 420, "disease_name": "Lymphangitis"}
+{"cardiovascular_disease": 421, "disease_name": "Acute pulmonary embolism with acute cor pulmonale"}
+{"cardiovascular_disease": 422, "disease_name": "Submassive pulmonary embolism with right ventricular dysfunction"}
+{"cardiovascular_disease": 423, "disease_name": "Recurrent pulmonary embolism"}
+{"cardiovascular_disease": 424, "disease_name": "Saddle pulmonary embolism"}
+{"cardiovascular_disease": 425, "disease_name": "Segmental pulmonary embolism"}
+{"cardiovascular_disease": 426, "disease_name": "Subsegmental pulmonary embolism"}
+{"cardiovascular_disease": 427, "disease_name": "Chronic thromboembolic disease of pulmonary arteries without pulmonary hypertension"}
+{"cardiovascular_disease": 428, "disease_name": "In situ thrombosis of pulmonary artery"}
+{"cardiovascular_disease": 429, "disease_name": "Chronic thromboembolic pulmonary hypertension with right heart failure"}
+{"cardiovascular_disease": 430, "disease_name": "Chronic cor pulmonale due to chronic obstructive pulmonary disease"}
+{"cardiovascular_disease": 431, "disease_name": "Acute cor pulmonale due to massive pulmonary embolism"}
+{"cardiovascular_disease": 432, "disease_name": "Pulmonary veno-occlusive disease"}
+{"cardiovascular_disease": 433, "disease_name": "Pulmonary capillary hemangiomatosis"}
+{"cardiovascular_disease": 434, "disease_name": "Giant cell arteritis"}
+{"cardiovascular_disease": 435, "disease_name": "Takayasu arteritis"}
+{"cardiovascular_disease": 436, "disease_name": "Polyarteritis nodosa"}
+{"cardiovascular_disease": 437, "disease_name": "Microscopic polyangiitis"}
+{"cardiovascular_disease": 438, "disease_name": "Granulomatosis with polyangiitis"}
+{"cardiovascular_disease": 439, "disease_name": "Eosinophilic granulomatosis with polyangiitis"}
+{"cardiovascular_disease": 440, "disease_name": "IgA vasculitis"}
+{"cardiovascular_disease": 441, "disease_name": "Hypocomplementemic urticarial vasculitis"}
+{"cardiovascular_disease": 442, "disease_name": "Behcet disease with vascular involvement"}
+{"cardiovascular_disease": 443, "disease_name": "Kawasaki disease with coronary artery aneurysms"}
+{"cardiovascular_disease": 444, "disease_name": "Thromboangiitis obliterans"}
+{"cardiovascular_disease": 445, "disease_name": "Primary angiitis of the central nervous system"}
+{"cardiovascular_disease": 446, "disease_name": "Cryoglobulinemic vasculitis"}
+{"cardiovascular_disease": 447, "disease_name": "Hepatitis B-associated polyarteritis nodosa"}
+{"cardiovascular_disease": 448, "disease_name": "Hepatitis C-associated cryoglobulinemic vasculitis"}
+{"cardiovascular_disease": 449, "disease_name": "Anti-glomerular basement membrane vasculitis with pulmonary hemorrhage"}
+{"cardiovascular_disease": 450, "disease_name": "Cogan syndrome with aortitis"}
+{"cardiovascular_disease": 451, "disease_name": "Aortitis in ankylosing spondylitis"}
+{"cardiovascular_disease": 452, "disease_name": "Aortitis in rheumatoid arthritis"}
+{"cardiovascular_disease": 453, "disease_name": "Syphilitic aortitis"}
+{"cardiovascular_disease": 454, "disease_name": "Infectious aortitis due to Salmonella"}
+{"cardiovascular_disease": 455, "disease_name": "Infectious aortitis due to Staphylococcus aureus"}
+{"cardiovascular_disease": 456, "disease_name": "ANCA-associated vasculitis with pulmonary capillaritis"}
+{"cardiovascular_disease": 457, "disease_name": "Primary large-vessel vasculitis overlapping giant cell arteritis and Takayasu arteritis"}
+{"cardiovascular_disease": 458, "disease_name": "Acute rheumatic fever with carditis"}
+{"cardiovascular_disease": 459, "disease_name": "Chronic rheumatic mitral valve disease"}
+{"cardiovascular_disease": 460, "disease_name": "Rheumatic pulmonary valve disease"}
+{"cardiovascular_disease": 461, "disease_name": "Cardiac rhabdomyoma"}
+{"cardiovascular_disease": 462, "disease_name": "Cardiac fibroma"}
+{"cardiovascular_disease": 463, "disease_name": "Papillary fibroelastoma of aortic valve"}
+{"cardiovascular_disease": 464, "disease_name": "Papillary fibroelastoma of mitral valve"}
+{"cardiovascular_disease": 465, "disease_name": "Left atrial myxoma"}
+{"cardiovascular_disease": 466, "disease_name": "Right atrial myxoma"}
+{"cardiovascular_disease": 467, "disease_name": "Primary cardiac sarcoma"}
+{"cardiovascular_disease": 468, "disease_name": "Cardiac involvement in systemic amyloidosis"}
+{"cardiovascular_disease": 469, "disease_name": "Cardiac involvement in systemic sclerosis"}
+{"cardiovascular_disease": 470, "disease_name": "Cardiac involvement in sarcoidosis with conduction disease"}
+{"cardiovascular_disease": 471, "disease_name": "Pulmonary hypertension due to sarcoidosis"}
+{"cardiovascular_disease": 472, "disease_name": "Pulmonary hypertension due to sickle cell disease"}
+{"cardiovascular_disease": 473, "disease_name": "Pulmonary hypertension due to portal hypertension"}
+{"cardiovascular_disease": 474, "disease_name": "Post-cardiac arrest syndrome"}
+{"cardiovascular_disease": 475, "disease_name": "Postpericardiotomy syndrome"}
+{"cardiovascular_disease": 476, "disease_name": "Ventricular outflow tract obstruction due to hypertrophic cardiomyopathy"}
+{"cardiovascular_disease": 477, "disease_name": "Left ventricular outflow tract obstruction due to subaortic membrane"}
+{"cardiovascular_disease": 478, "disease_name": "Cardiac tamponade due to malignancy"}
+{"cardiovascular_disease": 479, "disease_name": "Cardiac tamponade due to post-surgical bleeding"}
+{"cardiovascular_disease": 480, "disease_name": "Chronic ischemic mitral regurgitation"}
+{"cardiovascular_disease": 481, "disease_name": "Isolated tricuspid regurgitation due to pacemaker lead injury"}
+{"cardiovascular_disease": 482, "disease_name": "Pulmonary valve regurgitation due to endocarditis"}
+{"cardiovascular_disease": 483, "disease_name": "Coronary artery disease in diabetes mellitus"}
+{"cardiovascular_disease": 484, "disease_name": "Coronary artery disease in chronic kidney disease"}
+{"cardiovascular_disease": 485, "disease_name": "Cardiac conduction system disease in muscular dystrophy"}
+{"cardiovascular_disease": 486, "disease_name": "Cardiac conduction system disease after cardiac surgery"}
+{"cardiovascular_disease": 487, "disease_name": "Heart failure due to valvular heart disease"}
+{"cardiovascular_disease": 488, "disease_name": "Heart failure due to congenital heart disease"}
+{"cardiovascular_disease": 489, "disease_name": "Heart failure due to cardiomyopathy"}
+{"cardiovascular_disease": 490, "disease_name": "Ischemic stroke due to carotid artery dissection"}
+{"cardiovascular_disease": 491, "disease_name": "Ischemic stroke due to cardioembolism from left ventricular thrombus"}
+{"cardiovascular_disease": 492, "disease_name": "Ischemic stroke due to patent foramen ovale paradoxical embolism"}
+{"cardiovascular_disease": 493, "disease_name": "Hemorrhagic transformation of ischemic stroke"}
+{"cardiovascular_disease": 494, "disease_name": "Hypertensive intracerebral hemorrhage of basal ganglia"}
+{"cardiovascular_disease": 495, "disease_name": "Hypertensive intracerebral hemorrhage of thalamus"}
+{"cardiovascular_disease": 496, "disease_name": "Acute aortic syndrome due to intramural hematoma"}
+{"cardiovascular_disease": 497, "disease_name": "Acute aortic syndrome due to penetrating atherosclerotic ulcer"}
+{"cardiovascular_disease": 498, "disease_name": "Pulmonary hemorrhage due to small vessel vasculitis"}
+{"cardiovascular_disease": 499, "disease_name": "Pulmonary hemorrhage due to mitral stenosis"}
+{"cardiovascular_disease": 500, "disease_name": "Vascular involvement in neurofibromatosis type 1"}
+{"cardiovascular_disease": 501, "disease_name": "Coarctation-associated systemic hypertension"}
+{"cardiovascular_disease": 502, "disease_name": "Myocardial ischemia due to coronary embolism from atrial myxoma"}
+{"cardiovascular_disease": 503, "disease_name": "Myocardial ischemia due to coronary artery vasculitis"}
+{"cardiovascular_disease": 504, "disease_name": "Peripheral arterial disease in diabetes mellitus"}
+{"cardiovascular_disease": 505, "disease_name": "Peripheral arterial disease in smokers"}
+{"cardiovascular_disease": 506, "disease_name": "Chronic venous insufficiency after deep vein thrombosis"}
+{"cardiovascular_disease": 507, "disease_name": "Post-thrombotic syndrome with venous claudication"}
+{"cardiovascular_disease": 508, "disease_name": "Hypertrophic obstructive cardiomyopathy with systolic anterior motion of mitral valve"}
+{"cardiovascular_disease": 509, "disease_name": "Apical ballooning syndrome"}
+{"cardiovascular_disease": 510, "disease_name": "Pulmonary arteriovenous malformation"}
+{"cardiovascular_disease": 511, "disease_name": "Hereditary hemorrhagic telangiectasia with pulmonary AV malformations"}
+{"cardiovascular_disease": 512, "disease_name": "Aortic coarctation with collateral circulation"}
+{"cardiovascular_disease": 513, "disease_name": "Aortic aneurysm in Marfan syndrome"}
+{"cardiovascular_disease": 514, "disease_name": "Aortic aneurysm in bicuspid aortic valve disease"}
+{"cardiovascular_disease": 515, "disease_name": "Coronary artery disease after heart transplantation"}
+{"cardiovascular_disease": 516, "disease_name": "Cardiac allograft vasculopathy"}
+{"cardiovascular_disease": 517, "disease_name": "Cardiac involvement in amyloid light-chain disease"}
+{"cardiovascular_disease": 518, "disease_name": "Cardiac involvement in transthyretin amyloidosis"}
+{"cardiovascular_disease": 519, "disease_name": "Hypertensive cardiomyopathy with diastolic dysfunction"}
+{"cardiovascular_disease": 520, "disease_name": "Hypertensive cardiomyopathy with systolic dysfunction"}
+{"cardiovascular_disease": 521, "disease_name": "Myocardial ischemia due to severe aortic stenosis"}
+{"cardiovascular_disease": 522, "disease_name": "Syncope due to aortic stenosis-related low cardiac output"}
+{"cardiovascular_disease": 523, "disease_name": "Syncope due to arrhythmogenic right ventricular cardiomyopathy"}
+{"cardiovascular_disease": 524, "disease_name": "Syncope due to long QT syndrome"}
+{"cardiovascular_disease": 525, "disease_name": "Ischemic stroke due to atrial fibrillation in hypertrophic cardiomyopathy"}
+{"cardiovascular_disease": 526, "disease_name": "Ischemic stroke due to atrial fibrillation in rheumatic mitral stenosis"}
+{"cardiovascular_disease": 527, "disease_name": "Cardiac thrombus in left ventricular aneurysm"}
+{"cardiovascular_disease": 528, "disease_name": "Right atrial thrombus in atrial fibrillation"}
+{"cardiovascular_disease": 529, "disease_name": "Myocardial ischemia due to coronary steal via arteriovenous malformation"}
+{"cardiovascular_disease": 530, "disease_name": "Myocardial ischemia due to coronary ostial stenosis after aortic root surgery"}
+{"cardiovascular_disease": 531, "disease_name": "Pulmonary embolism in pregnancy"}
+{"cardiovascular_disease": 532, "disease_name": "Deep vein thrombosis in pregnancy"}
+{"cardiovascular_disease": 533, "disease_name": "Cardiac involvement in systemic lupus erythematosus"}
+{"cardiovascular_disease": 534, "disease_name": "Cardiac involvement in rheumatoid arthritis"}
+{"cardiovascular_disease": 535, "disease_name": "Atherosclerotic renal artery stenosis causing secondary hypertension"}
+{"cardiovascular_disease": 536, "disease_name": "Fibromuscular dysplasia renal artery stenosis causing secondary hypertension"}
+{"cardiovascular_disease": 537, "disease_name": "Carotid artery dissection-related transient ischemic attack"}
+{"cardiovascular_disease": 538, "disease_name": "Cerebral venous sinus thrombosis with intracranial hypertension"}
+{"cardiovascular_disease": 539, "disease_name": "Pulmonary hypertension due to chronic obstructive pulmonary disease"}
+{"cardiovascular_disease": 540, "disease_name": "Pulmonary hypertension due to obstructive sleep apnea"}
+{"cardiovascular_disease": 541, "disease_name": "Chronic cor pulmonale due to interstitial lung disease"}
+{"cardiovascular_disease": 542, "disease_name": "Chronic cor pulmonale due to obesity hypoventilation syndrome"}
+{"cardiovascular_disease": 543, "disease_name": "Peripheral arterial disease with intermittent claudication"}
+{"cardiovascular_disease": 544, "disease_name": "Peripheral arterial disease with rest pain"}
+{"cardiovascular_disease": 545, "disease_name": "Arterial thrombosis in antiphospholipid syndrome"}
+{"cardiovascular_disease": 546, "disease_name": "Venous thrombosis in antiphospholipid syndrome"}
+{"cardiovascular_disease": 547, "disease_name": "Coronary thrombosis in antiphospholipid syndrome"}
+{"cardiovascular_disease": 548, "disease_name": "Cardiac valve vegetations in antiphospholipid syndrome"}
+{"cardiovascular_disease": 549, "disease_name": "Mitral annular calcification with conduction system disease"}
+{"cardiovascular_disease": 550, "disease_name": "Aortic valve calcification with conduction system disease"}
+{"cardiovascular_disease": 551, "disease_name": "Right ventricular failure due to pulmonary hypertension"}
+{"cardiovascular_disease": 552, "disease_name": "Right ventricular failure due to pulmonary embolism"}
+{"cardiovascular_disease": 553, "disease_name": "Peripheral arterial aneurysm in Behcet disease"}
+{"cardiovascular_disease": 554, "disease_name": "Coronary arteritis in Kawasaki disease"}
+{"cardiovascular_disease": 555, "disease_name": "Coronary arteritis in polyarteritis nodosa"}
+{"cardiovascular_disease": 556, "disease_name": "Pulmonary artery aneurysm in Behcet disease"}
+{"cardiovascular_disease": 557, "disease_name": "Renal artery aneurysm in polyarteritis nodosa"}
+{"cardiovascular_disease": 558, "disease_name": "Cardiac tamponade due to malignant pericardial effusion"}
+{"cardiovascular_disease": 559, "disease_name": "Cardiac tamponade due to uremic pericarditis"}
+{"cardiovascular_disease": 560, "disease_name": "Myocardial ischemia due to coronary vasospasm in variant angina"}
+{"cardiovascular_disease": 561, "disease_name": "Myocardial ischemia due to microvascular dysfunction"}
+{"cardiovascular_disease": 562, "disease_name": "Chronic heart failure due to ischemic cardiomyopathy"}
+{"cardiovascular_disease": 563, "disease_name": "Chronic heart failure due to dilated cardiomyopathy"}
+{"cardiovascular_disease": 564, "disease_name": "Atrial fibrillation in hypertrophic cardiomyopathy"}
+{"cardiovascular_disease": 565, "disease_name": "Atrial fibrillation in heart failure with preserved ejection fraction"}
+{"cardiovascular_disease": 566, "disease_name": "Left ventricular thrombus after anterior myocardial infarction"}
+{"cardiovascular_disease": 567, "disease_name": "Right ventricular infarction with hypotension"}
+{"cardiovascular_disease": 568, "disease_name": "Inferior wall myocardial infarction with atrioventricular block"}
+{"cardiovascular_disease": 569, "disease_name": "Anterior wall myocardial infarction with left ventricular failure"}
+{"cardiovascular_disease": 570, "disease_name": "Mitral regurgitation due to ischemic papillary muscle dysfunction"}
+{"cardiovascular_disease": 571, "disease_name": "Functional tricuspid regurgitation due to pulmonary hypertension"}
+{"cardiovascular_disease": 572, "disease_name": "Functional tricuspid regurgitation due to left-sided heart disease"}
+{"cardiovascular_disease": 573, "disease_name": "Peripheral arterial disease with critical limb ischemia of right leg"}
+{"cardiovascular_disease": 574, "disease_name": "Peripheral arterial disease with critical limb ischemia of left leg"}
+{"cardiovascular_disease": 575, "disease_name": "Cerebral aneurysm of anterior communicating artery"}
+{"cardiovascular_disease": 576, "disease_name": "Cerebral aneurysm of middle cerebral artery"}
+{"cardiovascular_disease": 577, "disease_name": "Subarachnoid hemorrhage due to anterior communicating artery aneurysm"}
+{"cardiovascular_disease": 578, "disease_name": "Subarachnoid hemorrhage due to middle cerebral artery aneurysm"}
+{"cardiovascular_disease": 579, "disease_name": "Peripheral arterial disease with ischemic rest pain of right foot"}
+{"cardiovascular_disease": 580, "disease_name": "Peripheral arterial disease with ischemic rest pain of left foot"}
+{"cardiovascular_disease": 581, "disease_name": "Chronic venous insufficiency with lipodermatosclerosis"}
+{"cardiovascular_disease": 582, "disease_name": "Chronic venous insufficiency with stasis dermatitis"}
+{"cardiovascular_disease": 583, "disease_name": "Hypertrophied ligamentum arteriosum causing left pulmonary artery stenosis"}
+{"cardiovascular_disease": 584, "disease_name": "Pulmonary artery banding-related pulmonary artery stenosis"}
+{"cardiovascular_disease": 585, "disease_name": "Coronary ostial stenosis after aortic root replacement"}
+{"cardiovascular_disease": 586, "disease_name": "Coronary ostial stenosis in Takayasu arteritis"}
+{"cardiovascular_disease": 587, "disease_name": "Cardiac involvement in hypereosinophilic syndrome"}
+{"cardiovascular_disease": 588, "disease_name": "Endomyocardial fibrosis in hypereosinophilic syndrome"}
+{"cardiovascular_disease": 589, "disease_name": "Myocardial ischemia due to severe hypertrophic obstructive cardiomyopathy"}
+{"cardiovascular_disease": 590, "disease_name": "Syncope due to outflow tract obstruction in hypertrophic cardiomyopathy"}
+{"cardiovascular_disease": 591, "disease_name": "Right ventricular failure after left ventricular assist device implantation"}
+{"cardiovascular_disease": 592, "disease_name": "Pulmonary hypertension due to chronic thromboembolic disease"}
